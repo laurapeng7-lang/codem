@@ -1,0 +1,31 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "135:65665",
+  "note": "Original SVG_STRING exports from Figma nodes, unchanged bytes.",
+  "assets": [
+    {
+      "file": "download.svg",
+      "nodeId": "135:66340",
+      "bytes": 931,
+      "sha256": "ade7a114897f856df38979a65b994b5ef9389186cc4bd2ad779ee2f8a9813acf"
+    },
+    {
+      "file": "run.svg",
+      "nodeId": "135:66330",
+      "bytes": 780,
+      "sha256": "eceb5f51bb4ffd0b235c19e84f8158622898adb62a880b285885f7c89e67d601"
+    },
+    {
+      "file": "publish.svg",
+      "nodeId": "135:66320",
+      "bytes": 931,
+      "sha256": "0e0259755941f3f80fc5f98c823112e34180e7eadfae01c9a952631f8f83b0dd"
+    },
+    {
+      "file": "divider.svg",
+      "nodeId": "135:65714",
+      "bytes": 194,
+      "sha256": "56f3edbfe1c234e9faed8e76220f6fc173a32700fd087c22cad16da5f09708e4"
+    }
+  ]
+}

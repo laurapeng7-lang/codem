@@ -1,0 +1,28 @@
+.preview-panel { container: report-preview / inline-size; }
+.preview-toolbar .segmented-control { flex-shrink: 0; }
+.preview-toolbar .segmented-control .selected { letter-spacing: .28px; }
+.preview-toolbar-actions { display: flex; justify-content: flex-end; align-items: center; gap: 8px; flex: 0 0 auto; margin-left: auto; }
+.icon-button.report-theme-trigger { border: 1px solid rgba(0, 0, 0, .08); border-radius: 999px; }
+.icon-button.report-actions-trigger { border-radius: 999px; }
+.report-theme-trigger[aria-expanded="true"] { background: var(--fill); }
+.preview-toolbar .segmented-control button:disabled, .report-theme-trigger:disabled { opacity: .45; }
+.report-theme-panel { position: absolute; z-index: 40; top: calc(100% + 4px); right: 12px; width: 320px; max-width: calc(100% - 24px); padding: 12px; border: 1px solid rgba(0, 0, 0, .12); border-radius: 12px; background: #fff; box-shadow: 0 8px 24px #1f232918, 0 2px 6px #1f232908; }
+.report-theme-heading { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+.report-theme-heading h2 { font-size: 14px; font-weight: 500; line-height: 20px; }
+.report-theme-heading .icon-button { width: 24px; height: 24px; }
+.report-theme-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; max-height: min(360px, calc(100dvh - 200px)); overflow-y: auto; overscroll-behavior: contain; padding: 2px; }
+.report-theme-option { min-width: 0; padding: 5px; border: 1px solid transparent; border-radius: 8px; text-align: center; }
+.report-theme-option:hover { background: var(--fill); }
+.report-theme-option[aria-pressed="true"] { border-color: #8070e9; background: #f5f3ff; }
+.report-theme-option:focus-visible { outline-offset: 0; }
+.report-theme-swatch { display: flex; align-items: center; gap: 8px; height: 28px; padding: 5px 8px; border: 1px solid rgba(0, 0, 0, .06); border-radius: 4px; font: 500 12px/16px Inter, sans-serif; }
+.report-theme-accent { width: 14px; height: 14px; border-radius: 3px; }
+.report-theme-label { display: block; margin-top: 5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12px; line-height: 18px; }
+.preview-toolbar.is-presenting { background: #141519; border-bottom-color: #ffffff1f; }
+.preview-toolbar.is-presenting .segmented-control { background: #ffffff0f; }
+.preview-toolbar.is-presenting .segmented-control button { color: #fff; }
+.preview-toolbar.is-presenting .segmented-control button.selected { background: #34363c; border-color: #ffffff1f; box-shadow: none; }
+.preview-toolbar.is-presenting .report-theme-trigger { border-color: #ffffff26; }
+.preview-toolbar.is-presenting .preview-toolbar-actions .icon { filter: brightness(0) invert(1); }
+.preview-toolbar.is-presenting .preview-toolbar-actions > button:hover,
+.preview-toolbar.is-presenting .report-theme-trigger[aria-expanded="true"] { background: #ffffff1a; }

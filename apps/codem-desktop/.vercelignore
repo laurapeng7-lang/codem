@@ -1,0 +1,16 @@
+.git/
+.vercel/
+node_modules/
+dist/
+design/
+output/
+.playwright-cli/
+scripts/
+AGENTS.md
+README.md
+*.tsbuildinfo
+*.log
+.DS_Store
+.env*
+public/assets/figma/provenance.json
+public/reports/provenance.json

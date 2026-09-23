@@ -1,0 +1,63 @@
+.codem-automations-scroll { height: 100%; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: none; }
+.codem-automations-workspace.has-detail { gap: 6px; }
+.codem-automations-scroll::-webkit-scrollbar { display: none; }
+.codem-automations-content { width: min(802px, calc(100% - 48px)); margin-inline: auto; padding: 27.5px 0 40px; }
+.codem-automations-content > h1 { margin: 0 0 30px 1px; font-size: 16px; line-height: 22px; font-weight: 600; }
+.codem-automations-tabs { display: flex; width: min(364px, 100%); height: 32px; margin: 0 auto 24px; padding: 2px; border-radius: 999px; background: rgba(143,149,158,.08); }
+.codem-automations-tabs > button { flex: 1; min-width: 0; padding: 3px 10px; border-radius: 999px; color: rgba(31,35,41,.6); font: 400 14px/22px Inter, "PingFang SC", -apple-system, sans-serif; }
+.codem-automations-tabs > button:hover { color: #1f2329; }
+.codem-automations-tabs > button[aria-selected="true"] { background: #fff; color: #1f2329; font-weight: 500; box-shadow: inset 0 0 0 .5px rgba(43,47,54,.06), 0 3px 3px rgba(0,0,0,.04); }
+.codem-automations-results:focus-visible { outline: 2px solid #8070e9; outline-offset: 4px; border-radius: 16px; }
+.codem-automations-body { display: flex; flex-direction: column; gap: 24px; }
+.codem-automations-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.codem-automations-creator-filter { display: inline-flex; align-items: center; justify-content: space-between; gap: 6px; width: 120px; height: 36px; padding: 7px 10px 7px 12px; border-radius: 6px; color: #1f2329; box-shadow: inset 0 0 0 1px rgba(0,0,0,.08); font: 400 14px/22px Inter, "PingFang SC", -apple-system, sans-serif; }
+.codem-automations-creator-filter:hover, .codem-automations-creator-filter[data-state="open"] { background: rgba(43,47,54,.04); }
+.codem-automations-creator-filter > svg { flex: 0 0 16px; color: rgba(31,35,41,.7); }
+.codem-automations-create-wrap { position: relative; }
+.codem-automations-create { display: inline-flex; align-items: center; justify-content: center; gap: 8px; height: 36px; padding: 8px 12px; border: 1px solid #18181b; border-radius: 6px; background: #18181b; color: #fafafa; box-shadow: 0 1px 2px rgb(0 0 0 / .05); font-size: 14px; line-height: 20px; font-weight: 500; }
+.codem-automations-create > img { flex: 0 0 16px; }
+.codem-automations-create:hover, .codem-automations-create[aria-expanded="true"] { background: #333; }
+.codem-automations-create:active { background: #0a0a0a; }
+.codem-automations-create-menu { position: absolute; z-index: 10; top: calc(100% + 6px); right: 0; width: 168px; padding: 4px; border: 1px solid #e4e4e7; border-radius: 6px; background: #fff; box-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1); }
+.codem-automations-create-menu > button { display: flex; align-items: center; gap: 8px; width: 100%; height: 32px; padding: 5px 8px; border-radius: 4px; color: #09090b; font: 400 14px/22px Inter, "PingFang SC", -apple-system, sans-serif; text-align: left; }
+.codem-automations-create-menu > button:hover, .codem-automations-create-menu > button:focus-visible { outline: none; background: #f4f4f5; }
+.codem-automations-create-menu svg { flex: 0 0 16px; color: rgba(31,35,41,.7); }
+.codem-automation-group { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.codem-automation-group > h2 { display: flex; align-items: center; gap: 6px; height: 32px; padding: 0 8px; border-radius: 8px; color: #171717; font-size: 14px; line-height: 20px; font-weight: 400; }
+.codem-automation-group > h2 > span { display: grid; place-items: center; flex: 0 0 20px; height: 20px; }
+.codem-automation-tasks { width: min(798.75px, 100%); padding: 0; margin: 0; list-style: none; overflow: hidden; border-radius: 12px; box-shadow: 0 0 0 1px rgba(0,0,0,.08); }
+.codem-automation-task { display: flex; align-items: center; justify-content: space-between; gap: 20px; min-height: 74px; padding: 16px; }
+.codem-automation-task + .codem-automation-task { box-shadow: 0 -1px rgba(0,0,0,.08); }
+.codem-automation-task-info { display: flex; align-items: center; gap: 11px; flex: 1; min-width: 0; border-radius: 8px; text-align: left; }
+.codem-automation-task-info:focus-visible { outline: 2px solid #3250eb; outline-offset: 4px; }
+.codem-automation-task:hover, .codem-automation-task[data-selected="true"] { background: rgba(43,47,54,.025); }
+.codem-automation-task-icon { display: grid; place-items: center; flex: 0 0 32px; height: 32px; border: 1px solid rgba(0,0,0,.08); border-radius: 8px; background: #fafafa; }
+.codem-automation-task-copy { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.codem-automation-task-copy > h3 { overflow-wrap: anywhere; font: 500 14px/22px Inter, "PingFang SC", -apple-system, sans-serif; }
+.codem-automation-task-copy > p { display: flex; align-items: center; gap: 4px; min-width: 0; color: var(--app-secondary); font: 400 12px/17px Inter, "PingFang SC", -apple-system, sans-serif; white-space: nowrap; }
+.codem-automation-task-copy time { font-family: Inter, -apple-system, sans-serif; }
+.codem-automation-task-actions { display: flex; align-items: center; gap: 8px; flex: 0 0 auto; }
+.codem-automation-more { display: grid; place-items: center; width: 28px; height: 28px; border-radius: 6px; color: rgba(31,35,41,.7); }
+.codem-automation-more:hover, .codem-automation-more:focus-visible, .codem-automation-more[data-state="open"] { outline: none; background: rgba(43,47,54,.08); color: #1f2329; }
+.codem-automations-panel .settings-switch[aria-checked="false"] { background: rgba(143,149,158,.2); }
+.codem-automations-nav-toggle { position: absolute; top: 22px; left: 8px; z-index: 1; }
+.codem-automations-empty { padding: 48px 16px; color: var(--app-secondary); text-align: center; font-size: 14px; line-height: 22px; }
+.codem-automation-templates { display: flex; flex-direction: column; gap: 32px; width: min(800px, 100%); margin-inline: auto; }
+.codem-automation-template-group { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.codem-automation-template-group > h2 { display: flex; align-items: center; height: 24px; padding: 0 4px; color: rgba(31,35,41,.6); font: 500 14px/22px Inter, "PingFang SC", -apple-system, sans-serif; }
+.codem-automation-template-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 0; padding: 0; list-style: none; }
+.codem-automation-template-card { position: relative; display: flex; flex-direction: column; gap: 8px; min-width: 0; min-height: 152px; padding: 16px; border-radius: 16px; background: #fff; box-shadow: inset 0 0 0 .5px rgba(0,0,0,.18); }
+.codem-automation-template-heading { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
+.codem-automation-template-heading > img { display: block; width: 40px; height: 40px; object-fit: cover; }
+.codem-automation-template-heading > h3 { font: 500 14px/20px Inter, "PingFang SC", -apple-system, sans-serif; letter-spacing: .28px; }
+.codem-automation-template-card > p { color: rgba(31,35,41,.6); font: 400 12px/20px Inter, "PingFang SC", -apple-system, sans-serif; }
+.codem-automation-template-use { position: absolute; top: 16px; right: 16px; height: 32px; padding: 6px 12px; border-radius: 6px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.08); font: 500 14px/20px Inter, "PingFang SC", -apple-system, sans-serif; letter-spacing: .28px; opacity: 0; pointer-events: none; }
+.codem-automation-template-card:hover .codem-automation-template-use, .codem-automation-template-card:focus-within .codem-automation-template-use { opacity: 1; pointer-events: auto; }
+.codem-automation-template-use:hover { background: rgba(43,47,54,.04); }
+@media (hover: none) { .codem-automation-template-use { opacity: 1; pointer-events: auto; } }
+@media (min-width: 761px) and (max-width: 1100px) { .codem-automations-content > h1 { padding-left: 20px; } }
+@container (max-width: 643px) { .codem-automation-template-grid { grid-template-columns: minmax(0, 1fr); } }
+@container (max-width: 520px) {
+  .codem-automations-content { width: calc(100% - 32px); padding-top: 24px; }
+  .codem-automation-task { gap: 12px; }
+}

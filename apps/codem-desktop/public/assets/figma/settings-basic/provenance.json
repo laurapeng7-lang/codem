@@ -1,0 +1,92 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "171:6460",
+  "source": "https://www.figma.com/design/ijwAFgHcsNwcLoHFlCFFFX/vercel-playground?node-id=171-6460",
+  "assets": [
+    {
+      "file": "required.svg",
+      "sha256": "c08343fe1eea0e43d8e5ea666d30ab63bc3942760b996792b0df0ceba39a9ee6",
+      "bytes": 390
+    },
+    {
+      "file": "approver-li-tiantian.png",
+      "sha256": "4437076eab1d21ef7fd70323913546b6ca8654358bcbea8a2d28fee4cd9983cd",
+      "bytes": 3362
+    },
+    {
+      "file": "approver-li-mei.png",
+      "sha256": "d38d71617f627491909c2b827c51bc31737bf8c15b0ffae516c267d4ec530553",
+      "bytes": 3681
+    },
+    {
+      "file": "info.svg",
+      "sha256": "4616154217f9cdcde19134697cd232765d966f4a447d63bc7240d1752ef8fbd7",
+      "bytes": 1021
+    },
+    {
+      "file": "search.svg",
+      "sha256": "401defecbbdb577611e5434d9111b3e88c7aef18738619ed7b384e97e9c3c749",
+      "bytes": 872
+    },
+    {
+      "file": "more.svg",
+      "sha256": "a0198c98e0c9892f8f48193af632f054e8e151bcfeafd737fc039f405c43109d",
+      "bytes": 916
+    },
+    {
+      "file": "progress-partial.svg",
+      "sha256": "3b8652af5ffefd81601951e24733e294dbc6452365a5ceaa09107f099d6f2b33",
+      "bytes": 1824
+    },
+    {
+      "file": "progress-complete.svg",
+      "sha256": "3f750a8ba9a00bf2d380ef8732fb50c199ac36c36c7a2f25e5c37e88662016ef",
+      "bytes": 1824
+    },
+    {
+      "file": "select-chevron.svg",
+      "sha256": "51dbcd1934f599fd0ea4400f90ce1e3a66735989e48a89df3d316780052604e4",
+      "bytes": 621
+    },
+    {
+      "file": "handle.svg",
+      "sha256": "d3830fa5065234fcd6584acdcef969316f7c4a6655fcd6633d763e26c6b5812a",
+      "bytes": 1569
+    },
+    {
+      "file": "tree-triangle.svg",
+      "sha256": "6f136de827af8dca1e6f9acf3c7d9e35d3ea4ea1e5100dc1c394a81a9879dcad",
+      "bytes": 453
+    },
+    {
+      "file": "color-chevron.svg",
+      "sha256": "ab2b2c3e02a646eeb46382f39bb0e4698d37bb97be8c0763c4af0b0de57020fa",
+      "bytes": 436
+    },
+    {
+      "file": "setting.svg",
+      "sha256": "cb83f0313a33d951ae1e77be048a1f03785aeb64709148472d8df3fc55641f1b",
+      "bytes": 2236
+    },
+    {
+      "file": "tree-triangle-muted.svg",
+      "sha256": "b8f426f24d21b16daeb1e1da28693467c10789a17ae964d48523a53b58957614",
+      "bytes": 455
+    },
+    {
+      "file": "plus.svg",
+      "sha256": "dfd7655d092b28f7e2f71bc92393ee7f26ce31fe0c2164048b6ab7c9f9ef13e4",
+      "bytes": 986
+    },
+    {
+      "file": "template.svg",
+      "sha256": "5b12bdf4d353d0ae1c585ec099749c0961012c30a4af29737fe9c1b0ddcaec26",
+      "bytes": 1371
+    },
+    {
+      "file": "space-icon.png",
+      "sha256": "4cc08159df2413bb101f9c9271f20fe117d260e472177ad2187b9592d9edada0",
+      "bytes": 1213
+    }
+  ]
+}

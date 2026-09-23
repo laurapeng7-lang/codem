@@ -1,0 +1,63 @@
+.codem-tools-panel { display: flex; flex-direction: column; }
+.codem-tools-header { display: flex; align-items: center; gap: 8px; height: 65.5px; flex-shrink: 0; padding: 27.5px 23.5px 16px; }
+.codem-tools-header > h1 { font-size: 16px; line-height: 22px; font-weight: 600; }
+.codem-tools-scroll { flex: 1; min-height: 0; padding: 8px 19.5px 16px; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: none; }
+.codem-tools-scroll::-webkit-scrollbar { display: none; }
+.codem-tools-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 20px; }
+.codem-tools-tabs { display: flex; gap: 4px; flex-shrink: 0; }
+.codem-tools-tabs > button { height: 36px; padding: 8px 16px; border-radius: 8px; color: #0a0a0a80; font: 500 14px/20px "PingFang SC", -apple-system, sans-serif; white-space: nowrap; }
+.codem-tools-tabs > button[aria-selected="true"] { color: #171717; background: #f5f5f5; letter-spacing: .28px; }
+.codem-tools-tabs > button:hover { background: #f5f5f5; color: #171717; }
+.codem-tools-actions { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.codem-tools-search { display: flex; align-items: center; gap: 8px; width: 200px; min-width: 0; height: 36px; padding: 7px 11px; border: 1px solid #e5e5e5; border-radius: 8px; background: #fff; box-shadow: 0 1px 2px #0000000d; }
+.codem-tools-search > img { flex: 0 0 16px; }
+.codem-tools-search > input { width: 100%; min-width: 0; padding: 0; border: 0; background: transparent; color: var(--text); font: 400 14px/22px "PingFang SC", -apple-system, sans-serif; }
+.codem-tools-search > input::placeholder { color: #1f2329cc; font-family: -apple-system, BlinkMacSystemFont, "Inter", "PingFang SC", sans-serif; font-weight: 600; }
+.codem-tools-search:focus-within { outline: 2px solid #8070e9; outline-offset: 2px; }
+.codem-tools-upload { flex-shrink: 0; height: 36px; padding: 7px 12px; border-radius: 8px; background: #171717; color: #fff; box-shadow: 0 1px 2px #0000000d; font: 500 14px/22px "PingFang SC", -apple-system, sans-serif; white-space: nowrap; }
+.codem-tools-upload:hover { background: #333; }
+.codem-tools-upload:active { background: #0a0a0a; }
+.codem-tools-results { outline: none; }
+.codem-tools-results:focus-visible { outline: 2px solid #8070e9; outline-offset: 2px; border-radius: 12px; }
+.codem-tools-banner { position: relative; display: flex; align-items: center; height: 159px; margin-bottom: 20px; padding-inline: 59.5px; overflow: hidden; border: .5px solid #0000001f; border-radius: 16px; background: #f8f8f7 url('/assets/figma/codem-tools-banner/background.png') center 53.146853% / 100% auto no-repeat; background-origin: border-box; }
+.codem-tools-banner-copy { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: flex-start; gap: 20px; min-width: 0; }
+.codem-tools-banner-text { display: flex; flex-direction: column; gap: 6px; }
+.codem-tools-banner-text > h2 { margin: 0; font: 600 24px/36px "PingFang SC", -apple-system, sans-serif; }
+.codem-tools-banner-text > h2 > span { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif; }
+.codem-tools-banner-text > p { margin: 0; font: 400 16px/24px "PingFang SC", -apple-system, sans-serif; }
+.codem-tools-banner-details { flex-shrink: 0; padding: 6px 12px; border-radius: 8px; background: #fff; color: var(--text); box-shadow: 0 1px 2px #0000000d; font: 500 12px/16px "PingFang SC", -apple-system, sans-serif; letter-spacing: .24px; white-space: nowrap; transition: background-color .15s; }
+.codem-tools-banner-details:hover { background: #f5f5f5; }
+.codem-tools-banner-details:active { background: #ededed; }
+.codem-tools-banner-details:focus-visible { outline: 2px solid #8070e9; outline-offset: 2px; }
+.codem-tools-banner-illustration { position: absolute; top: 50%; right: clamp(23.5px, calc(50% - 426px), 153.5px); width: 345.6px; height: 118.392677px; transform: translateY(-50%); border-radius: 8.64px; box-shadow: 0 2.592px 5.7024px #0000000a, 0 10.368px 10.368px #00000008, 0 23.328px 13.9968px #00000005, 0 41.9904px 16.5888px #00000003; pointer-events: none; user-select: none; }
+.codem-tools-category + .codem-tools-category { margin-top: 20px; }
+.codem-tools-category > h2 { margin: 0 4px 12px; font: 500 16px/24px "PingFang SC", -apple-system, sans-serif; }
+.codem-tools-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(400px, 100%), 1fr)); align-items: start; gap: 12px; padding: 0; margin: 0; list-style: none; }
+.codem-tool-card { display: flex; align-items: flex-start; gap: 12px; min-width: 0; padding: 16px; border: .5px solid #d4d4d4; border-radius: 16px; background: #fff; }
+.codem-tool-icon { flex: 0 0 50px; width: 50px; height: 50px; }
+.codem-tool-copy { display: flex; flex: 1; flex-direction: column; gap: 6px; min-width: 0; }
+.codem-tool-card.is-relaxed .codem-tool-copy { gap: 8px; }
+.codem-tool-copy > h3 { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font: 500 16px/24px "PingFang SC", -apple-system, sans-serif; }
+.codem-tool-copy > h3.is-latin { font-family: -apple-system, BlinkMacSystemFont, "Inter", "PingFang SC", sans-serif; font-weight: 600; }
+.codem-tool-copy > p { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--app-secondary); font: 400 14px/20px "PingFang SC", -apple-system, sans-serif; }
+.codem-tools-empty { padding: 56px 16px; text-align: center; color: var(--app-secondary); font-size: 14px; line-height: 22px; }
+@media (min-width: 761px) and (max-width: 1100px) { .codem-tools-header { padding-left: 8px; } }
+@container (max-width: 940px) {
+  .codem-tools-banner { padding-inline: 23.5px; }
+  .codem-tools-banner-illustration { width: 300px; height: auto; }
+}
+@container (max-width: 800px) {
+  .codem-tools-banner { height: auto; min-height: 159px; padding-block: 23.5px; flex-direction: column; align-items: flex-start; gap: 24px; background-size: cover; }
+  .codem-tools-banner-illustration { position: static; width: min(100%, 345.6px); height: auto; transform: none; align-self: center; }
+}
+@container (max-width: 520px) {
+  .codem-tools-scroll { padding-inline: 15.5px; }
+  .codem-tools-header { padding-right: 15.5px; }
+  .codem-tools-toolbar { flex-wrap: wrap; gap: 12px; }
+  .codem-tools-actions { flex: 1 0 100%; }
+  .codem-tools-search { flex: 1; width: auto; }
+  .codem-tool-card { padding: 12px; }
+  .codem-tools-banner { padding: 19.5px; }
+  .codem-tools-banner-text > h2 { font-size: 20px; line-height: 30px; }
+  .codem-tools-banner-text > p { font-size: 14px; line-height: 22px; }
+}

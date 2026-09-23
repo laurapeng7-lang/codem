@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>模拟仓库授权 · CodeM</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f6f8fa; color: #1f2328; font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    header { display: flex; align-items: center; gap: 10px; padding: 20px 24px; border-bottom: 1px solid #d1d9e0; background: white; }
+    header span { margin-left: auto; color: #656d76; font-size: 12px; }
+    main { width: min(440px, calc(100% - 32px)); margin: 40px auto; }
+    h1 { margin: 0 0 8px; font-size: 22px; text-align: center; }
+    .intro { color: #656d76; text-align: center; margin: 0 0 24px; }
+    .card { padding: 24px; border: 1px solid #d1d9e0; border-radius: 12px; background: white; }
+    h2 { margin: 0 0 16px; font-size: 14px; }
+    label { display: flex; align-items: center; gap: 10px; padding: 12px 0; overflow-wrap: anywhere; cursor: pointer; }
+    input { width: 16px; height: 16px; flex-shrink: 0; accent-color: #1f883d; }
+    .scope { margin: 18px 0; padding-top: 16px; border-top: 1px solid #d1d9e0; color: #656d76; font-size: 12px; }
+    button { width: 100%; height: 36px; border: 0; border-radius: 8px; background: #1f883d; color: white; font: inherit; font-weight: 600; cursor: pointer; }
+    button:hover { background: #1a7f37; }
+    button:focus-visible, input:focus-visible { outline: 2px solid #0969da; outline-offset: 3px; }
+    footer { margin-top: 20px; color: #656d76; font-size: 12px; text-align: center; }
+  </style>
+</head>
+<body>
+  <header><img id="platform-icon" width="28" height="28" alt="" /><strong id="platform-name"></strong><span>本地模拟授权页</span></header>
+  <main>
+    <h1>授权 CodeM 访问代码仓库</h1>
+    <p class="intro">选择希望交给 CodeM 使用的仓库</p>
+    <section class="card" aria-labelledby="repositories-title">
+      <h2 id="repositories-title">仓库访问权限</h2>
+      <div id="repositories"></div>
+      <p class="scope">CodeM 可以读取所选仓库的代码与合并请求，并接收代码改动事件。</p>
+      <button type="button" id="complete">完成授权并关闭</button>
+    </section>
+    <footer>仅用于交互演示，不会连接真实账号或授予真实权限。<br />关闭此窗口后，原页面将显示“已授权”。</footer>
+  </main>
+  <script>
+    const isGitLab = new URLSearchParams(location.search).get('platform') === 'gitlab';
+    const name = isGitLab ? 'GitLab' : 'GitHub';
+    document.title = `${name} 模拟授权 · CodeM`;
+    document.getElementById('platform-name').textContent = name;
+    document.getElementById('platform-icon').src = isGitLab ? '/assets/figma/work-item-wbs/gitlab.svg' : '/assets/figma/codem-automations/github.svg';
+    const repositories = isGitLab ? ['codem/frontend', 'codem/backend', 'codem/documentation'] : ['codem-team/web-app', 'codem-team/design-system', 'codem-team/api-service'];
+    repositories.forEach((repository, index) => {
+      const label = document.createElement('label');
+      const checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.checked = index === 0;
+      label.append(checkbox, document.createTextNode(repository));
+      document.getElementById('repositories').append(label);
+    });
+    document.getElementById('complete').addEventListener('click', () => window.close());
+  </script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+{
+  "version": "1.0.0-draft",
+  "entity": "Requirement",
+  "fields": [
+    {
+      "id": "f_1",
+      "name": "Name",
+      "type": "text",
+      "key": "name",
+      "defaultValue": "No default",
+      "required": true,
+      "tags": [
+        "System"
+      ]
+    },
+    {
+      "id": "f_2",
+      "name": "Description",
+      "type": "rich_text",
+      "key": "description",
+      "defaultValue": "No default",
+      "tags": [
+        "System"
+      ]
+    },
+    {
+      "id": "f_3",
+      "name": "Documentation",
+      "type": "url",
+      "key": "wiki",
+      "defaultValue": "Conditional"
+    },
+    {
+      "id": "f_4",
+      "name": "Owner",
+      "type": "user",
+      "key": "owner",
+      "required": true
+    },
+    {
+      "id": "f_5",
+      "name": "Start Date",
+      "type": "date",
+      "key": "start_time"
+    },
+    {
+      "id": "f_6",
+      "name": "Due Date",
+      "type": "date",
+      "key": "finish_time"
+    },
+    {
+      "id": "f_7",
+      "name": "Watchers",
+      "type": "users",
+      "key": "watchers",
+      "defaultValue": "Conditional"
+    },
+    {
+      "id": "f_8",
+      "name": "Business Line",
+      "type": "select",
+      "key": "business",
+      "options": [
+        "Retail",
+        "Enterprise",
+        "SME"
+      ]
+    },
+    {
+      "id": "f_9",
+      "name": "Priority",
+      "type": "select",
+      "key": "priority",
+      "options": [
+        "P0",
+        "P1",
+        "P2"
+      ],
+      "defaultValue": "P1"
+    },
+    {
+      "id": "f_10",
+      "name": "Security Review",
+      "type": "switch",
+      "key": "enable_sdlc",
+      "defaultValue": "true",
+      "isValid": true
+    }
+  ]
+}

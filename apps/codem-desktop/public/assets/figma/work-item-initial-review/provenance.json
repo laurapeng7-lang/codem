@@ -1,0 +1,72 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "191:6867",
+  "exportMethod": "Original Figma vector assets and whole-avatar PNG exports",
+  "assets": [
+    {
+      "file": "xin.png",
+      "nodeId": "191:12409",
+      "width": 20,
+      "height": 20,
+      "bytes": 3836,
+      "sha256": "3f4e5cca14c173d4bd3771a5c6f921085631ac012ffabe11a94d7982a1ce5cd9",
+      "scale": 2,
+      "pixelWidth": 40,
+      "pixelHeight": 40
+    },
+    {
+      "file": "qian.png",
+      "nodeId": "191:10193",
+      "width": 20,
+      "height": 20,
+      "bytes": 7190,
+      "sha256": "7d76688ff5892b2457d219e98d42122b8ba4d71526fce155a1579cfb7393a20d",
+      "scale": 3,
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "participant.png",
+      "nodeId": "191:7117",
+      "width": 20,
+      "height": 20,
+      "bytes": 1819,
+      "sha256": "d317cb793ba8cb468a8315b15312a88ea2e75f6cb202d96208a9b22728578205",
+      "scale": 3,
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "formula.svg",
+      "nodeId": "191:12328",
+      "width": 14,
+      "height": 14,
+      "bytes": 1064,
+      "sha256": "e6f71747a90d258151415dd9d59b700ea9bb960b34de5d3901eb4430f8eb48d5"
+    },
+    {
+      "file": "pending.svg",
+      "nodeId": "191:11571",
+      "width": 16,
+      "height": 16,
+      "bytes": 705,
+      "sha256": "c0a83b50e5c86b0e0129ffe18176fa73dc64d77a3a5bb368d3bbf20410dbc04a"
+    },
+    {
+      "file": "branch.svg",
+      "nodeId": "191:6977",
+      "width": 11.0693,
+      "height": 20.5057,
+      "bytes": 335,
+      "sha256": "af28829f47d5caad0d17aa445e9fe12936c2bc4eab58d103bb891311aa309387"
+    },
+    {
+      "file": "collapse.svg",
+      "nodeId": "191:11331",
+      "width": 12,
+      "height": 12,
+      "bytes": 463,
+      "sha256": "0049b2383f02c96f4739ebe59bc353a923e8cfe41ccf5b926de523d705147ed8"
+    }
+  ]
+}

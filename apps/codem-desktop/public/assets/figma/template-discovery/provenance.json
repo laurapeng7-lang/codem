@@ -1,0 +1,71 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "155:84625",
+  "filterNodeId": "155:84537",
+  "frame": {
+    "width": 1200,
+    "height": 900
+  },
+  "contentWidth": 720,
+  "backdropBlur": 20,
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING and PNG at 3x, contentsOnly: true, useAbsoluteBounds: false. Original unmodified exports.",
+  "assets": [
+    {
+      "file": "close.svg",
+      "nodeId": "155:84623",
+      "width": 24,
+      "height": 24,
+      "sha256": "355e8bceb8fb5e456c446cf4f484b956bc384311596c4c3bc1644aa985eb83aa",
+      "bytes": 802
+    },
+    {
+      "file": "logo.png",
+      "nodeId": "155:84613",
+      "width": 32.48484802246094,
+      "height": 32,
+      "scale": 3,
+      "sha256": "6f6ef5b5877a63b93177d43dca825d2a2345997f1111c2b4c4489f0e733f2925",
+      "bytes": 8708
+    },
+    {
+      "file": "project-qa.svg",
+      "nodeId": "155:84540",
+      "width": 16,
+      "height": 16,
+      "sha256": "7640cb495067128384f064c38d281ac043462edc505cd9289367bc9a3b9a3f0d",
+      "bytes": 1661
+    },
+    {
+      "file": "deep-report.svg",
+      "nodeId": "155:84553",
+      "width": 16,
+      "height": 16,
+      "sha256": "71cbad5eb22cc3098473b2497ba9e3ad6b2212be8232ac3d5eebf37b11a07a1d",
+      "bytes": 1041
+    },
+    {
+      "file": "project-development.svg",
+      "nodeId": "155:84566",
+      "width": 16,
+      "height": 16,
+      "sha256": "6bdc12e75ca8593e7165c9be5a661fb9f69cbbd053ec4b5a73bc70a8618bdde5",
+      "bytes": 10581
+    },
+    {
+      "file": "space-config.svg",
+      "nodeId": "155:84579",
+      "width": 16,
+      "height": 16,
+      "sha256": "8a74c7076f230a7fc3c7b38e1281fa71b592c36a29749abaca4c87eaa3a933e7",
+      "bytes": 1997
+    },
+    {
+      "file": "light-app.svg",
+      "nodeId": "155:84592",
+      "width": 16,
+      "height": 16,
+      "sha256": "1761d576f6481ec8991dee7f250cbe1b56eede26dbc5f837a9c768b99d2753bc",
+      "bytes": 3727
+    }
+  ]
+}

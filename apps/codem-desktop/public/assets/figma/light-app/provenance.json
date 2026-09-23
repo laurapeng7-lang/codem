@@ -1,0 +1,61 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "frameId": "33:862",
+  "exportMethod": "Figma exportAsync PNG, contentsOnly, useAbsoluteBounds, 3x",
+  "assets": [
+    {
+      "file": "requirements.png",
+      "nodeId": "33:6266",
+      "width": 849,
+      "height": 438,
+      "scale": 3,
+      "bytes": 349101,
+      "sha256": "29a994093ac08dcaaed3dc71030fcb3e07ba21bb75afbb78c49d849ccd3e54d3"
+    },
+    {
+      "file": "iterations.png",
+      "nodeId": "33:6198",
+      "width": 849,
+      "height": 438,
+      "scale": 3,
+      "bytes": 304008,
+      "sha256": "6459b147d0ad1dabb98bc1b7dba9226da1695174de7347352d27e7d886ccf2bb"
+    },
+    {
+      "file": "strategy.png",
+      "nodeId": "33:6334",
+      "width": 849,
+      "height": 438,
+      "scale": 3,
+      "bytes": 102782,
+      "sha256": "aeadf070a66c7b2f8794955a71ff0f1db3c639dbfe34d2a924cb545758fc8c07"
+    },
+    {
+      "file": "strategy-overview.png",
+      "nodeId": "33:6471",
+      "width": 849,
+      "height": 438,
+      "scale": 3,
+      "bytes": 124686,
+      "sha256": "32a32aedb8cdf769d5b8d565d163db914729ea313637641b424d38af7098f88d"
+    },
+    {
+      "file": "project-evaluation.png",
+      "nodeId": "33:6539",
+      "width": 849,
+      "height": 438,
+      "scale": 3,
+      "bytes": 77526,
+      "sha256": "154ed7a8369d00e7359e08218dc322ed485a2e7f8e5658b427bdc245a5345c01"
+    },
+    {
+      "file": "iterations-workspace.png",
+      "nodeId": "33:6621",
+      "width": 849,
+      "height": 438,
+      "scale": 3,
+      "bytes": 303989,
+      "sha256": "95c0f55324909cd474b17dd588bf826dc38114b8e99de2f369b04ad272f1f3c8"
+    }
+  ]
+}

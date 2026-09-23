@@ -1,0 +1,4 @@
+.settings-change-count { display: inline-flex; align-items: center; gap: 6px; flex-shrink: 0; color: #8f959e; font-size: 13px; font-weight: 400; line-height: 20px; white-space: nowrap; }
+.settings-review-status { flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; width: 16px; height: 16px; border-radius: 4px; color: white; font: 700 12px/16px 'JetBrains Mono', monospace; }
+.settings-review-status.is-A { background: #45d036; }
+.settings-review-status.is-M { background: #ffc60a; }

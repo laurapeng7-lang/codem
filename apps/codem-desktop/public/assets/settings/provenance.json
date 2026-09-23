@@ -1,0 +1,136 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNodes": [
+    "74:2301",
+    "74:2428"
+  ],
+  "note": "Original Figma exports, unchanged bytes. All PNG assets re-exported at 2x; displayed at their original CSS dimensions.",
+  "assets": [
+    {
+      "name": "planner",
+      "nodeId": "74:2530",
+      "path": "/assets/settings/planner.png",
+      "sha256": "c370594ce28cc489e963e48a7169a6176993d1e87697632e775bfe2be344b382",
+      "sizeBytes": 5047,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "architect",
+      "nodeId": "74:2570",
+      "path": "/assets/settings/architect.png",
+      "sha256": "2d4f492fcce5cab1ba3792906009e8821028ef98a9bf82302628b61ce0578471",
+      "sizeBytes": 13255,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "reviewer",
+      "nodeId": "74:2583",
+      "path": "/assets/settings/reviewer.png",
+      "sha256": "9090d8cade168ee34b024d5c54d03a5e61458029618b2c37bad72a60832af229",
+      "sizeBytes": 13270,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "tester",
+      "nodeId": "74:2596",
+      "path": "/assets/settings/tester.png",
+      "sha256": "8b534c242c7a3af08884ba6b9872527c666619102584c6026c65efbff4aa078f",
+      "sizeBytes": 12840,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "sheriff",
+      "nodeId": "74:2610",
+      "path": "/assets/settings/sheriff.png",
+      "sha256": "1e9adf08163fb0ae94406e97eb2d3310a019fd3113ec4905fedf3d5678505a68",
+      "sizeBytes": 14955,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "release",
+      "nodeId": "74:2623",
+      "path": "/assets/settings/release.png",
+      "sha256": "e061a7fdf08faabe4b6ad88252f60bf500b3d6ecd747690a393d95c1e94f6ff0",
+      "sizeBytes": 13898,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "radar",
+      "nodeId": "74:2636",
+      "path": "/assets/settings/radar.png",
+      "sha256": "c8d4232a88e2aa3cfc876b57bf0de048e6544f7ce21d08960cd91c080275fb56",
+      "sizeBytes": 6294,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "sidebar-settings",
+      "nodeId": "74:8397",
+      "path": "/assets/settings/sidebar-settings.svg",
+      "sha256": "11585e00a6f4cb471b8f2f1b84c6fc8544b9eee4770dccf748c39c973a6d568d",
+      "sizeBytes": 2261
+    },
+    {
+      "name": "settings",
+      "nodeId": "74:8151",
+      "path": "/assets/settings/settings.svg",
+      "sha256": "bfc2ca0650b1fe449b799e2c6153d124f1fc276f1949ddc2f2a36c06ad35ceb5",
+      "sizeBytes": 1166
+    },
+    {
+      "name": "ai-assistant",
+      "nodeId": "74:8084",
+      "path": "/assets/settings/ai-assistant.svg",
+      "sha256": "da000ae0a64dd1748f6ad45a855cc599a058f957a5990d709111acbd4ca3d52a",
+      "sizeBytes": 1605
+    },
+    {
+      "name": "divider",
+      "nodeId": "74:2486",
+      "path": "/assets/settings/divider.svg",
+      "sha256": "f069ea67c788b20ae75518ca49e2e396ece81bd0d86f2881b97f45ce728b5956",
+      "sizeBytes": 227
+    },
+    {
+      "name": "history",
+      "nodeId": "74:8064",
+      "path": "/assets/settings/history.svg",
+      "sha256": "88a518a0d25de7aeec124c419967d59c0863db9d5dadb69e906553fc5b452544",
+      "sizeBytes": 880
+    },
+    {
+      "name": "action-divider",
+      "nodeId": "74:2492",
+      "path": "/assets/settings/action-divider.svg",
+      "sha256": "3818d89a18c70f13dc1a05e5499256484568a8ff12d7b697236d26b705db6024",
+      "sizeBytes": 256
+    },
+    {
+      "name": "create",
+      "nodeId": "74:8042",
+      "path": "/assets/settings/create.svg",
+      "sha256": "91ba57d989fb92a5c28826a649818a959c0661d7e010dee7784d9614489a5038",
+      "sizeBytes": 981
+    },
+    {
+      "name": "create-agent",
+      "nodeId": "74:7662",
+      "path": "/assets/settings/create-agent.svg",
+      "sha256": "35c6340523a5d4a5450958db7847c609a024268104ff28d2e9b812a5d83a3184",
+      "sizeBytes": 983
+    }
+  ]
+}

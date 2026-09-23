@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>飞书 CodeM</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./styles.css?v=20260923-1510" />
+  </head>
+  <body>
+    <div class="desktop-shell">
+      <aside class="app-rail" aria-label="飞书导航">
+        <div class="rail-header"><img src="./assets/figma-12553/rail-window.svg" alt="" /></div>
+        <div class="rail-top">
+          <button class="profile-pill" type="button" aria-label="个人信息">
+            <img class="profile-avatar" src="./assets/figma-12553/rail-avatar.png" alt="" />
+            <img class="profile-status" src="./assets/figma-12553/rail-status.png" alt="" />
+          </button>
+          <button class="rail-circle" type="button" aria-label="搜索"><img src="./assets/figma-12553/rail-search.svg" alt="" /></button>
+          <button class="rail-circle" type="button" aria-label="新建"><img src="./assets/figma-12553/rail-add.svg" alt="" /></button>
+        </div>
+
+        <nav class="rail-nav" aria-label="应用">
+          <button class="rail-item is-active" type="button" aria-label="消息"><img src="./assets/figma-12553/rail-chat.svg" alt="" /><span class="badge">9</span></button>
+          <button class="rail-item" type="button" aria-label="日历"><img src="./assets/figma-12553/rail-calendar.svg" alt="" /></button>
+          <button class="rail-item" type="button" aria-label="视频会议"><img src="./assets/figma-12553/rail-video.svg" alt="" /></button>
+          <button class="rail-item" type="button" aria-label="应用"><img src="./assets/figma-12553/rail-apps.svg" alt="" /></button>
+          <button class="rail-item" type="button" aria-label="云文档"><img src="./assets/figma-12553/rail-space.svg" alt="" /></button>
+          <button class="rail-item" type="button" aria-label="任务"><img src="./assets/figma-12553/rail-todo.svg" alt="" /></button>
+          <span class="rail-separator" aria-hidden="true"></span>
+        </nav>
+
+        <div class="rail-bottom">
+          <button class="tenant-button" type="button" aria-label="切换租户"><img src="./assets/figma-12553/rail-tenant.png" alt="" /></button>
+        </div>
+      </aside>
+
+      <main class="chat-panel">
+        <header class="chat-header">
+          <img class="codem-logo" src="./assets/figma-12553/codem-header.svg" alt="CodeM" />
+          <div class="chat-header-main">
+            <div class="chat-title"><strong>CodeM</strong><span class="bot-label">机器人</span></div>
+            <nav class="chat-tabs" aria-label="CodeM 页面">
+              <button class="chat-tab is-active" type="button"><img src="./assets/figma-12553/tab-message.svg" alt="" />消息</button>
+              <button class="chat-tab" type="button"><img src="./assets/figma-12553/tab-all.svg" alt="" />全部会话</button>
+              <button class="chat-tab" type="button"><img src="./assets/figma-12553/tab-code.svg" alt="" />查看代码变更</button>
+              <button class="chat-tab" type="button"><span class="settings-icon"><img src="./assets/figma-12553/tab-settings-bg.svg" alt="" /><img src="./assets/figma-12553/tab-settings-mark.svg" alt="" /></span>设置</button>
+              <button class="chat-tab automation-tab" type="button"><span class="automation-icon"><img src="./assets/figma-12553/tab-automation.svg" alt="" /></span>自动任务</button>
+            </nav>
+          </div>
+        </header>
+
+        <section class="conversation" id="conversation" aria-label="消息列表">
+          <article class="message-row bot-message welcome-message">
+            <img class="message-avatar bot-avatar" src="./assets/figma-12553/codem-message.svg" alt="CodeM" />
+            <div class="message-main">
+              <time class="welcome-time" datetime="2026-09-20T14:13">9月20日 14:13</time>
+              <div class="response-card welcome-card">
+                <div class="reply-quote">回复 彭怡然：你好</div>
+                <p>你好！我是飞书 CodeM，可以帮你处理研发和日常协作任务：代码开发与修复、飞书文档/表格/日程/待办/消息查询、Meego 工作项管理、知识库检索等。有什么需要直接发给我就行。</p>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        <form class="composer-area" id="composerForm">
+          <div class="scenario-picker" id="scenarioPicker" aria-label="演示场景" hidden>
+            <div class="scenario-picker-title">选择一个演示场景</div>
+            <button type="button" class="scenario-option" data-scenario-message="帮我做个自动化任务。">帮我做个自动化任务。</button>
+            <button type="button" class="scenario-option" data-scenario-message="请帮我创建一个自动化任务，每个工作日上午9点，检查codem-server仓库昨天合并的mr，生成摘要发给我。">每个工作日上午 9 点，检查 codem-server 昨日合并的 MR</button>
+          </div>
+          <div class="command-chips">
+            <button type="button" class="command-chip"><img src="./assets/figma-12553/chip-shortcut.svg" alt="" />快捷指令</button>
+            <button type="button" class="command-chip"><img src="./assets/figma-12553/chip-meego.svg" alt="" />meego-dev</button>
+            <button type="button" class="command-chip"><img src="./assets/figma-12553/chip-monitor.svg" alt="" />meego/codem-shell</button>
+            <button type="button" class="command-chip"><img src="./assets/figma-12553/chip-permission.svg" alt="" />Permission ask</button>
+            <button type="button" class="command-chip"><img src="./assets/figma-12553/chip-intelligence.svg" alt="" />Intelligence&nbsp;<em>medium</em><img class="chip-chevron" src="./assets/figma-12553/chevron.svg" alt="" /></button>
+            <button type="button" class="command-overflow" aria-label="更多配置" aria-expanded="false" aria-controls="commandOverflowMenu" hidden><img src="./assets/figma-12553/chrome-more.svg" alt="" /></button>
+          </div>
+          <div class="composer-box">
+            <textarea id="composerInput" rows="1" aria-label="输入消息" placeholder="Ask for follow-up changes, Type/ for commands"></textarea>
+            <div class="composer-tools" aria-label="输入工具栏">
+              <button class="composer-tool" type="button" aria-label="文字格式"><img src="./assets/figma-12553/composer-aa.svg" alt="" /></button>
+              <button class="composer-tool" type="button" aria-label="表情"><img src="./assets/figma-12553/composer-emoji.svg" alt="" /></button>
+              <button class="composer-tool" type="button" aria-label="提及"><img src="./assets/figma-12553/composer-at.svg" alt="" /></button>
+              <button class="composer-tool screenshot-tool" type="button" aria-label="截图"><img class="screenshot-icon" src="./assets/figma-12553/composer-screenshot.svg" alt="" /><img class="screenshot-chevron" src="./assets/figma-12553/composer-down.svg" alt="" /></button>
+              <button class="composer-tool" type="button" aria-label="添加"><img src="./assets/figma-12553/composer-add.svg" alt="" /></button>
+              <button class="composer-tool" type="button" aria-label="展开"><img src="./assets/figma-12553/composer-expand.svg" alt="" /></button>
+              <button class="composer-tool send-tool" type="button" aria-label="发送"><img src="./assets/figma-12553/composer-send.svg" alt="" /></button>
+            </div>
+            <button class="send-hit" type="submit" aria-label="发送"></button>
+          </div>
+          <span class="enter-hint">Shift + Enter</span>
+        </form>
+        <div class="command-overflow-menu" id="commandOverflowMenu" role="menu" hidden></div>
+
+        <section class="automation-workspace" id="automationWorkspace" aria-labelledby="automationTitle" hidden>
+          <div class="automation-list-pane">
+            <div class="automation-scroll">
+              <header class="automation-page-heading">
+                <div>
+                  <h1 id="automationTitle">自动任务</h1>
+                  <p>让 CodeM 按计划或事件自动完成工作。</p>
+                </div>
+              </header>
+
+              <div class="automation-page-tabs" role="tablist" aria-label="自动任务内容">
+                <button type="button" role="tab" aria-selected="true" data-automation-tab="saved">我的任务</button>
+                <button type="button" role="tab" aria-selected="false" data-automation-tab="templates">模板</button>
+              </div>
+
+              <section class="automation-saved-view" id="automationSavedView">
+                <div class="automation-toolbar">
+                  <div class="automation-menu-wrap">
+                    <button class="automation-filter-button" id="automationFilterButton" type="button" aria-haspopup="menu" aria-expanded="false">
+                      <span id="automationFilterLabel">全部创建人</span><span aria-hidden="true">⌄</span>
+                    </button>
+                    <div class="automation-popover automation-filter-menu" id="automationFilterMenu" role="menu" hidden>
+                      <button type="button" role="menuitemradio" aria-checked="true" data-creator-filter="all"><span>全部创建人</span><span>✓</span></button>
+                      <button type="button" role="menuitemradio" aria-checked="false" data-creator-filter="mine"><span>我创建的</span><span></span></button>
+                    </div>
+                  </div>
+
+                  <div class="automation-menu-wrap">
+                    <button class="automation-create-button" id="automationCreateButton" type="button" aria-haspopup="menu" aria-expanded="false">
+                      <span aria-hidden="true">＋</span>创建<span aria-hidden="true">⌄</span>
+                    </button>
+                    <div class="automation-popover automation-create-menu" id="automationCreateMenu" role="menu" hidden>
+                      <button type="button" role="menuitem" data-create-kind="scheduled"><span class="menu-glyph">◷</span><span>定时任务</span></button>
+                      <button type="button" role="menuitem" data-create-kind="event"><span class="menu-glyph">ϟ</span><span>事件触发</span></button>
+                      <button type="button" role="menuitem" data-create-kind="webhook"><span class="menu-glyph">⌁</span><span>Webhook</span></button>
+                    </div>
+                  </div>
+                </div>
+                <div class="automation-groups" id="automationGroups"></div>
+              </section>
+
+              <section class="automation-templates-view" id="automationTemplatesView" hidden>
+                <div class="automation-template-section">
+                  <h2>项目协作</h2>
+                  <div class="automation-template-grid">
+                    <article class="automation-template-card"><span class="template-glyph template-blue">▦</span><h3>项目进展周报</h3><p>汇总本周关键进展、风险与下周计划。</p><button type="button" data-template-name="项目进展周报">使用模板</button></article>
+                    <article class="automation-template-card"><span class="template-glyph template-purple">◇</span><h3>项目风险洞察</h3><p>扫描进度、资源和协作信息并输出风险建议。</p><button type="button" data-template-name="项目风险洞察">使用模板</button></article>
+                    <article class="automation-template-card"><span class="template-glyph template-green">✓</span><h3>版本发布检查</h3><p>发布前检查需求、缺陷与验收状态。</p><button type="button" data-template-name="版本发布检查">使用模板</button></article>
+                    <article class="automation-template-card"><span class="template-glyph template-orange">≋</span><h3>每日动态摘要</h3><p>每天整理新增动态、阻塞事项和关键变化。</p><button type="button" data-template-name="每日动态摘要">使用模板</button></article>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+        </section>
+
+        <div class="automation-dialog-layer" id="automationDialogLayer" hidden>
+          <form class="automation-dialog" id="automationDialog" role="dialog" aria-modal="true" aria-labelledby="automationDialogTitle" novalidate>
+            <header class="automation-dialog-header">
+              <div><h2 id="automationDialogTitle">创建定时任务</h2><p id="automationDialogDescription">配置自动任务的指令与执行方式</p></div>
+              <button type="button" id="automationDialogClose" aria-label="关闭">×</button>
+            </header>
+            <div class="automation-dialog-body" id="automationDialogBody"></div>
+            <footer class="automation-dialog-footer">
+              <button type="button" class="secondary-button" id="automationDialogCancel">取消</button>
+              <button type="submit" class="primary-button" id="automationDialogSubmit">创建</button>
+            </footer>
+          </form>
+        </div>
+      </main>
+
+      <aside class="sessions-panel" aria-label="全部会话">
+        <div class="panel-chrome" aria-label="飞书 Codem 浏览器工具栏">
+          <div class="chrome-actions">
+            <button type="button" aria-label="后退"><img src="./assets/figma-12553/chrome-left.svg" alt="" /></button>
+            <button type="button" aria-label="前进"><img src="./assets/figma-12553/chrome-right.svg" alt="" /></button>
+            <button type="button" aria-label="刷新"><img src="./assets/figma-12553/chrome-refresh.svg" alt="" /></button>
+          </div>
+          <strong>飞书 Codem</strong>
+          <div class="chrome-actions">
+            <button type="button" aria-label="消息"><img src="./assets/figma-12553/chrome-chat.svg" alt="" /></button>
+            <button type="button" aria-label="更多"><img src="./assets/figma-12553/chrome-more.svg" alt="" /></button>
+            <button type="button" aria-label="关闭"><img src="./assets/figma-12553/chrome-close.svg" alt="" /></button>
+          </div>
+        </div>
+        <aside class="automation-detail-drawer" id="automationDetailDrawer" role="dialog" aria-labelledby="automationDetailTitle" tabindex="-1" hidden>
+          <header class="automation-detail-header">
+            <div class="automation-detail-name" id="automationDetailName"></div>
+            <div class="automation-detail-actions">
+              <div class="automation-menu-wrap">
+                <button type="button" class="automation-icon-button" id="automationDetailMore" aria-label="更多任务操作" aria-haspopup="menu" aria-expanded="false">•••</button>
+                <div class="automation-popover automation-detail-menu" id="automationDetailMenu" role="menu" hidden>
+                  <button type="button" role="menuitem" data-detail-action="run"><span>▶</span>立即运行</button>
+                  <span class="automation-menu-divider"></span>
+                  <button type="button" role="menuitem" class="is-danger" data-detail-action="delete"><span>⌫</span>删除</button>
+                </div>
+              </div>
+              <button type="button" class="automation-icon-button" id="automationDetailToggle" aria-label="暂停任务" title="暂停/启用">Ⅱ</button>
+              <button type="button" class="automation-icon-button" id="automationDetailClose" aria-label="关闭任务详情" title="关闭 (Esc)">×</button>
+            </div>
+          </header>
+          <div class="automation-detail-scroll" id="automationDetailContent"></div>
+        </aside>
+        <section class="automation-run-conversation" id="automationRunConversation" aria-label="每日简报会话" tabindex="-1" hidden>
+          <header class="automation-run-header"><h2>每日简报</h2></header>
+          <div class="automation-run-scroll">
+            <article class="automation-run-messages">
+              <p class="automation-run-user-message">每日简报</p>
+              <section class="automation-run-assistant-message" aria-label="CodeM 回复">
+                <div class="automation-run-completion">
+                  <p>已完成（3 分 12 秒）</p>
+                  <img src="./assets/figma-12553/conversation-divider.svg" alt="" />
+                </div>
+                <p class="automation-run-summary">今日项目简报已生成：CodeM Web App 的核心功能开发按计划推进，定时任务详情与运行历史交互已经进入联调阶段；当前没有新增阻塞项。建议今天完成抽屉交互验收，并继续关注移动端布局和历史会话跳转。</p>
+              </section>
+            </article>
+          </div>
+        </section>
+        <header class="sessions-header"><h1>全部会话</h1></header>
+        <div class="sessions-body">
+          <button class="device-select" type="button"><img class="online-icon" src="./assets/figma-12553/right-completed.svg" alt="" /><span>GW2D7PYQFV (darwin)</span><img src="./assets/figma-12553/right-down.svg" alt="" /></button>
+
+          <section class="session-group">
+            <h2>置顶</h2>
+            <button class="session-row" type="button"><img class="tiny-logo" src="./assets/figma-12553/right-codem-icon.png" alt="" /><span>codem 飞书卡片</span></button>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>codem workflow</span></button>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>meego platform</span></button>
+          </section>
+
+          <section class="session-group projects-group">
+            <h2><span>项目</span><button type="button" aria-label="新建项目"><img src="./assets/figma-12553/right-plus.svg" alt="" /></button></h2>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>meego-ai</span></button>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder-open.svg" alt="" /><span>meego-ai boe 验收</span></button>
+            <button class="session-row project-row is-selected" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>codem web</span><img class="row-plus" src="./assets/figma-12553/right-plus.svg" alt="" /></button>
+            <div class="task-list">
+              <button class="session-row task-row" type="button"><img src="./assets/figma-12553/right-codem-icon.png" alt="" /><span>解释沙箱共享设备派发逻辑</span><img class="row-end" src="./assets/figma-12553/right-spinner.svg" alt="" /></button>
+              <button class="session-row task-row" type="button"><img src="./assets/figma-12553/right-purple-icon.png" alt="" /><span>总结开发过程经验</span><img class="row-end" src="./assets/figma-12553/right-alert.svg" alt="" /></button>
+              <button class="session-row task-row" type="button"><img src="./assets/figma-12553/right-black-icon.png" alt="" /><span>排查白屏问题</span><img class="row-end status-dot" src="./assets/figma-12553/right-green-dot.svg" alt="" /></button>
+              <button class="session-row task-row" type="button"><img src="./assets/figma-12553/right-project-icon.png" alt="" /><span>排查文件异常代码变更</span></button>
+              <button class="session-row task-row" type="button"><img src="./assets/figma-12553/right-purple-icon.png" alt="" /><span>启动本地服务</span></button>
+              <button class="session-row task-row more-row" type="button"><span>展开更多</span></button>
+            </div>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>meego-ai</span></button>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder-open.svg" alt="" /><span>meego-ai boe 验收</span></button>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>codem web</span></button>
+          </section>
+
+          <section class="session-group history-group">
+            <h2>历史对话</h2>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder.svg" alt="" /><span>试试看</span></button>
+            <button class="session-row" type="button"><img src="./assets/figma-12553/right-folder-open.svg" alt="" /><span>codem快速上手</span></button>
+          </section>
+        </div>
+      </aside>
+
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </div>
+    <script src="./app.js?v=20260923-1510"></script>
+  </body>
+</html>

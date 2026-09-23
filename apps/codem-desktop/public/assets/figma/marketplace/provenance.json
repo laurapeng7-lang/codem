@@ -1,0 +1,564 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "19:6040",
+  "source": "https://www.figma.com/design/ijwAFgHcsNwcLoHFlCFFFX/Untitled?node-id=19-6040",
+  "assets": [
+    {
+      "file": "banner-wash.png",
+      "nodeId": "19:6057",
+      "sha256": "28e0adef996ab3091a63b892ab5b3a5212bccc7889fc9016f48ec8edd74f7929",
+      "bytes": 176982
+    },
+    {
+      "file": "banner-interface.png",
+      "nodeId": "19:6067",
+      "sha256": "938f47d55f976bc9825f02b4d59b8e9767f3683d34905bf5cced8f25cca5acf5",
+      "bytes": 143972
+    },
+    {
+      "file": "banner-sky.png",
+      "nodeId": "19:6069",
+      "sha256": "7798c1e30c2ba4704ee8f8f9c13a26ac8802a1548069d2c16c13941a6372be0b",
+      "bytes": 227378
+    },
+    {
+      "file": "banner-codem.png",
+      "nodeId": "19:6072",
+      "sha256": "7b2e6644f4f8cdb7890ec061de881eb25ce9d35c1d40c7b8aa30ae0f9f97db8e",
+      "bytes": 686661
+    },
+    {
+      "file": "meego.svg",
+      "nodeId": "19:12493",
+      "sha256": "2d260247a5eebd1e60662b68d257109288a7e330be153208915ff4103afbca61",
+      "bytes": 1661
+    },
+    {
+      "file": "codem-white.svg",
+      "nodeId": "19:6073",
+      "sha256": "00db522ba02aea697bbc1ffb88046e8db48aba47745164913f0de03b3f0b40d9",
+      "bytes": 2511
+    },
+    {
+      "file": "template-auto.png",
+      "nodeId": "19:6077",
+      "sha256": "95acbb3d7b2cca93a392301d28faed82ea66164f9d98bc439934a14eb35a7608",
+      "bytes": 27965
+    },
+    {
+      "file": "template-crm.png",
+      "nodeId": "19:6077",
+      "sha256": "0ac067f1d42bfabb695ca00f3e5c90a0bd14b27b38e6826d3159ff7485663cd5",
+      "bytes": 1032860
+    },
+    {
+      "file": "template-dste.png",
+      "nodeId": "19:6077",
+      "sha256": "571b58bb4bb7df246125277d8eb3811cd64c86084bcccb68dcd2ce004abdef6e",
+      "bytes": 1111453
+    },
+    {
+      "file": "template-safe.png",
+      "nodeId": "19:6077",
+      "sha256": "a8c2de138b65ab762a2261dd11c7f3f87c76f348d9c06bcad383986830cdb6f1",
+      "bytes": 27600
+    },
+    {
+      "file": "app-codem.svg",
+      "nodeId": "19:8367",
+      "sha256": "3fb6725ed5e0f3d1f2a71c1a9511dd8681f915ed145805c4a6153c2094bf0038",
+      "bytes": 2875
+    },
+    {
+      "file": "app-translate.svg",
+      "nodeId": "19:11989",
+      "sha256": "02d6ce629ad5725b7dcbdc53a9e65946fe4b4faf2c5e46b118c9a0a6731698c6",
+      "bytes": 1894
+    },
+    {
+      "file": "app-tag.svg",
+      "nodeId": "19:11953",
+      "sha256": "d0fe543d8058456dac99831c9f3091322802d0198f21ac2e1d27e03aebf9a4b2",
+      "bytes": 1002
+    },
+    {
+      "file": "app-keyword.svg",
+      "nodeId": "19:8357",
+      "sha256": "abfff6a568be222d9954a53d2746ceb3911eebaf60c7c498d0189db2f40c2db3",
+      "bytes": 1262
+    },
+    {
+      "file": "app-summary.svg",
+      "nodeId": "19:8362",
+      "sha256": "2212c590b3d6a42774d1a62f00a027d83ce65938c0006f56679aeb9571f17feb",
+      "bytes": 1540
+    },
+    {
+      "file": "plugin-aiden.png",
+      "nodeId": "19:9503",
+      "sha256": "0499122640e163b0863aed56975f836aec375c2e8d30c140cd007219aefe3215",
+      "bytes": 176723
+    },
+    {
+      "file": "plugin-feedback.png",
+      "nodeId": "19:10548",
+      "sha256": "3b9fab3afcb78f9f6868242c4b70a9167f620adac0918acb33d4640d6a3b8d9a",
+      "bytes": 18609
+    },
+    {
+      "file": "download.svg",
+      "nodeId": "19:9319",
+      "sha256": "140d595a77226066ff01b062ed55845d3b9b0148e9540f3cc13c66d51042c90a",
+      "bytes": 1022
+    },
+    {
+      "file": "academy-apps.png",
+      "nodeId": "19:10957",
+      "sha256": "b928518acad742715493f48b554e5810db1701b735581ab06542a990d16211e3",
+      "bytes": 111791,
+      "exportScale": 3,
+      "width": 900,
+      "height": 600
+    },
+    {
+      "file": "academy-automation.png",
+      "nodeId": "19:10694",
+      "sha256": "848227817fd7d6b16f35c01fb58a8e0eb93d777fed62dfcc5ea9ccae49f24bdb",
+      "bytes": 322681,
+      "exportScale": 3,
+      "width": 1078,
+      "height": 600
+    },
+    {
+      "file": "app-doubao.png",
+      "nodeId": "19:8325",
+      "sha256": "9e9aed8c4e0c6264a52498deabdca36320dc24cded68f6f4ebfa8f83aae4024b",
+      "bytes": 6153,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "plugin-devops.png",
+      "nodeId": "19:9545",
+      "sha256": "b6978f1ccb0eb6c9ce013f9d7206bdae5297b4958d04026e805b81be58a8db11",
+      "bytes": 4093,
+      "exportScale": 3,
+      "width": 126,
+      "height": 126
+    },
+    {
+      "file": "plugin-zendesk.png",
+      "nodeId": "19:11660",
+      "sha256": "ab0ed371d82d947a51df6006caa8238e9c2eec4bed0ac6aa0e7961ae68af4547",
+      "bytes": 4120,
+      "exportScale": 3,
+      "width": 126,
+      "height": 126
+    },
+    {
+      "file": "plugin-slack.png",
+      "nodeId": "19:10388",
+      "sha256": "a485173d92766ba3dfae49035a1901a2b18ccebba64950769fcbb7ca81c768a5",
+      "bytes": 4586,
+      "exportScale": 3,
+      "width": 126,
+      "height": 126
+    },
+    {
+      "file": "plugin-dorado.png",
+      "nodeId": "19:10496",
+      "sha256": "f008713661aff84cb69d63535e2cd37bafec9fce85b8b9ef4270d93b77280eaf",
+      "bytes": 11891,
+      "exportScale": 3,
+      "width": 126,
+      "height": 126
+    },
+    {
+      "file": "skill-retrospective.png",
+      "nodeId": "19:23225",
+      "sectionNodeId": "19:22820",
+      "sha256": "248947c773411bf29894c69e4a4d9613c281780ad8723354d4967f8711a9fa80",
+      "bytes": 79564,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "skill-weekly-report.png",
+      "nodeId": "19:23472",
+      "sectionNodeId": "19:22820",
+      "sha256": "65a3a6d53e47a5727de3682901f16283e5b39b266c60c866a1786d8b93a99ed4",
+      "bytes": 129842,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "skill-risk-insight.png",
+      "nodeId": "19:23720",
+      "sectionNodeId": "19:22820",
+      "sha256": "04fdfd39217e856bfa8a8473a73a9cdbf8aa9c3435304e24df877d22e902226e",
+      "bytes": 69783,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "skill-risk-insight-alt.png",
+      "nodeId": "19:23967",
+      "sectionNodeId": "19:22820",
+      "sha256": "211d8038773bf49a8e1fb719e57179898239dcb57a2b86ede4793ed21116d394",
+      "bytes": 69851,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300,
+      "additionalNodeIds": [
+        "19:17415"
+      ]
+    },
+    {
+      "file": "ai-test-cases.png",
+      "nodeId": "19:14943",
+      "sectionNodeId": "19:34723",
+      "sha256": "68a4a7a69ee14dae2971fdc788b356bf27b6ca76520d21d0bd19d9725326d704",
+      "bytes": 2485,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-prototype.png",
+      "nodeId": "19:14957",
+      "sectionNodeId": "19:34723",
+      "sha256": "b49a67ae5747fa4e4b6b0fada29765d61dbf05762d058439127806c05a499d34",
+      "bytes": 2065,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-image-recognition.png",
+      "nodeId": "19:14966",
+      "sectionNodeId": "19:34723",
+      "sha256": "23cb56deb37522a8713bba6fda2f67d4b7253ab16bbd5c14890d8f60b9ba5702",
+      "bytes": 2166,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-flow-summary.png",
+      "nodeId": "19:14980",
+      "sectionNodeId": "19:34723",
+      "sha256": "9dfce27b59ceb5ca1b504fee85a32034cd0eddbc17a5ddcdc14eb5e5c77a3c6e",
+      "bytes": 3032,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-budget.png",
+      "nodeId": "19:14995",
+      "sectionNodeId": "19:34723",
+      "sha256": "304d435e8e9c1c540bd96e219d6c359bc816ce7225b281567705ab8c7dc39fae",
+      "bytes": 2536,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-deepseek.png",
+      "nodeId": "19:15009",
+      "sectionNodeId": "19:34723",
+      "sha256": "e0f928238821e5811e66d8562dfabcb2574b295101b535550b9f87181e929635",
+      "bytes": 6667,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-code-review.png",
+      "nodeId": "19:15023",
+      "sectionNodeId": "19:34723",
+      "sha256": "29ad99175edbae902c506b57a4f43d993468336d4c1bdd4ce790bb53275a9cbf",
+      "bytes": 1536,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-review-summary.png",
+      "nodeId": "19:15037",
+      "sectionNodeId": "19:34723",
+      "sha256": "1339572f3215cacd6c85ee440e544755c1ea14ce699152cf571acee5a12be6c2",
+      "bytes": 2767,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "ai-kimi.png",
+      "nodeId": "19:15047",
+      "sectionNodeId": "19:34723",
+      "sha256": "3bc59c4bb0f75bc70f53882dd3728659386392d51c2fb84626a4f88d92075d9c",
+      "bytes": 4823,
+      "exportScale": 3,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "file": "catalog-skill-retrospective.png",
+      "nodeId": "19:16920",
+      "sectionNodeId": "19:34723",
+      "sha256": "c7ebffc1a576e97d8b532c1650acc6b940dd5555dbf5b99f38adebe523a6362b",
+      "bytes": 79553,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "catalog-skill-weekly.png",
+      "nodeId": "19:17167",
+      "sectionNodeId": "19:34723",
+      "sha256": "706ea242217f4b30d7736f900971202105a4253202e93645840d3eeadb48e3c6",
+      "bytes": 129877,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "catalog-skill-risk-alt.png",
+      "nodeId": "19:18407",
+      "sectionNodeId": "19:34723",
+      "sha256": "7119f5a9fe6b36ef6f89476fbcc5dfa3d25e84e0ea2183e5b33980ba12bc873e",
+      "bytes": 69817,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "catalog-skill-web-cyan.png",
+      "nodeId": "19:17663",
+      "sectionNodeId": "19:34723",
+      "sha256": "b7f1a8cc6ea8ce9d4fd7491c8c7310c3f0d8a265f3207f33655c69491f3f21d3",
+      "bytes": 65603,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "catalog-skill-web-orange.png",
+      "nodeId": "19:17911",
+      "sectionNodeId": "19:34723",
+      "sha256": "ce5a802497820a9157d338c97de45aa66f86c743e003e0d456a5303a9abeeaaf",
+      "bytes": 83672,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "catalog-skill-web-purple.png",
+      "nodeId": "19:18158",
+      "sectionNodeId": "19:34723",
+      "sha256": "5920060300122de4d031258f029330aa4c1f4fe1693cad3128679a3cc35162f7",
+      "bytes": 129071,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "catalog-skill-web-purple-alt.png",
+      "nodeId": "19:18654",
+      "sectionNodeId": "19:34723",
+      "sha256": "b725e024dfa28cfc7813df4f847cb3049e7268ed0820bef466fab8ec2a911de4",
+      "bytes": 128994,
+      "exportScale": 3,
+      "width": 789,
+      "height": 300
+    },
+    {
+      "file": "template-energy-ltc.png",
+      "nodeId": "23:34740",
+      "sectionNodeId": "19:33642",
+      "sha256": "a232d8f11c88b2f46a22b8fa8a238059d19eaae3d9aaa9b0d1034d6cb3c92b42",
+      "bytes": 112508,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-agile.png",
+      "nodeId": "19:33440",
+      "sectionNodeId": "19:33642",
+      "sha256": "1876b35a351ddaf89b1d924edca2e8eab4c6e84b29098b098fb9baa25e2568e7",
+      "bytes": 250731,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-robotics.png",
+      "nodeId": "23:34742",
+      "sectionNodeId": "19:33642",
+      "sha256": "cd75dcf040ad78a8b9586168c8d99ec2681e2bce354a33b40fd6f0a3ee5bd549",
+      "bytes": 295731,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-consumer-product.png",
+      "nodeId": "23:34744",
+      "sectionNodeId": "19:33642",
+      "sha256": "47606ef499cf9e3daefc4e984dc790ed5dd6051cced544d7369f7643ccd14426",
+      "bytes": 162740,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-crm-standard.png",
+      "nodeId": "23:34748",
+      "sectionNodeId": "19:33642",
+      "sha256": "503a626cf5f12aa8fcfdd10401864fe83808a2f8ec8d5ce24cbce13e8e15cbd1",
+      "bytes": 143593,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-software-delivery.png",
+      "nodeId": "23:34814",
+      "sectionNodeId": "19:33642",
+      "sha256": "752438304c527795a2da84c0580a4b74ee975056de4bfdac3b7941334f2f01d2",
+      "bytes": 181108,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-auto-compliance.png",
+      "nodeId": "23:34885",
+      "sectionNodeId": "19:33642",
+      "sha256": "4e58cb5c42cbf6c075b0a629582256614f5d1b7628f1c2e1b2dbfe950be3407a",
+      "bytes": 108871,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-content-production.png",
+      "nodeId": "23:34951",
+      "sectionNodeId": "19:33642",
+      "sha256": "64b515f44731cc460854eb0fd427eaf9aa2015abab04849cd6ccf4cec65d00e1",
+      "bytes": 282299,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-consumer-rd.png",
+      "nodeId": "23:35155",
+      "sectionNodeId": "19:33642",
+      "sha256": "a80e71679b6fe6a1b08cb920a1039d07669107eef2852c92d9b8ca773f0edaa7",
+      "bytes": 153652,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-auto-supply-ltc.png",
+      "nodeId": "23:35018",
+      "sectionNodeId": "19:33642",
+      "sha256": "b2cdd56e585cb92df0ba50109bf4e7ed6e35f16eb9460546b77abe31aeddc032",
+      "bytes": 120582,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-electronics-ltc.png",
+      "nodeId": "23:35084",
+      "sectionNodeId": "19:33642",
+      "sha256": "7a088d4c8ee1f90d3d1541a07b061962a72475d82a0c1286c5bfffdd3d285483",
+      "bytes": 130473,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "template-retail-store.png",
+      "nodeId": "23:35221",
+      "sectionNodeId": "19:33642",
+      "sha256": "1cb20bf084eff39bdbbe105903177e927519095776e6f88104f497e7a3f403ba",
+      "bytes": 291658,
+      "exportScale": 3,
+      "width": 837,
+      "height": 450
+    },
+    {
+      "file": "ai-requirement-breakdown.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-outlined-mind-mapping.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "986251669363d20b5589dacd6833dff6dd8e8a4dd6e5b994b5a6458a51238f90",
+      "bytes": 1555,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    },
+    {
+      "file": "ai-milestone.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-outlined-flag.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "230b0fb8935ac9768268db60d1ed497bd29dbf67e923e66d170b73fa73d99828",
+      "bytes": 800,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    },
+    {
+      "file": "ai-release-notes.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-outlined-version.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "d4046b132dcb7c84e0d7b34e998b755f3a213e5d06a56f706b99a6fbcd6b36d3",
+      "bytes": 805,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    },
+    {
+      "file": "ai-acceptance-check.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-outlined-story.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "eaa0741b3092f2deb60e4fad8d0f205e8eaa0765436c083ae76f0ae313893c91",
+      "bytes": 1169,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    },
+    {
+      "file": "ai-risk-detection.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-outlined-issue.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "fd547e3301c5cf3e8355da5138c009cf833eb329d8223eb9847d01fe6c3f9fad",
+      "bytes": 1696,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    },
+    {
+      "file": "ai-owner-recommendation.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-icon-member-filled.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "93ffa4d39d130f893c4949e4608265e83ab6298904589d09485b136754b9893b",
+      "bytes": 719,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    },
+    {
+      "file": "ai-team-capacity.svg",
+      "reusedFrom": "/assets/figma/sidebar-img-icon-community-tab-filled.svg",
+      "sourceManifest": "../provenance.json",
+      "sha256": "c0cc6c8e42ebbb4a9fb9c5aed5678601e8159e806d63470e4f8ec069a2c8802a",
+      "bytes": 2584,
+      "format": "svg",
+      "note": "Unmodified white Figma glyph; shown on a saturated solid-color 32px icon tile."
+    }
+  ]
+}

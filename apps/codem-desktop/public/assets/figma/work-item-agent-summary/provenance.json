@@ -1,0 +1,46 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "109:36386",
+  "exportMethod": "Original Figma vector assets and 3x whole-avatar PNG export",
+  "assets": [
+    {
+      "file": "mei.png",
+      "nodeId": "109:40974",
+      "width": 20,
+      "height": 20,
+      "bytes": 6812,
+      "sha256": "da536149ab064f72252f3b3f6e8effab60391952c2329a91c8a8e5695a00cf59",
+      "scale": 3,
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "codem-logo.svg",
+      "nodeId": "109:36415",
+      "width": 9.66175,
+      "height": 7.86759,
+      "bytes": 11303,
+      "sha256": "a5c5a66052668959d431ef9984f270c6ae6b84e3c68a2266022f530c3fc94175"
+    },
+    {
+      "file": "branch.svg",
+      "nodeId": "109:36429",
+      "width": 11.0693,
+      "height": 52.5112,
+      "bytes": 405,
+      "sha256": "0a4702c1b8c6b047303355bcfaf660efa25d7139a44e12cc93208f4d17f9b73f"
+    },
+    {
+      "file": "stop.svg",
+      "nodeId": "116:3713",
+      "componentKey": "31cb3fa1489df995b809f5646b1d87ea556755d7",
+      "componentName": "icon_stop_outlined",
+      "library": "[UD] 07 图标表情库",
+      "exportMethod": "Original Figma library component exported as SVG_STRING",
+      "width": 24,
+      "height": 24,
+      "bytes": 615,
+      "sha256": "696885f4dd181a20f5b0d698f654f30d5fcbf666468eb44e4db7cff14aa9e1df"
+    }
+  ]
+}

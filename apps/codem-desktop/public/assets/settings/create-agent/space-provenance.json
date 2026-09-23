@@ -1,0 +1,31 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "74:13969",
+  "note": "Original unmodified Figma exports. Space icons exported at 2x.",
+  "assets": [
+    {
+      "name": "space-frontend.png",
+      "nodeId": "74:13986",
+      "path": "/assets/settings/create-agent/space-frontend.png",
+      "sha256": "240adbe5c767e19ee6078307662883fc00fa92e9bc675fcd2e806010cf69e360",
+      "sizeBytes": 897,
+      "exportScale": 2
+    },
+    {
+      "name": "space-backend.png",
+      "nodeId": "74:14004",
+      "path": "/assets/settings/create-agent/space-backend.png",
+      "sha256": "036b85ded0b62eddfcc75aa30524c6783ad2971574197aef29a48d0bbaeb72b6",
+      "sizeBytes": 1092,
+      "exportScale": 2
+    },
+    {
+      "name": "chevron-right.svg",
+      "nodeId": "74:13994",
+      "path": "/assets/settings/create-agent/chevron-right.svg",
+      "sha256": "3e2ba6a91ac38d035d7982fc00489b6df79be4a723ae93c265919c2326ef96e7",
+      "sizeBytes": 643,
+      "exportScale": 1
+    }
+  ]
+}

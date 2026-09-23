@@ -1,0 +1,76 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "117:42807",
+  "exportMethod": "Original Figma MCP assets; no hand-drawn icons",
+  "assets": [
+    {
+      "file": "dc.png",
+      "nodeId": "117:42822",
+      "bytes": 4762,
+      "sha256": "46550abe3d270b9ab2c161d890d4b79f5d7a610f1140a7a91261370b93338465",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "file": "wangbing.png",
+      "nodeId": "117:42831",
+      "bytes": 4923,
+      "sha256": "e6ffb42186009127dc946ed5502e913c98f1465a630e5d33329a65b1a58e6386",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "file": "attachment.png",
+      "nodeId": "117:42829",
+      "bytes": 314026,
+      "sha256": "779db3c9264fab1e6cbee9a5b11fe9d1e743edabebdc1b5915b4f3a90ba470c9",
+      "width": 1910,
+      "height": 988
+    },
+    {
+      "file": "ok.png",
+      "nodeId": "117:42850",
+      "bytes": 7322,
+      "sha256": "4f000fd08c041fa1f96cb18128e3a6aff0f1071bffce570c9e3562c9af2478db",
+      "width": 104,
+      "height": 96
+    },
+    {
+      "file": "reaction-divider.svg",
+      "nodeId": "117:42848",
+      "bytes": 231,
+      "sha256": "ab184f45d5098201abe7df0ca2a5d788b03e13c4e10281a09174d45f8d04922f"
+    },
+    {
+      "file": "thread-accent.svg",
+      "nodeId": "117:42852",
+      "bytes": 349,
+      "sha256": "eb3a942e27c553130a4d199387cad66526a8059c9b9fbc50cb120987b3ea9729"
+    },
+    {
+      "file": "text-style.svg",
+      "nodeId": "117:42869",
+      "bytes": 1278,
+      "sha256": "1816dec370209e3462bbef503a8d7ca184084601aad6767e476fd53531b17ac2"
+    },
+    {
+      "file": "codem-logo.svg",
+      "nodeId": "117:42883",
+      "bytes": 11171,
+      "sha256": "7b78f7500f67cf512e9141efbb6d5a77426c6d7b239b6d7362e853f8db651f37"
+    },
+    {
+      "file": "sort.svg",
+      "nodeId": "117:42898",
+      "bytes": 2085,
+      "sha256": "94b6186338b041efeab963073dd10f40fd55bbe4fa0b322fb337062caf691e95"
+    },
+    {
+      "file": "send.svg",
+      "nodeId": "117:44486",
+      "sourceNode": "117:44453",
+      "bytes": 763,
+      "sha256": "c6aa3699686528b4d0cc0d9e0d3c5025188a5c49b81d78deaac541e9c022ad45"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "155:81764",
+  "frame": {
+    "width": 700,
+    "height": 336
+  },
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING, contentsOnly: true, useAbsoluteBounds: false. Original export without vector edits.",
+  "assets": [
+    {
+      "file": "folder.svg",
+      "nodeId": "155:81771",
+      "width": 24,
+      "height": 24,
+      "sha256": "f4ddc41ad1001d4b9d81d5354b043c1d381bc3251be443e3cb697908f1505eec",
+      "bytes": 2480
+    }
+  ]
+}

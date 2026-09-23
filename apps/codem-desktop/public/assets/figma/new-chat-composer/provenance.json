@@ -1,0 +1,81 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "153:81695",
+  "frame": {
+    "width": 754,
+    "height": 176
+  },
+  "composer": {
+    "nodeId": "143:81331",
+    "width": 753.796,
+    "height": 135.683,
+    "cornerRadius": 21.537
+  },
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING, contentsOnly: true, useAbsoluteBounds: false. Original exports without vector edits.",
+  "assets": [
+    {
+      "file": "add.svg",
+      "nodeId": "143:81441",
+      "width": 17.229625701904297,
+      "height": 17.229625701904297,
+      "sha256": "dedee77fcd8fea8d54ae77748a598ea138ee701bdbc7295bd5696d36addcca8d",
+      "bytes": 585
+    },
+    {
+      "file": "cloud.svg",
+      "nodeId": "152:81522",
+      "width": 16,
+      "height": 16,
+      "sha256": "82fded492b2e2c06defae66de1ffd60229cb9173b1790211d7ff04a78550a357",
+      "bytes": 1118
+    },
+    {
+      "file": "approve.svg",
+      "nodeId": "143:81514",
+      "width": 16,
+      "height": 16,
+      "sha256": "193e862113c93d4c19e5cd08f4e69e14cfad083b5e9cdf172093477ddbeae193",
+      "bytes": 890
+    },
+    {
+      "file": "intelligence.svg",
+      "nodeId": "152:81526",
+      "width": 16,
+      "height": 16,
+      "sha256": "12f6e577a54b36cdbe6c52e7d39028ac2b286a90c439b4f9f2ce45c14cee0690",
+      "bytes": 3395
+    },
+    {
+      "file": "chevron.svg",
+      "nodeId": "152:81528",
+      "width": 12,
+      "height": 12,
+      "sha256": "221f31e4d337c642c5593ca0a36d966bdced8dc9ec4bea49d512b7cf989be50c",
+      "bytes": 217
+    },
+    {
+      "file": "send.svg",
+      "nodeId": "143:81447",
+      "width": 15.075922012329102,
+      "height": 15.075922012329102,
+      "sha256": "bf4d58668e4541b3fa99394ac9abc67d81ec6b91f7fbc551f5ff899ae584c49b",
+      "bytes": 644
+    },
+    {
+      "file": "templates.svg",
+      "nodeId": "153:81569",
+      "width": 16,
+      "height": 16,
+      "sha256": "da75fc1b7bf1c97063116e1abf9b0d157b65e14167d6cdb076dbfb2e143b16a8",
+      "bytes": 1255
+    },
+    {
+      "file": "more.svg",
+      "nodeId": "153:81691",
+      "width": 16,
+      "height": 16,
+      "sha256": "9ff3dbe9bb271e6d3b0c15a03acce87023d2885bdd5b2bdec270c3b7bdf90023",
+      "bytes": 811
+    }
+  ]
+}

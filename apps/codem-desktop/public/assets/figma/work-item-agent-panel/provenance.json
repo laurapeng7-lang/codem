@@ -1,0 +1,74 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "109:39391",
+  "selectedRowNode": "109:38953",
+  "exportMethod": "Original Figma MCP assets; no hand-drawn icons",
+  "assets": [
+    {
+      "file": "stop-generating.svg",
+      "nodeId": "109:39692",
+      "bytes": 485,
+      "sha256": "06a7b9b4aaea4aa8993e96146f22c3af01af5bab8fe592a39ce91a5dc9e381a4"
+    },
+    {
+      "file": "chevron.svg",
+      "nodeId": "109:39497",
+      "bytes": 337,
+      "sha256": "a14ee350b3b5926c851eb01c428ba6d17b3b773ff607f812e57bae10032536ba"
+    },
+    {
+      "file": "node-progress.svg",
+      "nodeId": "109:39400",
+      "bytes": 575,
+      "sha256": "e4d880caacb9ac65c099a6a3f3f8b94172c4f53ea3f4788e1dc68076e9082c1c"
+    },
+    {
+      "file": "divider.svg",
+      "nodeId": "109:39406",
+      "bytes": 258,
+      "sha256": "3446818452ca43dc93742bcfa2d2432c93732ef9cb4173a72d10499b93f4c373"
+    },
+    {
+      "file": "explored.svg",
+      "nodeId": "109:39493",
+      "bytes": 1082,
+      "sha256": "d3b1e570c02c0a4f8b9d509aef8f19340b02f1d09df348533f6d062b6ad021fc"
+    },
+    {
+      "file": "terminal.svg",
+      "nodeId": "109:39523",
+      "bytes": 2874,
+      "sha256": "5c6cbeb575470e04f6b7ab7321bd0928446865d5d0f50f86f2a8c6f16f73e696"
+    },
+    {
+      "file": "history.svg",
+      "nodeId": "109:39632",
+      "bytes": 1326,
+      "sha256": "b321debad4738f0fce527ad24412f39bceb82fd3a62a3bad07b6221a3857ecf3"
+    },
+    {
+      "file": "codem-logo.svg",
+      "nodeId": "109:39639",
+      "bytes": 11165,
+      "sha256": "d2f0e2b037172cf4e8137e27f2c991f620ba97fa4191a6cc8354d89e81965e57"
+    },
+    {
+      "file": "close.svg",
+      "nodeId": "109:39645",
+      "bytes": 823,
+      "sha256": "b051ee72f56e3d7fce4e8e8af8caf64cd38b36b0099030f6d7aefdbc6f532f86"
+    },
+    {
+      "file": "work-item.png",
+      "nodeId": "109:39397",
+      "bytes": 312,
+      "sha256": "f14a155470ad1f969955338133830973d71c2ff41fee4d7bb26ce2eadcad8b9d"
+    },
+    {
+      "file": "breadcrumb.svg",
+      "nodeId": "109:39399",
+      "bytes": 611,
+      "sha256": "6d0e9ece55e6d52a8dd257475368c81ea46fea54c5fcd0dc6aa46848cf9c1af0"
+    }
+  ]
+}

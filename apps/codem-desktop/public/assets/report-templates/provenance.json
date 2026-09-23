@@ -1,0 +1,149 @@
+{
+  "kind": "Custom report template cover illustrations",
+  "note": "Illustrative layouts and fictional metrics; not screenshots of generated reports. No icons are drawn.",
+  "paletteSource": "src/report-themes.json",
+  "reportSource": "public/reports/project-risk-report-beautified.html",
+  "generator": "scripts/generate-report-template-covers.py",
+  "assets": [
+    {
+      "file": "portfolio-health.png",
+      "theme": "paper-ink",
+      "width": 864,
+      "height": 400,
+      "sha256": "2e9ac066f3cd8ac51886d50be438921cc078e392fb95b56bb44e38205dc00d5d"
+    },
+    {
+      "file": "flow-efficiency.png",
+      "theme": "cobalt-grid",
+      "width": 864,
+      "height": 400,
+      "sha256": "552a6e65950474206e894d98ddf1f2edfec1e3da0e263a399f6f83fb7a711380"
+    },
+    {
+      "file": "milestone-forecast.png",
+      "theme": "signal",
+      "width": 864,
+      "height": 400,
+      "sha256": "8cc0e3723b08d787a820efba8ee168b05d51ec7ac532a109297bc602c66ffd0a"
+    },
+    {
+      "file": "risk-matrix.png",
+      "theme": "editorial-forest",
+      "width": 864,
+      "height": 400,
+      "sha256": "75b8222d257508f8b5626d22bfa73ff3e2dd9455e8e95dea48e6b9f259a29703"
+    },
+    {
+      "file": "project-retrospective.png",
+      "theme": "vintage-editorial",
+      "width": 864,
+      "height": 400,
+      "sha256": "c75b85bffca462715c865c0eb126d19688a4954b4fc6785e9a95b6a8f32dbfaa"
+    },
+    {
+      "file": "root-cause.png",
+      "theme": "bold-signal",
+      "width": 864,
+      "height": 400,
+      "sha256": "e692ec0445133aecea2cc0b6dc2de81427ab0ae60e9108777b337b1d8909b9d9"
+    },
+    {
+      "file": "resource-capacity.png",
+      "theme": "blue-professional",
+      "width": 864,
+      "height": 400,
+      "sha256": "db79a778872d5aa26b10735cfd0223885e1f5615cd8b5d847b0c3bb6dbaad52a"
+    },
+    {
+      "file": "okr-delivery.png",
+      "theme": "emerald-editorial",
+      "width": 864,
+      "height": 400,
+      "sha256": "8c16ee3a492883645ece1eaaf6c686c9f8cdd20597dc63f9f84fff66c6efd1c2"
+    },
+    {
+      "file": "cycle-time.png",
+      "theme": "cartesian",
+      "width": 864,
+      "height": 400,
+      "sha256": "4ec1d5ce5cfbdbc85b72dfebf323af5342b2c41af3df2567920fddb89c12eb92"
+    },
+    {
+      "file": "dependency-blockers.png",
+      "theme": "studio",
+      "width": 864,
+      "height": 400,
+      "sha256": "7626fd5c141090b2db41a1b1d1b8aabfcc4cf3fad58c1426aef9f05ebe6746d3"
+    },
+    {
+      "file": "risk-response.png",
+      "theme": "coral",
+      "width": 864,
+      "height": 400,
+      "sha256": "dff89df9095158e2bf5fd61163e9c9936dabf48618c1727f9133b706e7bd5380"
+    },
+    {
+      "file": "improvement-review.png",
+      "theme": "notebook-tabs",
+      "width": 864,
+      "height": 400,
+      "sha256": "d5f4f762513515819f351eeb4415b7591e3dc657c784c1dede847cd3942abaa4"
+    },
+    {
+      "file": "portfolio-priorities.png",
+      "theme": "emerald-editorial",
+      "width": 864,
+      "height": 400,
+      "sha256": "9490139e149ec5f5bda41504232d1e2a444bc21bb47c664b5c2ce41273d6288d"
+    },
+    {
+      "file": "wip-aging.png",
+      "theme": "cartesian",
+      "width": 864,
+      "height": 400,
+      "sha256": "c427d6db14875bf12286cbe5acab3d8382244d4c4300c5a0a510db8ef1dfb988"
+    },
+    {
+      "file": "throughput-trends.png",
+      "theme": "cobalt-grid",
+      "width": 864,
+      "height": 400,
+      "sha256": "d27ed4df1fd083d977c3c8d97664a42d5f053068c1e9e9a534890e39536293b2"
+    },
+    {
+      "file": "release-readiness.png",
+      "theme": "signal",
+      "width": 864,
+      "height": 400,
+      "sha256": "c502493fcc0643c97b1a2ede182b2243b8138679ea1cee9a808deae1c0bcfc5d"
+    },
+    {
+      "file": "schedule-recovery.png",
+      "theme": "studio",
+      "width": 864,
+      "height": 400,
+      "sha256": "d5a334ff6a231be545cdb969d7e8c29391ff7e3627d4d8e6f8f195ef23029143"
+    },
+    {
+      "file": "scope-change-risk.png",
+      "theme": "editorial-forest",
+      "width": 864,
+      "height": 400,
+      "sha256": "ac957ac71be6da45a9738681c7957ecda296f3ff2ed72da8316756e12f62ef03"
+    },
+    {
+      "file": "external-dependency-risk.png",
+      "theme": "coral",
+      "width": 864,
+      "height": 400,
+      "sha256": "5e0c67c8b1be55b70aff00474d94156f56f10adf4b50b41b01c15bd319edb90b"
+    },
+    {
+      "file": "incident-learning.png",
+      "theme": "vintage-editorial",
+      "width": 864,
+      "height": 400,
+      "sha256": "8f454f368a7214213426102a1c0590ce78466c61aa7690f327d5815b6cd32072"
+    }
+  ]
+}

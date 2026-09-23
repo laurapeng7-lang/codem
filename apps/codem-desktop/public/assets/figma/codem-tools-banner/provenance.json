@@ -1,0 +1,48 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "174:9871",
+  "layout": {
+    "width": 1160,
+    "height": 159,
+    "radius": 16,
+    "borderWidth": 0.5,
+    "sectionGap": 20,
+    "background": {
+      "width": 1160,
+      "height": 1160,
+      "x": 0,
+      "y": -532
+    },
+    "copy": {
+      "x": 60,
+      "y": 22.5,
+      "gap": 20
+    },
+    "illustration": {
+      "x": 660.4,
+      "y": 20.30439,
+      "width": 345.6,
+      "height": 118.392677
+    }
+  },
+  "assets": [
+    {
+      "file": "background.png",
+      "nodeId": "174:9872",
+      "export": "Original image fill downloaded from Figma design context",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 784537,
+      "sha256": "5a0d180349f2940dae69a4ed445478cc83d9ea3ff191e7a429100673e5538535"
+    },
+    {
+      "file": "daily-bug-scan.png",
+      "nodeId": "174:9887",
+      "export": "Figma exportAsync PNG 3x, contentsOnly and useAbsoluteBounds",
+      "width": 1037,
+      "height": 356,
+      "bytes": 45822,
+      "sha256": "f96837e0b8ff8d2e29f23fdeba50eacb5a6a1bad51a2554485cf4f38c5a8edc0"
+    }
+  ]
+}

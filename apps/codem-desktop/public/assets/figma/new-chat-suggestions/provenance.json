@@ -1,0 +1,58 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "174:6663",
+  "exportMethod": "Exact SVG bytes from Figma get_design_context exports; no vector edits.",
+  "layout": {
+    "width": 700,
+    "height": 196,
+    "rowHeight": 36,
+    "rowGap": 4,
+    "rowPadding": 8,
+    "iconSize": 16,
+    "iconGap": 4,
+    "templatesIconGap": 8,
+    "fontSize": 14,
+    "lineHeight": 20,
+    "letterSpacing": 0.28,
+    "insetLeft": 8,
+    "gapAboveComposer": 16
+  },
+  "assets": [
+    {
+      "file": "search-ai.svg",
+      "nodeId": "174:6794",
+      "bytes": 1675,
+      "sha256": "f13a131078b2f201f3df61f69a5545b4417d177cb1aa57c324151a1b475677e2"
+    },
+    {
+      "file": "document.svg",
+      "nodeId": "174:6797",
+      "bytes": 1114,
+      "sha256": "f5f371ad42a89a16fbac27324ac7798c798b0b992489c388a709cbdfbd005329"
+    },
+    {
+      "file": "mosaic-box.svg",
+      "nodeId": "174:6800",
+      "bytes": 2034,
+      "sha256": "96db158a71a6c9bb4a6ea4714b48147f4b1b482950130a9a54ccbce4ba146f2e"
+    },
+    {
+      "file": "apps.svg",
+      "nodeId": "174:6807",
+      "bytes": 3847,
+      "sha256": "5a7fc5440d80f93156a243045774ce507cec5e41678aca10e98e3cb1a541c34e"
+    },
+    {
+      "file": "templates.svg",
+      "nodeId": "174:6714",
+      "bytes": 1311,
+      "sha256": "123b821a4e074b8978ad43dadde2c4706b1e10649fbe8f962d9a3699f020797a"
+    },
+    {
+      "file": "chevron-right.svg",
+      "nodeId": "174:6719",
+      "bytes": 610,
+      "sha256": "9b348f1172baaa2c1c995c6d7acc5f49d067766afd644a9555ebd99306fc88f6"
+    }
+  ]
+}

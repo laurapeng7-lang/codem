@@ -1,0 +1,15 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "71:38592",
+  "exportMethod": "Figma MCP download_assets svgAssets, unchanged export bytes",
+  "assets": [
+    {
+      "file": "cell-arrow.svg",
+      "nodeId": "71:42604",
+      "width": 16,
+      "height": 16,
+      "bytes": 480,
+      "sha256": "ee442d7386bc48426f3c5492852abac5ba57d9be1155868d5d2738cb2ef4361e"
+    }
+  ]
+}

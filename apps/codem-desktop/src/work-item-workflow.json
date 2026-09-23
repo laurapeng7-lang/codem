@@ -1,0 +1,585 @@
+{
+  "source": {
+    "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+    "nodeId": "44:17221"
+  },
+  "width": 2149,
+  "height": 171,
+  "initialScrollLeft": 236.5,
+  "nodes": [
+    {
+      "id": "44:20675",
+      "label": "Kickoff",
+      "x": 22.5,
+      "y": 76.5,
+      "width": 71,
+      "height": 28,
+      "state": "completed"
+    },
+    {
+      "id": "44:20607",
+      "label": "Round 1",
+      "x": 135.5,
+      "y": 76.5,
+      "width": 76,
+      "height": 28,
+      "state": "completed"
+    },
+    {
+      "id": "44:20743",
+      "label": "UX Design",
+      "x": 252.5,
+      "y": 76.5,
+      "width": 90,
+      "height": 28,
+      "state": "completed"
+    },
+    {
+      "id": "44:20811",
+      "label": "Initial Review",
+      "x": 383.5,
+      "y": 76.5,
+      "width": 106,
+      "height": 28,
+      "state": "completed"
+    },
+    {
+      "id": "44:20879",
+      "label": "DA Tracking",
+      "x": 529.5,
+      "y": 76.5,
+      "width": 100,
+      "height": 28,
+      "state": "completed"
+    },
+    {
+      "id": "44:20947",
+      "label": "Detail Review",
+      "x": 670.5,
+      "y": 76.5,
+      "width": 108,
+      "height": 28,
+      "state": "current"
+    },
+    {
+      "id": "44:21063",
+      "label": "Tech Design",
+      "x": 821.5,
+      "y": 76.5,
+      "width": 101,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21348",
+      "label": "FE Plan",
+      "x": 967.5,
+      "y": 24.5,
+      "width": 96,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21253",
+      "label": "Server Plan",
+      "x": 967.5,
+      "y": 76.5,
+      "width": 96,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21158",
+      "label": "QA Plan",
+      "x": 967.5,
+      "y": 128.5,
+      "width": 96,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21633",
+      "label": "FE Dev",
+      "x": 1104.5,
+      "y": 24.5,
+      "width": 94,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21538",
+      "label": "Server Dev",
+      "x": 1104.5,
+      "y": 76.5,
+      "width": 94,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21443",
+      "label": "QA Plan",
+      "x": 1104.5,
+      "y": 128.5,
+      "width": 94,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21918",
+      "label": "Test Case Design",
+      "x": 1240.5,
+      "y": 24.5,
+      "width": 130,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21823",
+      "label": "Cross Testing",
+      "x": 1240.5,
+      "y": 76.5,
+      "width": 130,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:21728",
+      "label": "UX Writing",
+      "x": 1240.5,
+      "y": 128.5,
+      "width": 130,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22203",
+      "label": "Case Review",
+      "x": 1412.5,
+      "y": 24.5,
+      "width": 109,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22108",
+      "label": "Cross Testing",
+      "x": 1412.5,
+      "y": 76.5,
+      "width": 109,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22013",
+      "label": "UI Copy",
+      "x": 1412.5,
+      "y": 128.5,
+      "width": 109,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:20392",
+      "label": "QA JAB",
+      "x": 1572.5,
+      "y": 76.5,
+      "width": 74,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22583",
+      "label": "PM Audit",
+      "x": 1692.5,
+      "y": 10.5,
+      "width": 98,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22488",
+      "label": "Safety Gate",
+      "x": 1692.5,
+      "y": 54.5,
+      "width": 98,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22393",
+      "label": "Manual",
+      "x": 1692.5,
+      "y": 98.5,
+      "width": 98,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:22298",
+      "label": "UI Audit",
+      "x": 1692.5,
+      "y": 142.5,
+      "width": 98,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:20267",
+      "label": "Gray",
+      "x": 1834.5,
+      "y": 50.5,
+      "width": 57,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:20172",
+      "label": "UAT",
+      "x": 1834.5,
+      "y": 102.5,
+      "width": 57,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:20077",
+      "label": "Pre release",
+      "x": 1939.5,
+      "y": 76.5,
+      "width": 95,
+      "height": 28,
+      "state": "pending"
+    },
+    {
+      "id": "44:19976",
+      "label": "GA",
+      "x": 2063.5,
+      "y": 76.5,
+      "width": 48,
+      "height": 28,
+      "state": "pending"
+    }
+  ],
+  "connectors": [
+    {
+      "id": "44:20599",
+      "x": 207.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20599.svg"
+    },
+    {
+      "id": "44:20593",
+      "x": 338.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20593.svg"
+    },
+    {
+      "id": "44:20587",
+      "x": 484.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20587.svg"
+    },
+    {
+      "id": "44:20581",
+      "x": 627.5,
+      "y": 88,
+      "width": 45,
+      "height": 6,
+      "asset": "line-44-20581.svg"
+    },
+    {
+      "id": "44:20575",
+      "x": 776.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20575.svg"
+    },
+    {
+      "id": "44:20569",
+      "x": 922.5,
+      "y": 37.5,
+      "width": 47,
+      "height": 54,
+      "asset": "line-44-20569.svg"
+    },
+    {
+      "id": "44:20563",
+      "x": 922.5,
+      "y": 87.5,
+      "width": 47,
+      "height": 57,
+      "asset": "line-44-20563.svg"
+    },
+    {
+      "id": "44:20557",
+      "x": 922.5,
+      "y": 86.5,
+      "width": 47,
+      "height": 6,
+      "asset": "line-44-20557.svg"
+    },
+    {
+      "id": "44:20551",
+      "x": 1060.5,
+      "y": 38,
+      "width": 44,
+      "height": 54,
+      "asset": "line-44-20551.svg"
+    },
+    {
+      "id": "44:20545",
+      "x": 1060.5,
+      "y": 88,
+      "width": 44,
+      "height": 56,
+      "asset": "line-44-20545.svg"
+    },
+    {
+      "id": "44:20539",
+      "x": 1059.5,
+      "y": 35.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20539.svg"
+    },
+    {
+      "id": "44:20533",
+      "x": 1059.5,
+      "y": 139.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20533.svg"
+    },
+    {
+      "id": "44:20527",
+      "x": 1190.5,
+      "y": 37.5,
+      "width": 52,
+      "height": 56,
+      "asset": "line-44-20527.svg"
+    },
+    {
+      "id": "44:20521",
+      "x": 1190.5,
+      "y": 37.5,
+      "width": 52,
+      "height": 56,
+      "asset": "line-44-20521.svg"
+    },
+    {
+      "id": "44:20515",
+      "x": 1190.5,
+      "y": 36.5,
+      "width": 52,
+      "height": 109,
+      "asset": "line-44-20515.svg"
+    },
+    {
+      "id": "44:20509",
+      "x": 1191.5,
+      "y": 89.5,
+      "width": 51,
+      "height": 56,
+      "asset": "line-44-20509.svg"
+    },
+    {
+      "id": "44:20503",
+      "x": 1191.5,
+      "y": 140.5,
+      "width": 51,
+      "height": 6,
+      "asset": "line-44-20503.svg"
+    },
+    {
+      "id": "44:20497",
+      "x": 1367.5,
+      "y": 35.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20497.svg"
+    },
+    {
+      "id": "44:20491",
+      "x": 1367.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20491.svg"
+    },
+    {
+      "id": "44:20485",
+      "x": 1367.5,
+      "y": 139.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20485.svg"
+    },
+    {
+      "id": "44:20384",
+      "x": 1644.5,
+      "y": 22.5,
+      "width": 50,
+      "height": 69,
+      "asset": "line-44-20384.svg"
+    },
+    {
+      "id": "44:20378",
+      "x": 1644.5,
+      "y": 67.5,
+      "width": 48,
+      "height": 23,
+      "asset": "line-44-20378.svg"
+    },
+    {
+      "id": "44:20372",
+      "x": 1644.5,
+      "y": 89.5,
+      "width": 49,
+      "height": 70,
+      "asset": "line-44-20372.svg"
+    },
+    {
+      "id": "44:20366",
+      "x": 1644.5,
+      "y": 89.5,
+      "width": 50,
+      "height": 25,
+      "asset": "line-44-20366.svg"
+    },
+    {
+      "id": "44:20360",
+      "x": 1644.5,
+      "y": 87.5,
+      "width": 58,
+      "height": 6,
+      "asset": "line-44-20360.svg"
+    },
+    {
+      "id": "44:20069",
+      "x": 2030.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-20069.svg"
+    },
+    {
+      "id": "44:19968",
+      "x": 90.5,
+      "y": 87.5,
+      "width": 48,
+      "height": 6,
+      "asset": "line-44-19968.svg"
+    },
+    {
+      "id": "44:17295",
+      "x": 1520.5,
+      "y": 37.5,
+      "width": 173,
+      "height": 33,
+      "asset": "line-44-17295.svg"
+    },
+    {
+      "id": "44:17301",
+      "x": 1520.5,
+      "y": 37.5,
+      "width": 174,
+      "height": 77,
+      "asset": "line-44-17301.svg"
+    },
+    {
+      "id": "44:17307",
+      "x": 1542.5,
+      "y": 37.5,
+      "width": 173,
+      "height": 122,
+      "asset": "line-44-17307.svg"
+    },
+    {
+      "id": "44:17312",
+      "x": 1517.5,
+      "y": 90.5,
+      "width": 548,
+      "height": 68,
+      "asset": "line-44-17312.svg"
+    },
+    {
+      "id": "44:19938",
+      "x": 1517.5,
+      "y": 87.5,
+      "width": 58,
+      "height": 6,
+      "asset": "line-44-19938.svg"
+    },
+    {
+      "id": "44:19932",
+      "x": 1788.5,
+      "y": 21.5,
+      "width": 48,
+      "height": 44,
+      "asset": "line-44-19932.svg"
+    },
+    {
+      "id": "44:19926",
+      "x": 1788.5,
+      "y": 61.5,
+      "width": 48,
+      "height": 97,
+      "asset": "line-44-19926.svg"
+    },
+    {
+      "id": "44:19920",
+      "x": 1788.5,
+      "y": 114.5,
+      "width": 48,
+      "height": 44,
+      "asset": "line-44-19920.svg"
+    },
+    {
+      "id": "44:19914",
+      "x": 1788.5,
+      "y": 21.5,
+      "width": 48,
+      "height": 98,
+      "asset": "line-44-19914.svg"
+    },
+    {
+      "id": "44:19908",
+      "x": 1889.5,
+      "y": 63.5,
+      "width": 52,
+      "height": 29,
+      "asset": "line-44-19908.svg"
+    },
+    {
+      "id": "44:19902",
+      "x": 1890,
+      "y": 88.5,
+      "width": 51,
+      "height": 29,
+      "asset": "line-44-19902.svg"
+    },
+    {
+      "id": "44:17324",
+      "x": 1890.5,
+      "y": 63.5,
+      "width": 178,
+      "height": 29,
+      "asset": "line-44-17324.svg"
+    },
+    {
+      "id": "44:17330",
+      "x": 1890.5,
+      "y": 88.5,
+      "width": 176,
+      "height": 29,
+      "asset": "line-44-17330.svg"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+.is-marketplace .sidebar { border-right: 1px solid #e5e6e8; }
+.marketplace-page {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  scroll-padding-top: 76px;
+  container: marketplace / inline-size;
+  background: #fff;
+  font-family: "Inter", "PingFang SC", "Microsoft YaHei", sans-serif;
+  scrollbar-width: thin;
+  scrollbar-color: #d0d3d6 transparent;
+}
+.marketplace-layout { --marketplace-gutter: 24px; --marketplace-tabs-top-space: 12px; padding: 0 var(--marketplace-gutter) 34px; }
+.marketplace-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  height: calc(52px + var(--marketplace-tabs-top-space));
+  margin: 0 calc(-1 * var(--marketplace-gutter));
+  padding: var(--marketplace-tabs-top-space) var(--marketplace-gutter) 12px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  background: rgb(255 255 255 / 78%);
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+}
+.marketplace-page[data-scrolled="true"] .marketplace-tabs {
+  box-shadow: inset 0 -1px 0 rgb(31 35 41 / 5%);
+}
+@supports not ((backdrop-filter: blur(16px)) or (-webkit-backdrop-filter: blur(16px))) {
+  .marketplace-tabs { background: #fff; }
+}
+.marketplace-tabs::-webkit-scrollbar { display: none; }
+.marketplace-tabs button { flex: 0 0 auto; height: 40px; font-size: 18px; line-height: 24px; font-weight: 600; color: #8f959e; border-radius: 4px; }
+.marketplace-tabs button.selected, .marketplace-tabs button:hover { color: #1f2329; }
+.marketplace-banners { display: grid; grid-template-columns: minmax(0, 1fr) 356px; gap: 16px; margin-bottom: 32px; }
+.marketplace-main-banner, .marketplace-codem-banner { height: 200px; min-width: 0; border-radius: 12px; overflow: hidden; position: relative; isolation: isolate; }
+.marketplace-main-banner { background: linear-gradient(104.617deg, #e0e9ff, #f0f4ffb3 36.713%, #f0f4ff 66.632%, #e0e9ff); }
+.marketplace-banner-wash { position: absolute; width: 780px; height: 360px; left: 0; top: -20px; object-fit: cover; filter: blur(47.95px); pointer-events: none; }
+.marketplace-banner-interface { position: absolute; width: 378px; height: 300px; top: -50px; right: -56px; object-fit: cover; pointer-events: none; }
+.marketplace-banner-copy { position: relative; display: flex; flex-direction: column; align-items: flex-start; width: 274px; margin-left: 40px; top: 50%; transform: translateY(-50%); }
+.marketplace-banner-brand { display: flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 500; line-height: 20px; color: #00257a; }
+.marketplace-banner-copy h1 { margin-top: 4px; font-size: 20px; line-height: 30px; color: #1b2268; font-weight: 500; }
+.marketplace-banner-copy p { margin-top: 8px; font-size: 14px; line-height: 20px; letter-spacing: .28px; color: #0a295799; }
+.marketplace-banner-copy button { margin-top: 16px; padding: 6px 12px; height: 32px; border-radius: 999px; background: #ffffff80; backdrop-filter: blur(60px); font-size: 14px; line-height: 20px; font-weight: 500; }
+.marketplace-banner-copy button:hover { background: #fff; }
+.marketplace-codem-banner { background: #fff; box-shadow: inset 0 0 0 1px #e0e9f099; text-align: center; }
+.marketplace-banner-sky { position: absolute; width: 587px; height: 364px; left: calc(50% + 1.5px); top: -36px; transform: translateX(-50%) scaleX(-1); opacity: .6; }
+.marketplace-codem-banner .marketplace-banner-wash { left: -141px; top: -82px; width: 640px; }
+.marketplace-codem-screen { position: absolute; width: 356px; height: 235.258px; top: 0; left: 50%; transform: translateX(-50%); object-fit: cover; }
+.marketplace-codem-logo { position: absolute; width: 31.26px; height: 25.684px; left: 17.16px; top: 17.158px; }
+.marketplace-codem-caption { position: absolute; bottom: 0; left: 0; width: 100%; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 16px 20px; backdrop-filter: blur(25px); background: linear-gradient(transparent, #ffffff1a); }
+.marketplace-codem-caption strong { font-size: 20px; font-weight: 500; line-height: 30px; color: #1b2268; white-space: nowrap; }
+.marketplace-codem-caption > span { font-size: 14px; line-height: 22px; color: #1b2268b3; }
+.marketplace-sections { display: flex; flex-direction: column; gap: 40px; }
+.marketplace-section { min-width: 0; }
+.marketplace-section-heading { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 22px; padding: 0 4px; margin-bottom: 16px; }
+.marketplace-section-heading h2 { font-size: 16px; line-height: 22px; font-weight: 600; }
+.marketplace-view-more { font-size: 14px; line-height: 20px; color: #1f232999; white-space: nowrap; border-radius: 4px; }
+.marketplace-view-more:hover { color: #5e36ef; }
+.marketplace-template-grid, .marketplace-skill-grid, .marketplace-app-grid, .marketplace-plugin-grid, .marketplace-academy-grid { display: grid; gap: 12px; }
+.marketplace-template-grid, .marketplace-skill-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.marketplace-app-grid, .marketplace-plugin-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.marketplace-plugin-grid, .marketplace-academy-grid { gap: 16px; }
+.marketplace-academy-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.marketplace-card { min-width: 0; position: relative; border-radius: 12px; background: #fff; text-align: left; }
+/* An inset border preserves the exported auto-layout dimensions. */
+.marketplace-card::after { content: ""; position: absolute; inset: 0; border: 1px solid #00000014; border-radius: inherit; pointer-events: none; }
+.marketplace-card:hover::after { border-color: #d9d5e7; }
+.marketplace-template-card { display: flex; flex-direction: column; overflow: hidden; }
+.marketplace-template-cover { display: block; width: 100%; height: 150px; overflow: hidden; }
+.marketplace-template-cover img { width: 100%; height: 100%; object-fit: cover; object-position: left top; }
+.marketplace-template-copy { display: flex; flex-direction: column; gap: 4px; padding: 12px 16px; width: 100%; }
+.marketplace-template-copy strong { font-size: 14px; line-height: 20px; letter-spacing: .28px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.marketplace-template-copy > span { font-size: 12px; line-height: 16px; }
+.marketplace-skill-card { display: flex; flex-direction: column; gap: 8px; padding: 8px; overflow: hidden; }
+.marketplace-skill-cover { width: 100%; height: 100px; border-radius: 12px; object-fit: cover; object-position: center top; }
+.marketplace-skill-copy { display: flex; flex-direction: column; gap: 4px; width: 100%; min-width: 0; padding: 0 8px 8px; }
+.marketplace-skill-copy strong { font-size: 14px; line-height: 20px; letter-spacing: .28px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.marketplace-skill-copy > span { font-size: 12px; line-height: 20px; color: #1f232999; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.marketplace-app-card { display: flex; align-items: center; gap: 8px; padding: 10px 16px; }
+.marketplace-app-icon { width: 32px; height: 32px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; border-radius: 6px; }
+.marketplace-app-icon.has-background { box-shadow: inset 0 0 0 .5px #0000001f; }
+.marketplace-app-icon img { object-fit: contain; }
+.marketplace-app-copy { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.marketplace-app-name, .marketplace-plugin-name { display: flex; align-items: center; gap: 6px; min-width: 0; }
+.marketplace-app-name strong { font-weight: 500; font-size: 14px; line-height: 22px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.marketplace-official { display: inline-block; flex-shrink: 0; height: 16px; padding: 0 4.364px; border-radius: 2.909px; font-size: 10px; font-weight: 500; line-height: 16px; color: #78501f; background: linear-gradient(122.041deg, #fce9cb 17.528%, #eed8b5 90.731%); }
+.marketplace-app-description { font-size: 12px; line-height: 20px; color: #646a73; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.marketplace-plugin-card { display: flex; flex-direction: column; align-items: stretch; padding: 24px; }
+.marketplace-plugin-heading { display: flex; align-items: center; gap: 12px; }
+.marketplace-plugin-icon { display: flex; align-items: center; justify-content: center; width: 42px; height: 42px; flex-shrink: 0; border-radius: 8px; }
+.marketplace-plugin-icon img { flex-shrink: 0; object-fit: contain; }
+/* Exported icon frames already contain their own border and corner geometry. */
+.marketplace-rounded-image { border-radius: 12px; }
+.marketplace-plugin-name strong { font-size: 16px; line-height: 24px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.marketplace-plugin-description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; height: 48px; overflow: hidden; margin-top: 16px; font-size: 14px; line-height: 22px; color: #646a73; }
+.marketplace-downloads { display: flex; align-items: center; gap: 4px; margin-top: 8px; font-size: 12px; line-height: 20px; color: #8f959e; }
+.marketplace-downloads img { margin-top: -2px; }
+.marketplace-academy-card { position: relative; isolation: isolate; min-width: 0; height: 200px; overflow: hidden; border-radius: 12px; box-shadow: inset 0 0 0 .5px #0000000d; text-align: left; }
+.marketplace-academy-card.apps { background: linear-gradient(253.605deg, #e2e0ff 22.045%, #eff3ff 84.149%); }
+.marketplace-academy-card.automation { background: linear-gradient(104.306deg, #daf0ff 16.043%, #cce9fd 47.412%, #e6f3ff 84.724%); }
+.marketplace-academy-art { position: absolute; right: 0; top: 0; pointer-events: none; }
+.marketplace-academy-copy { position: relative; display: flex; flex-direction: column; justify-content: center; gap: 4px; height: 100%; padding: 20px 10px 20px 30px; }
+.marketplace-academy-copy > span { font-size: 12px; line-height: 20px; color: #1f232999; }
+.marketplace-academy-copy strong { font-size: 20px; line-height: 30px; font-weight: 500; color: #1f2329cc; }
+.marketplace-detail { width: min(480px, calc(100vw - 32px)); max-height: calc(100dvh - 48px); border: 1px solid #e5e6e8; border-radius: 16px; padding: 0; color: #1f2329; background: #fff; box-shadow: 0 16px 60px #1f232933; }
+.marketplace-detail::backdrop { background: #1f232947; }
+.marketplace-detail-content { padding: 28px; position: relative; }
+.marketplace-detail .marketplace-detail-close { position: absolute; right: 12px; top: 12px; background: white; z-index: 1; }
+.marketplace-detail-cover { width: 100%; max-height: 240px; object-fit: contain; border-radius: 8px; margin-bottom: 24px; }
+.marketplace-detail-icon { display: flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 12px; margin-bottom: 24px; }
+.marketplace-detail-icon img { object-fit: contain; }
+.marketplace-detail-kind { font-size: 12px; line-height: 20px; color: #8f959e; margin-bottom: 4px; }
+.marketplace-detail h2 { font-size: 22px; line-height: 32px; font-weight: 600; }
+.marketplace-detail-description { margin-top: 12px; font-size: 14px; line-height: 24px; color: #646a73; }
+.marketplace-filters { display: flex; align-items: center; gap: 8px; min-width: 0; height: 36px; margin-bottom: 24px; overflow-x: auto; scrollbar-width: none; }
+.marketplace-filters::-webkit-scrollbar { display: none; }
+.marketplace-filters button { flex: 0 0 auto; height: 36px; padding: 7px 14px; border-radius: 24px; font-size: 14px; line-height: 22px; color: #1f2329; background: #8f959e14; box-shadow: inset 0 0 0 .5px #8f959e33; white-space: nowrap; }
+.marketplace-filters button:hover { background: #8f959e24; }
+.marketplace-filters button[aria-pressed="true"] { color: #fff; background: #000; box-shadow: none; }
+.marketplace-tabs button:focus-visible, .marketplace-filters button:focus-visible { outline-offset: -3px; }
+.marketplace-catalog-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); align-items: start; gap: 12px; }
+.marketplace-catalog-plugin .marketplace-catalog-grid { gap: 16px; }
+.marketplace-catalog-app-card { display: flex; flex-direction: column; align-items: stretch; gap: 8px; height: 160px; padding: 16px; overflow: hidden; }
+.marketplace-catalog-app-heading { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.marketplace-catalog-app-heading img { flex: 0 0 32px; width: 32px; height: 32px; }
+.marketplace-catalog-app-icon { display: flex; align-items: center; justify-content: center; flex: 0 0 32px; width: 32px; height: 32px; border-radius: 6px; box-shadow: inset 0 0 0 .5px #0000001f; }
+.marketplace-catalog-app-icon img { flex: none; width: 20px; height: 20px; object-fit: contain; }
+.marketplace-catalog-app-heading strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 600; }
+.marketplace-catalog-app-description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; height: 40px; font-size: 14px; line-height: 20px; color: #1f2329cc; }
+.marketplace-catalog-skill .marketplace-skill-card { border-radius: 16px; }
+.marketplace-catalog-skill .marketplace-skill-copy > span { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; height: 40px; white-space: normal; }
+.marketplace-empty { padding: 64px 16px; color: #8f959e; text-align: center; font-size: 14px; line-height: 22px; }
+.marketplace-empty button { margin-top: 12px; color: #5e36ef; }
+.marketplace-mobile-title { font: 600 16px/24px "Inter", sans-serif; }
+@media (max-width: 1100px) {
+  .is-marketplace { flex-direction: column; }
+  .is-marketplace .mobile-topbar { display: flex; align-items: center; justify-content: space-between; flex: 0 0 48px; padding: 0 12px; border-bottom: .5px solid #ececee; }
+}
+@container marketplace (max-width: 1000px) {
+  .marketplace-banners { grid-template-columns: minmax(0, 1fr) 320px; }
+  .marketplace-main-banner .marketplace-banner-interface { right: -140px; opacity: .65; }
+  .marketplace-banner-copy { margin-left: 24px; }
+  .marketplace-template-grid, .marketplace-skill-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .marketplace-template-cover { height: auto; aspect-ratio: 1.86; }
+  .marketplace-skill-cover { height: auto; aspect-ratio: 263 / 100; }
+  .marketplace-app-grid, .marketplace-plugin-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .marketplace-catalog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .marketplace-academy-grid { grid-template-columns: minmax(0, 1fr); }
+}
+@container marketplace (max-width: 900px) {
+  .marketplace-banners { grid-template-columns: minmax(0, 1fr); }
+  .marketplace-main-banner .marketplace-banner-interface { right: -56px; opacity: 1; }
+}
+@container marketplace (max-width: 740px) {
+  .marketplace-layout { --marketplace-gutter: 20px; padding-bottom: 28px; }
+  .marketplace-codem-screen { top: -24px; width: 430px; height: 284px; }
+  .marketplace-tabs { gap: 28px; }
+  .marketplace-tabs button { font-size: 16px; }
+  .marketplace-plugin-card { padding: 20px; }
+}
+@container marketplace (max-width: 520px) {
+  .marketplace-layout { --marketplace-gutter: 16px; --marketplace-tabs-top-space: 8px; padding-bottom: 24px; }
+  .marketplace-tabs { gap: 24px; }
+  .marketplace-tabs button { font-size: 14px; }
+  .marketplace-main-banner .marketplace-banner-interface { right: -172px; opacity: .35; }
+  .marketplace-banner-copy { margin-left: 20px; width: min(274px, calc(100% - 40px)); }
+  .marketplace-banner-copy h1 { font-size: 19px; }
+  .marketplace-banners { margin-bottom: 28px; }
+  .marketplace-sections { gap: 28px; }
+  .marketplace-template-grid, .marketplace-skill-grid, .marketplace-app-grid, .marketplace-plugin-grid { grid-template-columns: minmax(0, 1fr); }
+  .marketplace-catalog-grid { grid-template-columns: minmax(0, 1fr); }
+  .marketplace-academy-copy { padding-left: 20px; }
+  .marketplace-academy-art { right: -90px; opacity: .65; }
+  .marketplace-academy-copy strong { font-size: 18px; }
+}

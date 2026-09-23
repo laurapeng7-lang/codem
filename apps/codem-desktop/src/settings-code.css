@@ -1,0 +1,48 @@
+.settings-code-workspace { display: flex; flex: 1; min-width: 0; min-height: 0; overflow: hidden; background: #fff; color: #333940; font-size: 13px; }
+.settings-code-workspace [hidden], .settings-code-workspace[hidden] { display: none; }
+.settings-code-workspace button { color: inherit; font-family: inherit; }
+.settings-code-workspace img { flex-shrink: 0; display: block; }
+.settings-code-workspace button:focus-visible { outline: 2px solid #3250eb80; outline-offset: -2px; }
+.settings-code-explorer { display: flex; flex: 0 0 280px; flex-direction: column; min-width: 0; min-height: 0; border-right: 1px solid #4d6b9933; }
+.settings-code-explorer-header { position: relative; display: flex; align-items: center; gap: 4px; flex: 0 0 38px; min-width: 0; padding: 0 8px 0 12px; }
+.settings-code-workspace-toggle { display: flex; align-items: center; gap: 8px; flex: 1; min-width: 0; height: 28px; border-radius: 4px; text-align: left; font-size: 13px; font-weight: 500; }
+.settings-code-workspace-toggle span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.settings-code-icon-button { display: flex; align-items: center; justify-content: center; width: 24px; height: 24px; flex-shrink: 0; border-radius: 4px; }
+.settings-code-tree { flex: 1; min-height: 0; min-width: 0; overflow: hidden; }
+.settings-code-tree > file-tree-container { height: 100%; }
+.settings-code-preview { display: flex; flex-direction: column; flex: 1; min-width: 0; min-height: 0; }
+.settings-code-file-toolbar { position: relative; display: flex; align-items: center; gap: 12px; height: 44px; flex: 0 0 44px; padding: 0 16px 0 8px; }
+.settings-code-file-tabs { display: flex; flex: 1; align-items: center; gap: 4px; min-width: 0; height: 100%; overflow-x: auto; scrollbar-width: none; }
+.settings-code-file-tabs::-webkit-scrollbar { display: none; }
+.settings-code-file-tab { display: flex; align-items: center; height: 28px; flex-shrink: 0; gap: 6px; border-radius: 4px; padding: 0 12px; }
+.settings-code-file-tab.is-active { background: #2b2f360f; }
+.settings-code-file-tab [role="tab"] { display: flex; align-items: center; gap: 6px; height: 28px; font-size: 13px; font-weight: 500; white-space: nowrap; }
+.settings-code-file-tab [role="tab"] > span { max-width: 220px; overflow: hidden; text-overflow: ellipsis; }
+.settings-code-close-tab { display: flex; align-items: center; justify-content: center; height: 20px; width: 16px; border-radius: 3px; }
+.settings-code-breadcrumb { display: flex; align-items: center; gap: 4px; height: 19px; flex: 0 0 19px; padding: 0 16px; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid #4d6b9933; color: #8393a3; font-size: 11px; font-weight: 500; line-height: 14px; white-space: nowrap; }
+.settings-code-breadcrumb > span { display: inline-flex; align-items: center; gap: 4px; }
+.settings-code-document { position: relative; display: flex; flex: 1; min-height: 0; min-width: 0; }
+.settings-code-editor { flex: 1; min-width: 0; min-height: 0; overflow: hidden; }
+.settings-code-editor .cm-scroller { scrollbar-width: thin; scrollbar-color: #c5c9d080 transparent; }
+.settings-code-menu { position: absolute; right: 8px; top: calc(100% - 2px); z-index: 5; display: flex; flex-direction: column; gap: 2px; min-width: 160px; padding: 4px; border: 1px solid #1f232914; border-radius: 8px; background: #fff; box-shadow: 0 6px 24px #1f232914; }
+.settings-code-menu button { min-height: 32px; padding: 6px 10px; border-radius: 4px; text-align: left; font-size: 13px; }
+.settings-code-menu button:disabled { opacity: .4; cursor: default; }
+.settings-code-menu button[aria-pressed="true"] { background: #3250eb14; }
+.settings-code-placeholder { margin: auto; padding: 24px; color: #8393a3; text-align: center; line-height: 1.6; }
+.settings-code-placeholder p { margin: 0 0 12px; }
+.settings-code-placeholder button { color: #3250eb; border-radius: 4px; padding: 4px 8px; }
+@media (hover: hover) {
+  .settings-code-workspace-toggle:hover, .settings-code-icon-button:hover, .settings-code-file-tab:hover, .settings-code-close-tab:hover, .settings-code-menu button:not(:disabled):hover { background: #2b2f360f; }
+}
+@container (max-width: 800px) {
+  .settings-code-explorer { flex-basis: 220px; }
+}
+@container (max-width: 560px) {
+  .settings-code-workspace { flex-direction: column; }
+  .settings-code-explorer { flex: 0 0 32%; min-height: 100px; max-height: 230px; border-right: 0; border-bottom: 1px solid #4d6b9933; }
+  .settings-code-explorer:has(.settings-code-tree[hidden]) { flex-basis: 38px; min-height: 38px; }
+  .settings-code-file-toolbar { padding-right: 8px; }
+  .settings-code-editor .cm-lineNumbers .cm-gutterElement { min-width: 44px; padding-right: 12px; }
+  .settings-code-editor .cm-line { padding-left: 16px; }
+  .settings-code-editor .cm-content { background-position: 8px 0, 8px 0; }
+}

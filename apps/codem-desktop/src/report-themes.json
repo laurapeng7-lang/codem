@@ -1,0 +1,462 @@
+[
+  {
+    "id": "8-bit-orbit",
+    "name": "8-Bit Orbit",
+    "label": "像素轨道",
+    "colors": [
+      "#0A0E27",
+      "#5EDCF4",
+      "#E2D5F2"
+    ]
+  },
+  {
+    "id": "biennale-yellow",
+    "name": "Biennale Yellow",
+    "label": "日光双年展",
+    "colors": [
+      "#E9E5DB",
+      "#1B2566",
+      "#1B2566"
+    ]
+  },
+  {
+    "id": "block-frame",
+    "name": "BlockFrame",
+    "label": "色块边框",
+    "colors": [
+      "#FFFDF5",
+      "#000000",
+      "#000000"
+    ]
+  },
+  {
+    "id": "blue-professional",
+    "name": "Blue Professional",
+    "label": "奶油蓝",
+    "colors": [
+      "#fdfae7",
+      "#1e2bfa",
+      "#111111"
+    ]
+  },
+  {
+    "id": "bold-poster",
+    "name": "Bold Poster",
+    "label": "鲜红海报",
+    "colors": [
+      "#FFFFFF",
+      "#D8000F",
+      "#1C1410"
+    ]
+  },
+  {
+    "id": "broadside",
+    "name": "Broadside",
+    "label": "烈橙社论",
+    "colors": [
+      "#111111",
+      "#e85d26",
+      "#f0ece5"
+    ]
+  },
+  {
+    "id": "capsule",
+    "name": "Capsule",
+    "label": "彩色胶囊",
+    "colors": [
+      "#F5F5F0",
+      "#1A1A1A",
+      "#1A1A1A"
+    ]
+  },
+  {
+    "id": "cartesian",
+    "name": "Cartesian",
+    "label": "温润坐标",
+    "colors": [
+      "#ede8e0",
+      "#5a5a5a",
+      "#1a1a1a"
+    ]
+  },
+  {
+    "id": "cobalt-grid",
+    "name": "Cobalt Grid",
+    "label": "钴蓝方格",
+    "colors": [
+      "#F0EBDE",
+      "#1F2BE0",
+      "#1F2BE0"
+    ]
+  },
+  {
+    "id": "coral",
+    "name": "Coral",
+    "label": "珊瑚夜色",
+    "colors": [
+      "#1A1A1A",
+      "#E85D5D",
+      "#F5F0E8"
+    ]
+  },
+  {
+    "id": "creative-mode",
+    "name": "Creative Mode",
+    "label": "创意模式",
+    "colors": [
+      "#EFE9D9",
+      "#136636",
+      "#0F0F0F"
+    ]
+  },
+  {
+    "id": "daisy-days",
+    "name": "Daisy Days",
+    "label": "雏菊日记",
+    "colors": [
+      "#F5F0E6",
+      "#2D2D2D",
+      "#2D2D2D"
+    ]
+  },
+  {
+    "id": "editorial-forest",
+    "name": "Editorial Forest",
+    "label": "森林编辑部",
+    "colors": [
+      "#2e4a2a",
+      "#e89cb1",
+      "#efe7d4"
+    ]
+  },
+  {
+    "id": "editorial-tri-tone",
+    "name": "Editorial Tri-Tone",
+    "label": "三色社论",
+    "colors": [
+      "#F2B6C6",
+      "#7A1F35",
+      "#7A1F35"
+    ]
+  },
+  {
+    "id": "emerald-editorial",
+    "name": "Emerald Editorial",
+    "label": "翡翠杂志",
+    "colors": [
+      "#3CD896",
+      "#0F1A5C",
+      "#0F1A5C"
+    ]
+  },
+  {
+    "id": "grove",
+    "name": "Grove",
+    "label": "林间书页",
+    "colors": [
+      "#192b1b",
+      "#d4cfbf",
+      "#d4cfbf"
+    ]
+  },
+  {
+    "id": "long-table",
+    "name": "Long Table",
+    "label": "长桌晚宴",
+    "colors": [
+      "#FAF1E2",
+      "#8E2D1F",
+      "#B53D2A"
+    ]
+  },
+  {
+    "id": "mat",
+    "name": "Mat",
+    "label": "木质苔绿",
+    "colors": [
+      "#232e26",
+      "#f0e8d2",
+      "#f0e8d2"
+    ]
+  },
+  {
+    "id": "monochrome",
+    "name": "Monochrome",
+    "label": "黑白账本",
+    "colors": [
+      "#fafadf",
+      "#1a1a16",
+      "#1a1a16"
+    ]
+  },
+  {
+    "id": "neo-grid-bold",
+    "name": "Neo-Grid Bold",
+    "label": "荧黄网格",
+    "colors": [
+      "#ECECE8",
+      "#0A0A0A",
+      "#0A0A0A"
+    ]
+  },
+  {
+    "id": "peoples-platform",
+    "name": "People's Platform (Block & Bold)",
+    "label": "街头宣言",
+    "colors": [
+      "#F4E9D6",
+      "#2C2CDC",
+      "#0E0E14"
+    ]
+  },
+  {
+    "id": "pin-and-paper",
+    "name": "Pin & Paper",
+    "label": "别针手稿",
+    "colors": [
+      "#EFE56A",
+      "#1F3A8A",
+      "#1F3A8A"
+    ]
+  },
+  {
+    "id": "pink-script",
+    "name": "Pink Script — After Hours",
+    "label": "午夜桃红",
+    "colors": [
+      "#060507",
+      "#FF66A8",
+      "#F5EDF1"
+    ]
+  },
+  {
+    "id": "playful",
+    "name": "Playful",
+    "label": "蜜桃玩趣",
+    "colors": [
+      "#F0C8A0",
+      "#1A1A1A",
+      "#1A1A1A"
+    ]
+  },
+  {
+    "id": "raw-grid",
+    "name": "Raw Grid",
+    "label": "原色网格",
+    "colors": [
+      "#ffffff",
+      "#0a0a0a",
+      "#0a0a0a"
+    ]
+  },
+  {
+    "id": "retro-windows",
+    "name": "Retro Windows",
+    "label": "复古视窗",
+    "colors": [
+      "#c0c0c0",
+      "#000080",
+      "#222222"
+    ]
+  },
+  {
+    "id": "retro-zine",
+    "name": "Retro Zine",
+    "label": "复古小报",
+    "colors": [
+      "#C8B99A",
+      "#1A1A1A",
+      "#1A1A1A"
+    ]
+  },
+  {
+    "id": "sakura-chroma",
+    "name": "Sakura Chroma",
+    "label": "樱色磁带",
+    "colors": [
+      "#F1E6CB",
+      "#3A2516",
+      "#3A2516"
+    ]
+  },
+  {
+    "id": "scatterbrain",
+    "name": "Scatterbrain",
+    "label": "灵感便笺",
+    "colors": [
+      "#f7f5f0",
+      "#2d2a26",
+      "#2d2a26"
+    ]
+  },
+  {
+    "id": "signal",
+    "name": "Signal",
+    "label": "海军蓝简报",
+    "colors": [
+      "#1c2644",
+      "#c8a870",
+      "#e2dcd0"
+    ]
+  },
+  {
+    "id": "soft-editorial",
+    "name": "Soft Editorial",
+    "label": "柔色书刊",
+    "colors": [
+      "#F2EEDF",
+      "#5C5345",
+      "#2A241B"
+    ]
+  },
+  {
+    "id": "stencil-tablet",
+    "name": "Stencil & Tablet",
+    "label": "拓印石板",
+    "colors": [
+      "#E2DCC9",
+      "#0A0A0A",
+      "#0A0A0A"
+    ]
+  },
+  {
+    "id": "studio",
+    "name": "Studio",
+    "label": "黑金工作室",
+    "colors": [
+      "#1c1c1c",
+      "#f5d200",
+      "#f5d200"
+    ]
+  },
+  {
+    "id": "vellum",
+    "name": "Vellum",
+    "label": "蓝调羊皮纸",
+    "colors": [
+      "#2a3870",
+      "#F5E168",
+      "#E8D85C"
+    ]
+  },
+  {
+    "id": "bold-signal",
+    "name": "Bold Signal",
+    "label": "强烈信号",
+    "colors": [
+      "#1a1a1a",
+      "#FF5722",
+      "#ffffff"
+    ]
+  },
+  {
+    "id": "electric-studio",
+    "name": "Electric Studio",
+    "label": "电光工作室",
+    "colors": [
+      "#ffffff",
+      "#4361ee",
+      "#0a0a0a"
+    ]
+  },
+  {
+    "id": "creative-voltage",
+    "name": "Creative Voltage",
+    "label": "创意电压",
+    "colors": [
+      "#0066ff",
+      "#d4ff00",
+      "#ffffff"
+    ]
+  },
+  {
+    "id": "dark-botanical",
+    "name": "Dark Botanical",
+    "label": "暗夜植物",
+    "colors": [
+      "#0f0f0f",
+      "#d4a574",
+      "#e8e4df"
+    ]
+  },
+  {
+    "id": "notebook-tabs",
+    "name": "Notebook Tabs",
+    "label": "活页笔记",
+    "colors": [
+      "#f8f6f1",
+      "#1a1a1a",
+      "#1a1a1a"
+    ]
+  },
+  {
+    "id": "pastel-geometry",
+    "name": "Pastel Geometry",
+    "label": "粉彩几何",
+    "colors": [
+      "#c8d9e6",
+      "#405d4c",
+      "#1a1a1a"
+    ]
+  },
+  {
+    "id": "split-pastel",
+    "name": "Split Pastel",
+    "label": "双色粉彩",
+    "colors": [
+      "#f5e6dc",
+      "#49405c",
+      "#1a1a1a"
+    ]
+  },
+  {
+    "id": "vintage-editorial",
+    "name": "Vintage Editorial",
+    "label": "复古编辑",
+    "colors": [
+      "#f5f3ee",
+      "#65503f",
+      "#1a1a1a"
+    ]
+  },
+  {
+    "id": "neon-cyber",
+    "name": "Neon Cyber",
+    "label": "霓虹赛博",
+    "colors": [
+      "#0a0f1c",
+      "#00ffcc",
+      "#e8f5ff"
+    ]
+  },
+  {
+    "id": "terminal-green",
+    "name": "Terminal Green",
+    "label": "终端绿",
+    "colors": [
+      "#0d1117",
+      "#39d353",
+      "#e6edf3"
+    ]
+  },
+  {
+    "id": "swiss-modern",
+    "name": "Swiss Modern",
+    "label": "瑞士现代",
+    "colors": [
+      "#ffffff",
+      "#d82c00",
+      "#000000"
+    ]
+  },
+  {
+    "id": "paper-ink",
+    "name": "Feishu Project",
+    "label": "飞书项目",
+    "colors": [
+      "#faf9f7",
+      "#5E36EF",
+      "#1a1a1a"
+    ]
+  }
+]

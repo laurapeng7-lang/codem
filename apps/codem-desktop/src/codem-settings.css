@@ -1,0 +1,54 @@
+.codem-settings-scroll { height: 100%; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: none; }
+.codem-settings-scroll::-webkit-scrollbar { display: none; }
+.codem-settings-content { width: min(802px, calc(100% - 48px)); margin-inline: auto; padding: 27.5px 0 40px; }
+.codem-settings-content > h1 { margin: 0 0 30px 1px; font-size: 16px; line-height: 22px; font-weight: 600; }
+.codem-settings-group + .codem-settings-group { margin-top: 32px; }
+.codem-settings-section-heading { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+.codem-settings-section-heading > h2 { font-size: 14px; line-height: 20px; font-weight: 600; }
+.codem-settings-section-heading > p { color: var(--app-secondary); font-size: 12px; line-height: 16px; font-weight: 400; }
+.codem-settings-tools, .codem-settings-spaces { position: relative; width: min(798.75px, 100%); border-radius: 12px; overflow: hidden; }
+.codem-settings-tools::after, .codem-settings-spaces::after { content: ''; position: absolute; inset: 0; border: 1px solid rgba(0,0,0,.08); border-radius: inherit; pointer-events: none; }
+.codem-settings-tools, .codem-settings-spaces ul { list-style: none; margin: 0; padding: 0; }
+.codem-settings-tool { display: flex; align-items: center; justify-content: space-between; gap: 20px; min-height: 71px; padding: 16px 16px 16px 10px; }
+.codem-settings-tool + .codem-settings-tool, .codem-settings-space + .codem-settings-space { box-shadow: 0 -1px rgba(0,0,0,.08); }
+.codem-settings-tool-info { display: flex; align-items: center; gap: 11px; min-width: 0; }
+.codem-settings-tool-icon { display: grid; place-items: center; flex: 0 0 32px; height: 32px; border: 1px solid rgba(0,0,0,.08); border-radius: 8px; background: #fafafa; }
+.codem-settings-tool-icon > img { flex-shrink: 0; }
+.codem-settings-tool-copy { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.codem-settings-tool-copy > h3 { font-size: 14px; line-height: 22px; font-weight: 500; }
+.codem-settings-tool-copy > p { font: 400 12px/14px "SF Pro Display", -apple-system, "PingFang SC", sans-serif; color: var(--app-secondary); overflow-wrap: anywhere; }
+.codem-settings-panel .settings-switch[aria-checked="false"] { background: rgba(143,149,158,.2); }
+.codem-settings-spaces { margin: 1px auto; }
+.codem-settings-space { display: flex; align-items: center; gap: 8.775px; min-height: 65px; padding: 16px 20px 16px 10px; }
+.codem-settings-space:hover, .codem-settings-space:focus-within { background: var(--fill); }
+.codem-settings-space-icon { flex: 0 0 32px; }
+.codem-settings-space-copy { flex: 1; min-width: 0; }
+.codem-settings-space-copy > h3 { color: #1b1b1b; font-size: 13px; line-height: 16px; font-weight: 500; overflow-wrap: anywhere; }
+.codem-settings-space-copy > p { margin-top: 3px; color: #5e5e60; font: 400 12px/14px "SF Pro Display", -apple-system, "PingFang SC", sans-serif; }
+.codem-settings-space-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; opacity: 0; }
+.codem-settings-space:hover .codem-settings-space-actions, .codem-settings-space:focus-within .codem-settings-space-actions { opacity: 1; }
+.codem-settings-revoke { height: 32px; padding: 5px 12px; border: 1px solid rgba(0,0,0,.08); border-radius: 6px; background: #fff; font-size: 14px; line-height: 20px; font-weight: 500; letter-spacing: .28px; }
+.codem-settings-revoke:hover { background: #fafafa; }
+.codem-settings-open-space { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 6px; }
+.codem-settings-open-space:hover { background: var(--fill); }
+.codem-settings-add-space { display: flex; align-items: center; gap: 16.775px; width: 100%; height: 40px; padding: 0 18px; box-shadow: 0 -1px rgba(0,0,0,.08); text-align: left; font-size: 13px; line-height: 18px; font-weight: 500; }
+.codem-settings-spaces ul:empty + .codem-settings-add-space { box-shadow: none; }
+.codem-settings-add-space:hover, .codem-settings-add-space[aria-expanded="true"] { background: var(--fill); }
+.codem-settings-add-space:focus-visible { outline-offset: -3px; }
+.codem-settings-space-menu { z-index: 100; padding: 6px; overflow-y: auto; border: 1px solid var(--app-border); border-radius: 8px; background: #fff; box-shadow: 0 4px 16px #1f232918; color: var(--text); }
+.codem-settings-space-menu > button { display: flex; align-items: center; gap: 12px; min-height: 40px; width: 100%; padding: 6px 10px; border-radius: 4px; font-size: 14px; line-height: 20px; text-align: left; }
+.codem-settings-space-menu > button:hover, .codem-settings-space-menu > button:focus-visible { outline: none; background: var(--fill); }
+.codem-settings-space-menu > p { padding: 10px; color: var(--app-secondary); font-size: 13px; line-height: 20px; }
+.codem-settings-nav-toggle { position: absolute; top: 22px; left: 8px; z-index: 1; }
+@media (max-width: 1100px) {
+  .codem-settings-content > h1 { padding-left: 20px; }
+}
+@media (hover: none) { .codem-settings-space-actions { opacity: 1; } }
+@media (max-width: 760px) { .codem-settings-content > h1 { padding-left: 0; } }
+@container (max-width: 520px) {
+  .codem-settings-content { width: calc(100% - 32px); padding-top: 24px; }
+  .codem-settings-tool { gap: 12px; }
+  .codem-settings-space { padding-right: 10px; gap: 8px; }
+  .codem-settings-space-actions { gap: 4px; }
+  .codem-settings-revoke { padding-inline: 8px; font-size: 12px; }
+}

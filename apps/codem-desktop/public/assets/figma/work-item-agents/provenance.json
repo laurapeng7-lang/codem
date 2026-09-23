@@ -1,0 +1,48 @@
+{
+  "fileKey": "ISwCctYav2gVe5b4s51Gp4",
+  "sourceNode": "514:20968",
+  "exportMethod": "Original whole-avatar exports via Figma download_assets; CodeM remains vector SVG, raster avatars exported at 3x",
+  "assets": [
+    {
+      "file": "codem.svg",
+      "nodeId": "23:1441",
+      "width": 24,
+      "height": 24,
+      "bytes": 10793,
+      "sha256": "26d4ae5bc67af97612e4e00b71545e23f2817ec74f86003df8e351f3a7de911d"
+    },
+    {
+      "file": "planner.png",
+      "nodeId": "336:29057",
+      "width": 24,
+      "height": 24,
+      "bytes": 4568,
+      "sha256": "bd72ca23fff071c9d98a1b3fc809cfa6db6e701c902bb4cba6b06e036f0ffe6b",
+      "scale": 3,
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    },
+    {
+      "file": "reviewer.png",
+      "nodeId": "25:2362",
+      "width": 24,
+      "height": 24,
+      "bytes": 5939,
+      "sha256": "a46e767b5cd5f331b2c9c61820e83af9eedf63eda714b67a3e4700eac678e9cd",
+      "scale": 3,
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    },
+    {
+      "file": "architect.png",
+      "nodeId": "336:29127",
+      "width": 24,
+      "height": 24,
+      "bytes": 6011,
+      "sha256": "4efca9b5b0cf9471861ff68fd7d74c0ae92e229cd44f4c4e7af7544bf54069d2",
+      "scale": 3,
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    }
+  ]
+}

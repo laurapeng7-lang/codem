@@ -1,0 +1,84 @@
+{
+  "source": "User-provided webp.zip",
+  "archiveSha256": "9dfa45bd2044efdadf7983c6090d1aedba3e32fd2a31192ffbb933c03f7c277e",
+  "note": "Original supplied WebP bytes; Tester and Radar are single-frame images.",
+  "assets": [
+    {
+      "name": "planner",
+      "file": "planner.webp",
+      "sha256": "038aee89d19b7b27501324aa2b0822adfc99e215885987f00b3e39ce182a9ea7",
+      "bytes": 61418,
+      "width": 128,
+      "height": 128,
+      "frames": 115,
+      "durationMs": 18000,
+      "loop": 0
+    },
+    {
+      "name": "architect",
+      "file": "architect.webp",
+      "sha256": "395b447850d62dcbfc6632343ea77c1250ad659529ef7b4cbe1d8265592ed2b4",
+      "bytes": 73016,
+      "width": 128,
+      "height": 128,
+      "frames": 111,
+      "durationMs": 18000,
+      "loop": 0
+    },
+    {
+      "name": "reviewer",
+      "file": "reviewer.webp",
+      "sha256": "07797330c62dbc922882779c6a5c0c3a3c20a306930692f820987b708ed920fd",
+      "bytes": 64802,
+      "width": 128,
+      "height": 128,
+      "frames": 117,
+      "durationMs": 18000,
+      "loop": 0
+    },
+    {
+      "name": "tester",
+      "file": "tester.webp",
+      "sha256": "90c3c51a26a674c00d515ea5549c1acdccb948ec4b4bb0f225ecad6d84a2cf28",
+      "bytes": 7986,
+      "width": 128,
+      "height": 128,
+      "frames": 1,
+      "durationMs": 0,
+      "loop": 1
+    },
+    {
+      "name": "sheriff",
+      "file": "sheriff.webp",
+      "sha256": "7eb5ae537c84b730ecacd296d2dfacff9a2b52f3438f2be519a181fae425a75a",
+      "bytes": 68150,
+      "width": 128,
+      "height": 128,
+      "frames": 104,
+      "durationMs": 18000,
+      "loop": 0
+    },
+    {
+      "name": "release",
+      "file": "release.webp",
+      "sha256": "c7824bf464dbe2da3cc92e058118b1693af453b2e91cf92d0cf5fff04de2d2db",
+      "bytes": 56244,
+      "width": 128,
+      "height": 128,
+      "frames": 117,
+      "durationMs": 18000,
+      "loop": 0
+    },
+    {
+      "name": "radar",
+      "file": "radar.webp",
+      "sha256": "ffa973df3ad3550d6971bf5c439e393ad6e66c92fa5e0bbfccf1b3ca3befd127",
+      "bytes": 3108,
+      "width": 128,
+      "height": 128,
+      "frames": 1,
+      "durationMs": 0,
+      "loop": 1
+    }
+  ]
+}

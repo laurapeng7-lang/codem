@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url('/fonts/roboto-mono/RobotoMono.ttf') format('truetype');
+}
+
+/* Figma 124:54419: 920px drawer, 16px outer gutters, 888px node card. */
+.work-da-card { display: flex; flex-direction: column; gap: 8px; margin: 0 16px; padding: 4px 12px 12px; border-radius: 16px; background: #3dbc2f14; box-shadow: inset 0 0 0 .5px #0000001f; color: #1f2329; }
+.work-da-header { display: flex; align-items: center; gap: 8px; height: 44px; flex-shrink: 0; }
+.work-da-status-icon { display: grid; place-items: center; width: 16px; height: 16px; }
+.work-da-heading { display: flex; align-items: center; gap: 4px; }
+.work-da-heading h3 { font: 600 14px/20px "Inter", sans-serif; font-feature-settings: "case" 1; }
+.work-da-completion { display: flex; align-items: center; justify-content: space-between; gap: 12px; height: 54px; flex-shrink: 0; padding: 0 16px; border-radius: 8px; background: #fff; box-shadow: inset 0 0 0 .5px #0000001f; }
+.work-da-completion-label { display: flex; align-items: center; gap: 6px; min-width: 0; padding-top: 2px; font: 500 14px/24px "Inter", sans-serif; }
+.work-da-finished-icon { position: relative; flex: 0 0 14px; width: 14px; height: 24px; }
+.work-da-finished-icon > img, .work-da-finished-icon > .codem-logo { position: absolute; top: -2px; left: -6px; }
+.work-da-rerun { display: flex; align-items: center; justify-content: center; gap: 8px; flex-shrink: 0; height: 32px; padding: 6px 12px; border: 1px solid #dee0e3; border-radius: 6px; background: #fff; font: 500 14px/20px "Inter", sans-serif; font-feature-settings: "case" 1; }
+.work-da-rerun:not(:disabled):hover { background: #2b2f3608; }
+.work-da-rerun:disabled { opacity: .5; }
+.work-da-transcript { min-height: 585px; padding: 28px 40px 44px; border-radius: 8px; background: #fff; box-shadow: inset 0 0 0 .5px #0000001f; font: 400 14px/22px -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", sans-serif; }
+.work-da-transcript-content { display: flex; flex-direction: column; gap: 8px; width: 591px; max-width: 100%; }
+.work-da-log-group { display: flex; flex-direction: column; gap: 8px; }
+.work-da-log-group p { overflow-wrap: anywhere; }
+.work-da-tool-group { min-width: 0; }
+.work-da-tool-group summary { display: flex; align-items: center; gap: 4px; width: fit-content; max-width: 100%; padding-right: 4px; border-radius: 4px; color: #8f959e; list-style: none; cursor: pointer; }
+.work-da-tool-group summary::-webkit-details-marker { display: none; }
+.work-da-tool-group summary:hover { background: #2b2f3608; }
+.work-da-tool-group summary:focus-visible, .work-da-terminal:focus-visible { outline: 2px solid #3250eb; outline-offset: 2px; }
+.work-da-tool-group summary img { transform: rotate(-90deg); }
+.work-da-tool-group[open] > summary img { transform: none; }
+.work-da-tool-calls { display: flex; flex-direction: column; gap: 4px; margin: 8px 0 0; padding: 0; list-style: none; color: #8f959e; }
+.work-da-tool-calls li { display: flex; align-items: center; gap: 6px; overflow-wrap: anywhere; }
+.work-da-terminal-group > summary { min-height: 23px; }
+.work-da-terminal { height: 306px; margin-top: 4px; padding: 8px 16px 8px 12px; border-radius: 12px; background: #eff0f1; overflow: auto; overscroll-behavior: contain; scrollbar-width: none; }
+.work-da-terminal::-webkit-scrollbar { display: none; }
+.work-da-terminal-label { display: block; margin-bottom: 8px; color: #8f959e; }
+.work-da-terminal pre { margin: 0; font: 400 14px/22px "Roboto Mono", monospace; font-feature-settings: "salt" 1; }
+
+@media (max-width: 640px) {
+  .work-da-card { margin-inline: 12px; }
+  .work-da-transcript { padding-inline: 20px; }
+}
+@media (max-width: 400px) {
+  .work-da-card { padding-inline: 8px; }
+  .work-da-completion { padding-inline: 12px; gap: 8px; }
+  .work-da-transcript { padding-inline: 12px; }
+  .work-da-rerun { padding-inline: 8px; gap: 4px; }
+}

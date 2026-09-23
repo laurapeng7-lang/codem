@@ -1,0 +1,20 @@
+{
+  "sourceUrl": "http://127.0.0.1:8766/outputs/project-risk-report-beautified.html",
+  "sourceThread": "codex://threads/01a09ee1-0401-73d3-a91e-4be3e29a91fb",
+  "sourceTitle": "分析项目视图并生成进展报告 (2)",
+  "importedAt": "2026-09-14T08:46:23.265Z",
+  "bytes": 9111078,
+  "sha256": "99fafb541fcaf9aa2dcebf4cc2fc5844801908545e0bfa73e4ba0b7c9a0abbca",
+  "selfContained": true,
+  "sourceSha256": "ef5dcff451c62615455c440307c52e8d6edbb79f052db45cf0c87234d879316c",
+  "modifications": [
+    "Expose mode/theme controller for the host toolbar.",
+    "Hide duplicate mode/theme controls only when embedded; standalone controls remain available.",
+    "Remove duplicate branding and summary labels in the embedded report; hide its presentation masthead and reclaim header spacing.",
+    "Use Paper & Ink as the default and fallback theme while preserving saved theme choices.",
+    "Center report navigation with wider tabs and adapt presentation controls without wrapping button labels.",
+    "Keep report navigation labels at 14px with 20px line height across screen widths.",
+    "Rename the default theme to Feishu Project and set its primary color, accent washes, chart primary, and preview swatches to #5E36EF.",
+    "Restart presentation on the first slide on entry and stop restoring a previously saved slide index."
+  ]
+}

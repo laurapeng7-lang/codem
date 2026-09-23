@@ -1,0 +1,15 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "103:33211",
+  "exportMethod": "Figma get_design_context SVG asset",
+  "assets": [
+    {
+      "file": "divider.svg",
+      "nodeId": "103:33209",
+      "width": 900,
+      "height": 1,
+      "bytes": 259,
+      "sha256": "b342d79aac9093995d88b03176c89ef546504cdb9239a70e6066b91fe2f8c15e"
+    }
+  ]
+}

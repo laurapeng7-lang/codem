@@ -1,0 +1,36 @@
+{
+  "fileKey": "1KefyUTIByhwh8A4WFPO7p",
+  "nodeId": "4623:13147",
+  "frame": {
+    "width": 1024.625,
+    "height": 171.07125854492188
+  },
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING. Complete icon nodes including outlined letters; original exports without vector edits.",
+  "layoutNote": "Design uses a 1.46375 scale. Card padding, radius and typography are normalized to the existing UI; the group width follows the requested 720px composer width.",
+  "assets": [
+    {
+      "file": "meego.svg",
+      "nodeId": "5544:12100",
+      "width": 40,
+      "height": 40,
+      "sha256": "7a9088ac980678848e8072d930ce2510f1217e35596ed8b06623ded594d8a97e",
+      "bytes": 680
+    },
+    {
+      "file": "lark-office.svg",
+      "nodeId": "5544:12120",
+      "width": 40,
+      "height": 40,
+      "sha256": "ad2f254d298455ab1d9d003f6e388c557f24447802cca876dd5b21daad2436c7",
+      "bytes": 574
+    },
+    {
+      "file": "aily.svg",
+      "nodeId": "5544:12126",
+      "width": 40,
+      "height": 40,
+      "sha256": "203fec22fa1549eafe1b74b7c4921ed710086ec6122f1e2f6cb11619eb68d564",
+      "bytes": 683
+    }
+  ]
+}

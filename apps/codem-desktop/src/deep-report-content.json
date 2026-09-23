@@ -1,0 +1,30 @@
+{
+  "categories": ["最佳实践", "组合管理", "精益度量", "关键路径", "风险矩阵", "复盘改进"],
+  "queries": [
+    "汇总在研项目的进展与风险，生成一份管理层深度报告",
+    "结合吞吐量、周期时间和 WIP 账龄，分析团队的交付瓶颈",
+    "基于关键路径与风险矩阵，评估延期影响并提出治理建议"
+  ],
+  "templates": [
+    { "id": "portfolio-health", "title": "项目组合健康度报告", "description": "从 PPM 视角盘点交付进展、资源分布与组合风险，形成管理层摘要。", "category": "组合管理", "theme": "paper-ink", "eyebrow": "PORTFOLIO REVIEW", "coverTitle": ["项目组合", "健康度报告"], "method": "PPM · 项目组合管理" },
+    { "id": "flow-efficiency", "title": "迭代流动效率分析", "description": "结合吞吐量、周期时间与 WIP 账龄，定位团队交付过程中的瓶颈。", "category": "精益度量", "theme": "cobalt-grid", "eyebrow": "FLOW & EFFICIENCY", "coverTitle": ["让交付", "持续流动"], "method": "KANBAN · 精益度量" },
+    { "id": "milestone-forecast", "title": "关键里程碑预测报告", "description": "基于 CPM 关键路径分析节点依赖、排期偏差及后续交付影响。", "category": "关键路径", "theme": "signal", "eyebrow": "MILESTONE OUTLOOK", "coverTitle": ["关键路径", "与交付预测"], "method": "CPM · 里程碑预测" },
+    { "id": "risk-matrix", "title": "项目风险矩阵报告", "description": "按发生概率与影响程度分级风险，明确优先级、责任人与应对措施。", "category": "风险矩阵", "theme": "editorial-forest", "eyebrow": "RISK INTELLIGENCE", "coverTitle": ["洞察风险", "先于变化"], "method": "RISK MATRIX · 风险诊断" },
+    { "id": "project-retrospective", "title": "项目结项复盘报告", "description": "用 AAR 复盘目标与结果的差距，沉淀关键经验和可执行的改进项。", "category": "复盘改进", "theme": "vintage-editorial", "eyebrow": "THE PROJECT REVIEW", "coverTitle": ["每一次复盘", "都是下一步"], "method": "AAR · 项目结项复盘" },
+    { "id": "root-cause", "title": "交付偏差根因分析", "description": "通过 5 Whys 追溯延期和返工根因，梳理证据并制定改进计划。", "category": "复盘改进", "theme": "bold-signal", "eyebrow": "FIND THE ROOT CAUSE", "coverTitle": ["从偏差", "找到答案"], "method": "5 WHYS · 根因分析" },
+    { "id": "resource-capacity", "title": "团队资源负载分析", "description": "对比项目投入与团队容量，识别超负荷角色并优化资源配置。", "category": "组合管理", "theme": "blue-professional", "eyebrow": "CAPACITY PLANNING", "coverTitle": ["看清负载", "合理投入"], "method": "CAPACITY · 资源规划", "layout": "capacity", "subtitle": "让有限的资源，投入关键的工作。" },
+    { "id": "okr-delivery", "title": "季度目标达成报告", "description": "关联 OKR 与项目里程碑，盘点目标贡献、达成差距和下一步重点。", "category": "组合管理", "theme": "emerald-editorial", "eyebrow": "OBJECTIVES & OUTCOMES", "coverTitle": ["从项目进展", "看目标达成"], "method": "OKR · 目标对齐", "layout": "objectives", "subtitle": "连接每一次交付与真正的业务价值。" },
+    { "id": "cycle-time", "title": "交付周期分布报告", "description": "分析不同类型需求的周期分布与等待时间，为交付预期提供依据。", "category": "精益度量", "theme": "cartesian", "eyebrow": "CYCLE TIME REVIEW", "coverTitle": ["时间花在哪", "答案在流程"], "method": "FLOW · 周期分布", "layout": "cycle", "subtitle": "从周期分布中，找到优化的起点。" },
+    { "id": "dependency-blockers", "title": "跨项目依赖与阻塞报告", "description": "梳理上下游依赖、关键阻塞点与影响范围，明确协同优先级。", "category": "关键路径", "theme": "studio", "eyebrow": "DEPENDENCY INSIGHTS", "coverTitle": ["打通依赖", "协同向前"], "method": "DEPENDENCY · 阻塞分析", "layout": "dependencies", "subtitle": "发现一个阻塞点，看清整条交付链。" },
+    { "id": "risk-response", "title": "风险应对与治理周报", "description": "跟踪风险等级、应对动作与关闭进展，推动高优风险持续收敛。", "category": "风险矩阵", "theme": "coral", "eyebrow": "RISK RESPONSE REVIEW", "coverTitle": ["从风险识别", "到行动闭环"], "method": "RAID · 风险治理", "layout": "response", "subtitle": "让风险有责任人，让行动有结果。" },
+    { "id": "improvement-review", "title": "持续改进成效报告", "description": "对比改进前后的交付指标，复核行动成效并规划下一轮优化。", "category": "复盘改进", "theme": "notebook-tabs", "eyebrow": "CONTINUOUS IMPROVEMENT", "coverTitle": ["让改进发生", "让成果可见"], "method": "PDCA · 持续改进", "layout": "improvement", "subtitle": "每一轮行动，都留下可验证的进步。" },
+    { "id": "portfolio-priorities", "title": "项目组合优先级评估", "description": "结合业务价值、投入与依赖评估项目优先级，形成资源取舍与推进建议。", "category": "组合管理", "theme": "emerald-editorial", "eyebrow": "PORTFOLIO PRIORITIES", "coverTitle": ["聚焦价值", "明确优先级"], "method": "PPM · 价值与投入评估", "layout": "objectives", "subtitle": "把团队投入，连接到业务重点。" },
+    { "id": "wip-aging", "title": "在制品账龄与积压分析", "description": "按状态和工作类型分析长期在制与积压事项，识别超龄风险并规划清理顺序。", "category": "精益度量", "theme": "cartesian", "eyebrow": "WIP AGING ANALYSIS", "coverTitle": ["看清积压", "减少等待"], "method": "KANBAN · WIP 账龄分析", "layout": "cycle", "subtitle": "从停滞事项中，找到改进线索。" },
+    { "id": "throughput-trends", "title": "团队吞吐量趋势报告", "description": "对比不同周期的完成量与工作类型，解释交付波动并评估节奏稳定性。", "category": "精益度量", "theme": "cobalt-grid", "eyebrow": "THROUGHPUT TRENDS", "coverTitle": ["观察趋势", "稳定交付"], "method": "FLOW · 吞吐量趋势分析" },
+    { "id": "release-readiness", "title": "版本发布就绪度报告", "description": "核对关键需求、缺陷与发布依赖，区分已就绪项、阻塞项和放行前置条件。", "category": "关键路径", "theme": "signal", "eyebrow": "RELEASE READINESS", "coverTitle": ["发布之前", "看清准备度"], "method": "RELEASE GATE · 发布就绪评估" },
+    { "id": "schedule-recovery", "title": "延期恢复方案评估", "description": "对比范围调整、资源补充与任务并行方案，评估恢复关键里程碑的可行性。", "category": "关键路径", "theme": "studio", "eyebrow": "SCHEDULE RECOVERY", "coverTitle": ["识别偏差", "规划恢复"], "method": "CPM · 排期恢复分析", "layout": "dependencies", "subtitle": "先核实依赖，再评估恢复方案。" },
+    { "id": "scope-change-risk", "title": "需求变更风险评估", "description": "分析新增和变更需求对范围、排期与质量的影响，给出分级处置建议。", "category": "风险矩阵", "theme": "editorial-forest", "eyebrow": "SCOPE CHANGE RISKS", "coverTitle": ["评估变更", "控制影响"], "method": "RISK MATRIX · 变更影响分析" },
+    { "id": "external-dependency-risk", "title": "外部依赖风险追踪", "description": "盘点外部接口、供应方与跨团队承诺，追踪交付信号、备选方案及跟进动作。", "category": "风险矩阵", "theme": "coral", "eyebrow": "EXTERNAL DEPENDENCY RISKS", "coverTitle": ["追踪依赖", "提前应对"], "method": "RAID · 外部依赖治理", "layout": "response", "subtitle": "让外部依赖，也有明确的下一步。" },
+    { "id": "incident-learning", "title": "线上故障复盘与改进报告", "description": "还原故障时间线、检测与恢复过程，追溯原因并落实预防措施和验证节点。", "category": "复盘改进", "theme": "vintage-editorial", "eyebrow": "INCIDENT LEARNING", "coverTitle": ["从故障中", "积累经验"], "method": "AAR · 故障复盘" }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "174:10441",
+  "export": "Original Figma image assets from get_design_context",
+  "layout": {
+    "contentWidth": 802,
+    "tabsWidth": 364,
+    "tabsHeight": 32,
+    "tabWidth": 180,
+    "tabHeight": 28,
+    "contentGap": 24,
+    "templatesWidth": 800,
+    "groupGap": 32,
+    "headingHeight": 24,
+    "headingGap": 8,
+    "cardWidth": 392,
+    "cardHeight": 152,
+    "cardGap": 16,
+    "cardPadding": 16,
+    "cardRadius": 16,
+    "cardStroke": 0.5,
+    "iconSize": 40,
+    "iconTitleGap": 12,
+    "descriptionGap": 8
+  },
+  "assets": [
+    {
+      "file": "project-analysis.png",
+      "nodeId": "174:10463",
+      "width": 80,
+      "height": 80,
+      "bytes": 8520,
+      "sha256": "0490a8f5c6372928f5ce181e61195856f696402696e59d3aab0ced0343e5ee3d"
+    },
+    {
+      "file": "report-note.png",
+      "nodeId": "174:10475",
+      "width": 80,
+      "height": 80,
+      "bytes": 8152,
+      "sha256": "2641f1c440547279e2985dfc0919065927342a753b086b403f36a0ae5ea77727"
+    },
+    {
+      "file": "data-insight.png",
+      "nodeId": "174:10481",
+      "width": 80,
+      "height": 80,
+      "bytes": 6739,
+      "sha256": "72792dbc50eb4da40e8c482b74169dd164a3f6a207dd86bc8c1c2a09cb1954eb"
+    }
+  ]
+}

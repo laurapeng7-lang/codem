@@ -1,0 +1,63 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "143:72412",
+  "assets": [
+    {
+      "file": "search.svg",
+      "nodeId": "143:74365",
+      "source": "https://www.figma.com/api/mcp/asset/19507385-d12e-4c2b-be9d-4249c84c1eeb.svg",
+      "bytes": 881,
+      "sha256": "dc6416c1b7a80d0b61c77e26d57d6631a780bd5eb96ff802a5c9bf7e25a90d08"
+    },
+    {
+      "file": "filter.svg",
+      "nodeId": "143:74354",
+      "source": "https://www.figma.com/api/mcp/asset/9a777d17-369a-45b3-80ff-8e0f3a462841.svg",
+      "bytes": 1933,
+      "sha256": "2c412eca089369900d30e8934bbe7280c52ed2429fc6f7289c65d711072c7e6e"
+    },
+    {
+      "file": "chevron-down.svg",
+      "nodeId": "143:72433",
+      "source": "https://www.figma.com/api/mcp/asset/ddc2254d-5f81-4361-b596-0804dbad32ec.svg",
+      "bytes": 668,
+      "sha256": "54218f800c01caa6c4480a7cf623b63d7a0d39f5fdf2d1af5b5a961c1f034ec0"
+    },
+    {
+      "file": "leaf.svg",
+      "nodeId": "143:72613",
+      "source": "https://www.figma.com/api/mcp/asset/a3223737-a4ef-4f80-b5e0-b520d0fa1ce8.svg",
+      "bytes": 275,
+      "sha256": "7874f31f75e9d8bb93f4ec803275f8ce13a1cf9db3464698d75e7661207c56c2"
+    },
+    {
+      "file": "field.svg",
+      "nodeId": "143:72616",
+      "source": "https://www.figma.com/api/mcp/asset/9ebb0b61-ce0b-4962-bfd2-215405c939bb.svg",
+      "bytes": 666,
+      "sha256": "c255ebc8fff6fd0938795c379c16684f14e111ed53db85e97617b61e26aab225"
+    },
+    {
+      "file": "workflow.svg",
+      "nodeId": "143:74118",
+      "source": "https://www.figma.com/api/mcp/asset/7b7124ad-e449-4491-81c9-255b12b48c18.svg",
+      "bytes": 1261,
+      "sha256": "31cc7f99e607912e74d9caec2ffaa9a3ef93a6ea915d661a52c40e4127c6cb99"
+    },
+    {
+      "file": "member.svg",
+      "nodeId": "143:73648",
+      "source": "https://www.figma.com/api/mcp/asset/2992752f-7971-441f-a7b0-38ae2ed3bfcf.svg",
+      "bytes": 749,
+      "sha256": "5238ebe591f2042be88606e5b952302db57ac36b3696fc1fe79f0640e538f95c"
+    },
+    {
+      "file": "tab-icon.svg",
+      "nodeId": "143:72204",
+      "source": "https://www.figma.com/design/ijwAFgHcsNwcLoHFlCFFFX/vercel-playground?node-id=143-72204",
+      "exportMethod": "Figma Plugin API exportAsync SVG_STRING",
+      "bytes": 2556,
+      "sha256": "7d5e79c6fffbfb07c4a65bc6b30c0c6e45e38a3e42b0c54a4f60b783d1aec659"
+    }
+  ]
+}

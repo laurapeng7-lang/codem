@@ -1,0 +1,37 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "155:84902",
+  "controlNodeId": "174:5829",
+  "control": {
+    "width": 224,
+    "height": 32,
+    "insetLeft": 12.922,
+    "gapAboveComposer": 8.546,
+    "fontSize": 14,
+    "lineHeight": 20,
+    "iconSize": 16,
+    "itemGap": 8,
+    "dividerHeight": 12,
+    "borderRadius": 999
+  },
+  "exportMethod": "Figma Plugin API SVG_STRING export of a temporary clone of the existing space icon. Original background vector, padding and letter typography retained; initial C and orange fill applied in Figma. Temporary nodes removed after export; exported SVG bytes not edited.",
+  "assets": [
+    {
+      "file": "codem-space.svg",
+      "sourceFileKey": "1KefyUTIByhwh8A4WFPO7p",
+      "sourceNodeId": "5544:12100",
+      "width": 40,
+      "height": 40,
+      "initial": "C",
+      "fill": "#FA8500",
+      "bytes": 996,
+      "sha256": "88fa6ce212e59126670dfc074669eae55aed79e557e4575fde87e17f3d6341ad"
+    }
+  ],
+  "reusedAssets": [
+    "../new-chat-composer/cloud.svg",
+    "../new-chat-spaces/meego.svg",
+    "../new-chat-spaces/lark-office.svg",
+    "../new-chat-spaces/aily.svg"
+  ]
+}

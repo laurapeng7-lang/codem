@@ -1,0 +1,62 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "88:6344",
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING with useAbsoluteBounds; original unmodified SVGs",
+  "layout": {
+    "width": 400,
+    "height": 660,
+    "top": 40,
+    "right": 8,
+    "cornerRadius": 16
+  },
+  "assets": [
+    {
+      "file": "history.svg",
+      "nodeId": "88:6397",
+      "width": 16,
+      "height": 16,
+      "bytes": 1111,
+      "sha256": "a6c614e2f6888564674d7faf9f790b07d7538cd3222883a23395b9a8970c9860"
+    },
+    {
+      "file": "mention.svg",
+      "nodeId": "88:6719",
+      "width": 16,
+      "height": 16,
+      "bytes": 1455,
+      "sha256": "4556cbbbc2dc6522bd84d05b166945e5b381064ee15e542e8ae994445b2fb61c"
+    },
+    {
+      "file": "attachment.svg",
+      "nodeId": "88:6694",
+      "width": 16,
+      "height": 16,
+      "bytes": 1593,
+      "sha256": "fc0bead80912a7e9e9962760f593733da7aa2dfe52cb36eccaa2ec0759d2ce39"
+    },
+    {
+      "file": "skill.svg",
+      "nodeId": "88:6667",
+      "width": 20,
+      "height": 20,
+      "bytes": 2380,
+      "sha256": "cfcadc2352eca209ddee6291ac506bd27564c4ae025dd6affd8a1153e4cd2962"
+    },
+    {
+      "file": "send.svg",
+      "nodeId": "88:6600",
+      "width": 14,
+      "height": 14,
+      "bytes": 644,
+      "sha256": "55101a4af122a31932ed25160b25f5ec41e430452226e1d917f5acecfd2dee70"
+    },
+    {
+      "file": "story.svg",
+      "nodeId": "88:6583",
+      "width": 10,
+      "height": 10,
+      "bytes": 1068,
+      "sha256": "c57cb3a197398db64d88f816c4b90ddd1c1ec336ae288f2fa6eb16c3562ad5ff"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "44:17221",
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING with useAbsoluteBounds; connector endpoint handles removed, original path geometry and status icons preserved",
+  "layout": {
+    "file": "src/work-item-workflow.json",
+    "width": 2149,
+    "height": 171,
+    "nodeCount": 28,
+    "connectorCount": 40,
+    "sha256": "5b82bc67687cfcccd21dfddfd6cad74440d11e8d18559921928348d91e31160b"
+  },
+  "assets": [
+    {
+      "file": "line-44-20599.svg",
+      "nodeId": "44:20599",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f",
+      "sourceSha256": "1b32bd0674089778c1dc3ce46ac6192b7727035ca0d9bad0463a50e5358ed9b4",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20593.svg",
+      "nodeId": "44:20593",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f"
+    },
+    {
+      "file": "line-44-20587.svg",
+      "nodeId": "44:20587",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f"
+    },
+    {
+      "file": "line-44-20581.svg",
+      "nodeId": "44:20581",
+      "bytes": 158,
+      "sha256": "e71372aff8fb9da997a41b5c903863258fb31905c51c626a08b2b42cb6a74324"
+    },
+    {
+      "file": "line-44-20575.svg",
+      "nodeId": "44:20575",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f"
+    },
+    {
+      "file": "line-44-20569.svg",
+      "nodeId": "44:20569",
+      "bytes": 278,
+      "sha256": "f9044aa9ed6c5410755d614cea0104c6a3f8ea8471ed2590869a85487f9feda7"
+    },
+    {
+      "file": "line-44-20563.svg",
+      "nodeId": "44:20563",
+      "bytes": 279,
+      "sha256": "74cf7b289f091b63ea35661c29540af9948706236591b6811cfe1bbd649efcb2"
+    },
+    {
+      "file": "line-44-20557.svg",
+      "nodeId": "44:20557",
+      "bytes": 158,
+      "sha256": "443164ad990a3969dca88b4c821e0aa658cded8025a44906d52f03c064c3383d"
+    },
+    {
+      "file": "line-44-20551.svg",
+      "nodeId": "44:20551",
+      "bytes": 279,
+      "sha256": "7688f672dc440646b47d20c76d07756c094b7a07c4d45b9d3f479d8fdcc8abef"
+    },
+    {
+      "file": "line-44-20545.svg",
+      "nodeId": "44:20545",
+      "bytes": 280,
+      "sha256": "09020589e6cb69306419562c52a26a0b0c602f28e2fd129bcf9dbbafdd466f05"
+    },
+    {
+      "file": "line-44-20539.svg",
+      "nodeId": "44:20539",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f"
+    },
+    {
+      "file": "line-44-20533.svg",
+      "nodeId": "44:20533",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f"
+    },
+    {
+      "file": "line-44-20527.svg",
+      "nodeId": "44:20527",
+      "bytes": 294,
+      "sha256": "b03117335d02d9fb4486b8f44e4e7ce5ba8b62296cd5727803c76ded7a220fd6",
+      "sourceSha256": "91781eba6672bf7217ecd6c88592585e10112b790a313efc6dd77e6594b5034b",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20521.svg",
+      "nodeId": "44:20521",
+      "bytes": 296,
+      "sha256": "b03517c587406ebaf7f0b2865b73e401ccd27389cdf1c424f1ee69119c3790f0",
+      "sourceSha256": "0ae7e03e2fa5680f0ed9eb0b3925fdb7025b98e6f4cf852686af8d86e28802ca",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20515.svg",
+      "nodeId": "44:20515",
+      "bytes": 279,
+      "sha256": "2b62f1d7e4e32d2314ad7ffa95ce915e901f79ecb131ff3de6f7632c126b0360",
+      "sourceSha256": "7ec1d783acb9631210186b898a99cf71b14f9fbf02657ed451f6c36b5841463c",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20509.svg",
+      "nodeId": "44:20509",
+      "bytes": 290,
+      "sha256": "340690d16c253e61abca933a5c056bc98b0a88dd401d17b23d16488033104811",
+      "sourceSha256": "49adad8e8385dd577b9c1bde9f4f442948016e8756e12eaf75f836dddc3e22bf",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20503.svg",
+      "nodeId": "44:20503",
+      "bytes": 158,
+      "sha256": "46c6c996b30eeb84b6ab6885c546562dc77bf002dcbbdfca862f7393336c7c67",
+      "sourceSha256": "89deef6229333330933cf0621d37927e4e6aa3652f3a173349a3cc219060becb",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20497.svg",
+      "nodeId": "44:20497",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f",
+      "sourceSha256": "640c1615de48ac576d36610d812da827676a710333b5e26c8bb7cdeb842e839b",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20491.svg",
+      "nodeId": "44:20491",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f",
+      "sourceSha256": "640c1615de48ac576d36610d812da827676a710333b5e26c8bb7cdeb842e839b",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20485.svg",
+      "nodeId": "44:20485",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f",
+      "sourceSha256": "640c1615de48ac576d36610d812da827676a710333b5e26c8bb7cdeb842e839b",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-20384.svg",
+      "nodeId": "44:20384",
+      "bytes": 274,
+      "sha256": "001fd7259d9c188e8f6c58f9f7ffdc626dcb749ead4c00690517fd693131c16b",
+      "sourceSha256": "6edd0fd87165a9deeaaf21a5311d39a1c8f5b8f5536f785d959a12b0a26cef51",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20378.svg",
+      "nodeId": "44:20378",
+      "bytes": 293,
+      "sha256": "33680d9bea8f974ff50cfb1e09f04953140e6723d211f3b5a1919e2c1f2d33f0",
+      "sourceSha256": "281e0490dde25d713322b8cafba50f21883c971581e7dab837dcbe155f66eb76",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20372.svg",
+      "nodeId": "44:20372",
+      "bytes": 274,
+      "sha256": "71c8c01c4a383cd9fa3a19594557a095720acf3118c1d879992c395c1cc79c04",
+      "sourceSha256": "7e97f1770e694a84bf4cf91581d9c4c2841166866822b812ed5c7362bc8ac64b",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20366.svg",
+      "nodeId": "44:20366",
+      "bytes": 295,
+      "sha256": "ecc42d6fa73de9e76f700b9a5f473ed3685a8e1014491811fc6315b2832192a0",
+      "sourceSha256": "8bca2ee39b95ee9b32a2d70a35f662df7381cede53d090e0f9c5beddc6425f87",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20360.svg",
+      "nodeId": "44:20360",
+      "bytes": 101,
+      "sha256": "1696ae792a22ef77710a9091352f5c6947e907e7ef41826a2e2265d27ee9304a",
+      "sourceSha256": "4f36dd079b79a31ce6a442f2c97fe72bda93a6d364281e186210af7041016d4a",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-20069.svg",
+      "nodeId": "44:20069",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f",
+      "sourceSha256": "640c1615de48ac576d36610d812da827676a710333b5e26c8bb7cdeb842e839b",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19968.svg",
+      "nodeId": "44:19968",
+      "bytes": 158,
+      "sha256": "a14804612a65f5b29c1e5cd041657acd0c3be964219d4bea8caf80d937a6253f",
+      "sourceSha256": "640c1615de48ac576d36610d812da827676a710333b5e26c8bb7cdeb842e839b",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-17295.svg",
+      "nodeId": "44:17295",
+      "bytes": 275,
+      "sha256": "2bc10d837fb63508039dc6078db32f7c3e01663fae272fc9c51283d7f6798ac3",
+      "sourceSha256": "1078e559f7e64a5f5f15178ce2df1a356afa4f6239cf9d112ae34136f9169823",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-17301.svg",
+      "nodeId": "44:17301",
+      "bytes": 291,
+      "sha256": "c78debb1642a39548f6739ebc2beb5946cbd576bef04f961c0242c240abf54b9",
+      "sourceSha256": "1ae0636c09b151156b8ff6923bb1912114701031dc54fc29439164e9696b82ec",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-17307.svg",
+      "nodeId": "44:17307",
+      "bytes": 292,
+      "sha256": "6fdd06f79d7a9271d33800b33e6871331f1ab7909155b9529943bf0eaee53204",
+      "sourceSha256": "8751f9b1afabadcdf0f5017bcbbd02f8dbaba6cc401b873d79e9659de04790e4",
+      "removedEndpointHandles": 1
+    },
+    {
+      "file": "line-44-17312.svg",
+      "nodeId": "44:17312",
+      "bytes": 495,
+      "sha256": "f261d8b59d728fc5dabb4db80d3e3986237faa5e5543f2122c9e583b00c2da6b"
+    },
+    {
+      "file": "line-44-19938.svg",
+      "nodeId": "44:19938",
+      "bytes": 158,
+      "sha256": "a758f80fdee061b58336ce8b62898d2319711032f32da0fdfdd80c29f18178c2",
+      "sourceSha256": "e8b5ec75ed4adcd11ec8f77e94acc16ad6dc936f18588cc752719d9b093c3290",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19932.svg",
+      "nodeId": "44:19932",
+      "bytes": 298,
+      "sha256": "3c53c945761b3620f19657203aeab36acb938945d5e6a8bbc51201f5e7bdaabf",
+      "sourceSha256": "8e63c3c0497719ca78f61b42a09ac187887a7ff30e4724810b8ec1ce7e74ab47",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19926.svg",
+      "nodeId": "44:19926",
+      "bytes": 279,
+      "sha256": "7694b92fae8c9cee66ccad78f069da5ebef77e8318c5a42d5e4305fb3e56e2c2",
+      "sourceSha256": "d4d50506af706b89719892f59bed337d8920e0fe4f2d0f2913e5334b699d7ba5",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19920.svg",
+      "nodeId": "44:19920",
+      "bytes": 299,
+      "sha256": "a883c3590dd33bc90eadf0fbe39b2f3dd45adff9ee5be7abfe2b4d2e29565dfb",
+      "sourceSha256": "930267f9e78dbac2cb62fe3cf4dff80536a1465cc8990535189833946224ead1",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19914.svg",
+      "nodeId": "44:19914",
+      "bytes": 281,
+      "sha256": "ffe292c8cb2f114ed0cc5a6a32546a225ae9800fb19206d0d4eaeea8e2fecf17",
+      "sourceSha256": "837266eb4f7a261057ffa8abbe582368d7aafdc2f3c4c07bcc81188823cf292d",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19908.svg",
+      "nodeId": "44:19908",
+      "bytes": 298,
+      "sha256": "533bd09a9a7d8385bb41ef9109d8cd564e6ed07c04916377edeacf0730c19ba2",
+      "sourceSha256": "e8a08db5f23cde3c32d4c35c531f18f4f8c290e34b9e3ac9c60b88f98ac1aa49",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-19902.svg",
+      "nodeId": "44:19902",
+      "bytes": 290,
+      "sha256": "836da92d402729526827e1d9a33d081acc24f8712116a60f0fa875a9fb1e8028",
+      "sourceSha256": "0ea161bca8b96a17abcdb35731cf5cea17ea7fb3a317317cd920ce582e3cb653",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-17324.svg",
+      "nodeId": "44:17324",
+      "bytes": 293,
+      "sha256": "9904097532633de6a6b490c02ed63385b010374774a8207ae393b7d466d7a5ea",
+      "sourceSha256": "0f0a3697927bdf3e303a155099be7021953635539c0b09f822936bdcd78d5039",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "line-44-17330.svg",
+      "nodeId": "44:17330",
+      "bytes": 265,
+      "sha256": "4f3f3b1cebd22aca91974dd525b39ce93fb57b76c261f64cdc0e93b6547b6eac",
+      "sourceSha256": "355323824d3c2570a7aea612edede048d30848f4fed8b6fad8a59fd856aaebbc",
+      "removedEndpointHandles": 2
+    },
+    {
+      "file": "completed.svg",
+      "nodeId": "44:20755",
+      "bytes": 799,
+      "sha256": "aa43eb9fd60888ba36fe8ef18185dfaafff865d2f0e139b9b62418eca32f6ff4"
+    },
+    {
+      "file": "current.svg",
+      "nodeId": "44:20999",
+      "bytes": 799,
+      "sha256": "69dc5f309b0a1d85465eaef7689d2ceb09af3ceeba6558e72c45510325ddcb64"
+    },
+    {
+      "file": "pending.svg",
+      "nodeId": "44:21362",
+      "bytes": 817,
+      "sha256": "57ffafdc39c07a3dced46714007c879d8d9546b81668a44bf50717b7df0dd7d0"
+    },
+    {
+      "file": "codem-logo.svg",
+      "nodeId": "88:12064",
+      "width": 15.345268249511719,
+      "height": 12,
+      "bytes": 10612,
+      "sha256": "0c2676a563239cacadf885338b0b26d2086aec315ddda856dbec76e5243563f8"
+    },
+    {
+      "file": "agent-badge.svg",
+      "nodeId": "88:12385",
+      "width": 12,
+      "height": 12,
+      "bytes": 1340,
+      "sha256": "35540a84d363c35fabe9b4885525fb86c8028e0bec16d8e67ec35e6d8bf783a6"
+    }
+  ],
+  "nodeBranding": {
+    "sourceNode": "44:21063",
+    "badge": {
+      "width": 24,
+      "height": 24,
+      "top": -12,
+      "right": -10
+    },
+    "logoGap": 4
+  }
+}

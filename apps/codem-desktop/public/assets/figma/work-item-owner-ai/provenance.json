@@ -1,0 +1,65 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "61:31771",
+  "loadingSourceNode": "61:36724",
+  "ownerTagSourceNode": "61:32763",
+  "exportMethod": "Figma exportAsync SVG_STRING and PNG; 3x, contentsOnly, useAbsoluteBounds",
+  "assets": [
+    {
+      "file": "ai.svg",
+      "nodeId": "61:32165",
+      "alsoUsedInNode": "61:36751",
+      "bytes": 1562,
+      "sha256": "709364a1cff84a1cb4948923355c5f4d5d3751330794dd608d02992d8f0ac101"
+    },
+    {
+      "file": "recommended.svg",
+      "nodeId": "61:32161",
+      "bytes": 1250,
+      "sha256": "cd3bd7071e78d456457f258f7cd5666cfba2378176c97c7d6ca55a33f4febe71"
+    },
+    {
+      "file": "nannan.png",
+      "nodeId": "61:32096",
+      "alsoUsedInNode": "61:32766",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 5918,
+      "sha256": "ce4a0a70137484b1f82ad66b25a53add8e23abc482aac54eed3dd035f8a71cc2",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "maikou.png",
+      "nodeId": "61:32112",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 5994,
+      "sha256": "77b625407aa9d8df91f82b1226b85007a13dcaa45e16ba63756a5559b2ff0f1b",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "lei.png",
+      "nodeId": "61:32120",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 7120,
+      "sha256": "e81f9d8a76b8ce86213675aeebf57e272a6ab95fb7d0c56d5d7f4228da86c6cd",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "success.svg",
+      "nodeId": "61:37048",
+      "width": 20,
+      "height": 20,
+      "bytes": 696,
+      "sha256": "33c037b2c9d814b720c061829b2caa74d020921c80419be57e8fa3383912d3e8"
+    }
+  ],
+  "toastSourceNode": "61:37046"
+}

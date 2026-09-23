@@ -1,0 +1,140 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "44:16783",
+  "exportMethod": "Figma Plugin API exportAsync; original SVG and 3x PNG assets",
+  "assets": [
+    {
+      "file": "ask-ai.svg",
+      "nodeId": "44:19783",
+      "bytes": 1557,
+      "sha256": "84112f3b86ce79aa4c34b605f89fea5fe3a8e2938de83dfcbce05210fe4dd85a"
+    },
+    {
+      "file": "comment.svg",
+      "nodeId": "44:19781",
+      "bytes": 1342,
+      "sha256": "61835897b98f687d08b194ef0e4ddf36da2ce8a16c3145a6dcd778fd9f51269e"
+    },
+    {
+      "file": "chat.svg",
+      "nodeId": "44:19779",
+      "bytes": 1282,
+      "sha256": "db894bd235bfc5dd308ab4d77ed8f32839470ad21d5ae16f371ec4f854b5353a"
+    },
+    {
+      "file": "bookmark.svg",
+      "nodeId": "44:17390",
+      "bytes": 1679,
+      "sha256": "6a88974f2de9eaeaea09a00a8b885c8a468822fea6d163a4579d7420c651560b"
+    },
+    {
+      "file": "link.svg",
+      "nodeId": "44:19777",
+      "bytes": 1340,
+      "sha256": "13e92a863caf2efdcfac9fd75e467050027cac6a63e04cdf87996f7f8ac925cd"
+    },
+    {
+      "file": "close.svg",
+      "nodeId": "44:19773",
+      "bytes": 722,
+      "sha256": "7b76b6338902a955d29514490ea87ae482608ccb950ecf765d13bc31ed49158d"
+    },
+    {
+      "file": "role-add.svg",
+      "nodeId": "44:16821",
+      "bytes": 787,
+      "sha256": "e27d2cb03043a1d607aced585dbc5911672e991489981b400b27b84733f2261f"
+    },
+    {
+      "file": "checklist.svg",
+      "nodeId": "44:25785",
+      "bytes": 1556,
+      "sha256": "9f1ec262a5a6249e8208ceeedbd5d752db504e1d1c59e5ead6a94b23c5a6cc6c"
+    },
+    {
+      "file": "check-done.svg",
+      "nodeId": "44:25781",
+      "bytes": 609,
+      "sha256": "df1d50d78368df5f2c0cf4a2ab66d3a36a1c4d9bd927f4af27224301f54e5510"
+    },
+    {
+      "file": "check-empty.svg",
+      "nodeId": "44:25778",
+      "bytes": 340,
+      "sha256": "77e71334e01716b2fe7b00593dc36dde0eee4902cefa13fbad442ca8556f4e79"
+    },
+    {
+      "file": "collapse.svg",
+      "nodeId": "44:23715",
+      "bytes": 351,
+      "sha256": "93c85975546e6cede1944682faa947a2b27a339f14e2e73660da8ab495859114"
+    },
+    {
+      "file": "review-status.svg",
+      "nodeId": "44:23711",
+      "bytes": 598,
+      "sha256": "084ce9db33f3f8d76462b7f76c2a671d6afc1ccda9d55c6c1cb3ed68b2c5d87f"
+    },
+    {
+      "file": "review-more.svg",
+      "nodeId": "44:23583",
+      "bytes": 856,
+      "sha256": "ce5f203c22f96f8eabfc25635a40b824a6d5683621bb9fe028117b163e76249f"
+    },
+    {
+      "file": "workflow.png",
+      "nodeId": "44:17221",
+      "width": 2149,
+      "height": 171,
+      "scale": 3,
+      "bytes": 644613,
+      "sha256": "69de52bedabce562d89864d22ca2cf86218de2626fb21f72f4bc2898db45ef7d",
+      "pixelWidth": 6447,
+      "pixelHeight": 513
+    },
+    {
+      "file": "mei.png",
+      "nodeId": "44:23309",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 7690,
+      "sha256": "29b3462111c4d905f71c474d9fd3c6e8717a9667a85e1876785e9b6118d07295",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "maikou.png",
+      "nodeId": "44:22954",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 5994,
+      "sha256": "77b625407aa9d8df91f82b1226b85007a13dcaa45e16ba63756a5559b2ff0f1b",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "nannan.png",
+      "nodeId": "44:22853",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 5918,
+      "sha256": "ce4a0a70137484b1f82ad66b25a53add8e23abc482aac54eed3dd035f8a71cc2",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    },
+    {
+      "file": "lei.png",
+      "nodeId": "44:22871",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "bytes": 7120,
+      "sha256": "e81f9d8a76b8ce86213675aeebf57e272a6ab95fb7d0c56d5d7f4228da86c6cd",
+      "pixelWidth": 60,
+      "pixelHeight": 60
+    }
+  ]
+}

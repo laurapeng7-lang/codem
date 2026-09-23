@@ -1,0 +1,128 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "174:6282",
+  "exportMethod": "Figma Plugin API SVG_STRING exports of original nodes. Temporary copies isolated clipped layers; all copies removed after export. SVG bytes retained unchanged.",
+  "layout": {
+    "panelWidth": 1128,
+    "panelHeight": 884,
+    "contentWidth": 802,
+    "headingTop": 28,
+    "sectionsTop": 80,
+    "sectionGap": 32,
+    "listWidth": 798.75,
+    "toolRowHeight": 71,
+    "spaceRowHeight": 65,
+    "addRowHeight": 40,
+    "listRadius": 12,
+    "iconSize": 32,
+    "switchWidth": 40,
+    "switchHeight": 24
+  },
+  "assets": [
+    {
+      "file": "tool-meego.svg",
+      "nodeId": "174:6874",
+      "bytes": 2026,
+      "sha256": "c9f7364ab4dc7b52206b2ff17459fc143cef06f548c698c5d501ba247c28d32f",
+      "viewBox": "0 0 21 21"
+    },
+    {
+      "file": "tool-chat.svg",
+      "nodeId": "174:6868",
+      "bytes": 945,
+      "sha256": "9b0c3d4431977b3aaba32575e140a0b64e94be3c1c216e60658a6824c443018b",
+      "viewBox": "0 0 21 21"
+    },
+    {
+      "file": "tool-doc.svg",
+      "nodeId": "174:6862",
+      "bytes": 1122,
+      "sha256": "7659becbaa4b8c6aa4bfc04fb7e1a768d35fcdebd9cf47c84ab9dbd5be31e01a",
+      "viewBox": "0 0 21 21"
+    },
+    {
+      "file": "tool-meeting.svg",
+      "nodeId": "174:6855",
+      "bytes": 733,
+      "sha256": "21adca9bf0c5a9cdaa5d00d8667717007e08edd77a9cf4fd8f1dca63c8bd220b",
+      "viewBox": "0 0 21 21"
+    },
+    {
+      "file": "tool-drive.svg",
+      "nodeId": "174:6849",
+      "bytes": 953,
+      "sha256": "5a2b26356ab4d90e813a2b833af46efe9bf3d4f786f6a46f74a564a384658bac",
+      "viewBox": "0 0 21 21"
+    },
+    {
+      "file": "tool-sheet.svg",
+      "nodeId": "174:6843",
+      "bytes": 924,
+      "sha256": "dfea78b0d841642f1fe00352cfaef884bcbe5bca53cfc3aa556b63ee8e2946e0",
+      "viewBox": "0 0 21 21"
+    },
+    {
+      "file": "tool-base.svg",
+      "nodeId": "174:6838",
+      "bytes": 303,
+      "sha256": "c63ba66160f816c850b2e242023d22c368a325230725412db271fc0c4d99853e",
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "file": "tool-calendar.svg",
+      "nodeId": "174:6831",
+      "bytes": 2743,
+      "sha256": "b4bda2c93f5baf0b5bc0afbd0ae70e153e939595d1d07fac84f8d532a9321054",
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "file": "open-space.svg",
+      "nodeId": "174:6826",
+      "bytes": 585,
+      "sha256": "dade0f2f8b59c12edb559ddcfb65cb2b27f6359a3e123bf783e5b45d592d68bb",
+      "viewBox": "0 0 16 16"
+    },
+    {
+      "file": "add-space.svg",
+      "nodeId": "174:6814",
+      "bytes": 547,
+      "sha256": "9202e6237f8b66d0034dd8a8904331ead16395fb4824fc8a019c7eb3a86e997d",
+      "viewBox": "0 0 16 16"
+    },
+    {
+      "file": "space-meego.svg",
+      "nodeId": "174:6369",
+      "bytes": 459,
+      "sha256": "db82404e504f6ac9b51b01e8a8e1c421c57ec3a0ed990fe9e7c6336c74f147fd",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "file": "space-lark.svg",
+      "nodeId": "174:6376",
+      "bytes": 348,
+      "sha256": "f9c4a280b548d6ad4e858ac1e22d51fcad1bfc2f74e4135e5503c3aba0955c84",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "file": "space-codem.svg",
+      "nodeId": "174:6383",
+      "bytes": 1653,
+      "sha256": "94b059bf29667ef280d181d2e70e59bc027d4aa66e4c22fe8cf7ed64cf46cbfd",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "file": "space-board.svg",
+      "nodeId": "174:6393",
+      "bytes": 1457,
+      "sha256": "41e569f1b7d703dbfd46a6dcace21f97a76391b39f80a30a8e24020e2419f0bb",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "file": "space-supernova.svg",
+      "nodeId": "174:6401",
+      "bytes": 2065,
+      "sha256": "937417cb1b050703758bb718d277292fbef84ef9a1882d6c6e2144a192112924",
+      "viewBox": "0 0 32 32"
+    }
+  ]
+}

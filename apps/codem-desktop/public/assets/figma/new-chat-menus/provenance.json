@@ -1,0 +1,255 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "155:82286",
+  "menus": [
+    {
+      "nodeId": "155:81839",
+      "width": 206,
+      "height": 266,
+      "strokeAlign": "OUTSIDE",
+      "strokeWeight": 1,
+      "padding": 4,
+      "gap": 2,
+      "children": [
+        {
+          "id": "155:81840",
+          "y": 4,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82279",
+          "y": 38,
+          "width": 198,
+          "height": 9
+        },
+        {
+          "id": "155:81896",
+          "y": 49,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:81847",
+          "y": 83,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:81854",
+          "y": 117,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:81861",
+          "y": 151,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:81868",
+          "y": 185,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82252",
+          "y": 219,
+          "width": 198,
+          "height": 9
+        },
+        {
+          "id": "155:81876",
+          "y": 230,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82223",
+          "y": 83,
+          "width": 232,
+          "height": 32
+        },
+        {
+          "id": "155:82192",
+          "y": 117,
+          "width": 232,
+          "height": 32
+        },
+        {
+          "id": "155:82161",
+          "y": 151,
+          "width": 232,
+          "height": 32
+        },
+        {
+          "id": "155:82130",
+          "y": 185,
+          "width": 232,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "nodeId": "155:81915",
+      "width": 206,
+      "height": 108,
+      "strokeAlign": "OUTSIDE",
+      "strokeWeight": 1,
+      "padding": 4,
+      "gap": 2,
+      "children": [
+        {
+          "id": "155:81925",
+          "y": 4,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82000",
+          "y": 38,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:81932",
+          "y": 72,
+          "width": 198,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "nodeId": "155:82047",
+      "width": 206,
+      "height": 142,
+      "strokeAlign": "OUTSIDE",
+      "strokeWeight": 1,
+      "padding": 4,
+      "gap": 2,
+      "children": [
+        {
+          "id": "155:82048",
+          "y": 4,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82058",
+          "y": 38,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82068",
+          "y": 72,
+          "width": 198,
+          "height": 32
+        },
+        {
+          "id": "155:82079",
+          "y": 106,
+          "width": 198,
+          "height": 32
+        }
+      ]
+    }
+  ],
+  "exportMethod": "Figma Plugin API exportAsync SVG_STRING and PNG at 3x, contentsOnly: true, useAbsoluteBounds: false. Original unmodified exports.",
+  "assets": [
+    {
+      "file": "cloud.svg",
+      "nodeId": "155:81910",
+      "width": 20,
+      "height": 20,
+      "sha256": "9a5be322e485e2686362cf8ce49787cb1ddaecd1aca6b65ab7df5426c16aa879",
+      "bytes": 1236
+    },
+    {
+      "file": "folder.svg",
+      "nodeId": "155:82277",
+      "width": 20,
+      "height": 20,
+      "sha256": "af27174428f2abd157244391d726378d833bd165e1a11260c7cc4adf2b6c72e9",
+      "bytes": 2872
+    },
+    {
+      "file": "add-project.svg",
+      "nodeId": "155:82250",
+      "width": 20,
+      "height": 20,
+      "sha256": "cf4a9c9404251c14c57af182e7de89b5ca60d39f582ab621b99273fe47f28320",
+      "bytes": 1055
+    },
+    {
+      "file": "ask-approve.svg",
+      "nodeId": "155:81987",
+      "width": 20,
+      "height": 20,
+      "sha256": "6051f784400a77b13332df5aa58ca3b0075166149754c530d987d26c2c259c44",
+      "bytes": 1627
+    },
+    {
+      "file": "approve.svg",
+      "nodeId": "155:82002",
+      "width": 20,
+      "height": 20,
+      "sha256": "aaa5714ad146145bfaf02c94064a0f29575a46b8bc7e04f932a83dc1f67b2fb0",
+      "bytes": 903
+    },
+    {
+      "file": "full-access.svg",
+      "nodeId": "155:81995",
+      "width": 20,
+      "height": 20,
+      "sha256": "0f7f77d8001d36502f46351f87cf22c6bd8750a8acb7ee1c7d36de64d5d80507",
+      "bytes": 1204
+    },
+    {
+      "file": "low.png",
+      "nodeId": "155:82099",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "sha256": "37f40a03683461ad7626716cb789370f23cdf408c7f66e7cb7920dece4fe156a",
+      "bytes": 3918
+    },
+    {
+      "file": "medium.png",
+      "nodeId": "155:82096",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "sha256": "9ac3f3eb90e5e19331416a451d6effbc654af2674f550e6bffc3efa96edb2dec",
+      "bytes": 3524
+    },
+    {
+      "file": "high.png",
+      "nodeId": "155:82093",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "sha256": "3cd835376575b6d3ca39f35967fbf648649023b5cc0ab8ad2921ad7bf5a7b86b",
+      "bytes": 3793
+    },
+    {
+      "file": "extra.png",
+      "nodeId": "155:82081",
+      "width": 20,
+      "height": 20,
+      "scale": 3,
+      "sha256": "b1029822b2d302d6f5f271420264c671a20850f46d8fa1f6e296025c6e34949a",
+      "bytes": 4242
+    },
+    {
+      "file": "device.svg",
+      "nodeId": "174:5827",
+      "width": 16,
+      "height": 16,
+      "sha256": "0bf6dce4f4f9d64ae5da6b5c65167c5be67a23a8407700f05959b1f7a58433aa",
+      "bytes": 676,
+      "exportMethod": "Original unmodified SVG downloaded from Figma get_design_context asset URL."
+    }
+  ]
+}

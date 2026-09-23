@@ -1,0 +1,51 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "124:54419",
+  "exportMethod": "Original assets from Figma MCP design context; no redrawn icons",
+  "assets": [
+    {
+      "file": "completed.svg",
+      "nodeId": "124:57950",
+      "width": 11.2,
+      "height": 11.2,
+      "bytes": 633,
+      "sha256": "72e68f1daec57864a1e226c34c5aa00d6314df2e8b0db8413f940997d2fb2d66"
+    },
+    {
+      "file": "codem-logo.svg",
+      "nodeId": "124:57954",
+      "width": 15.345268249511719,
+      "height": 12,
+      "bytes": 10673,
+      "sha256": "d0441e1f2a732d056df58c99055693c4688c3cbda48b8156be2cb09fecccaf1a"
+    },
+    {
+      "file": "finished.png",
+      "nodeId": "124:58006",
+      "width": 26,
+      "height": 26,
+      "bytes": 5031,
+      "sha256": "a5255c674e78205db9877bd3d9aad3a438dc3b0a33dc4dd776336c8f0b6237b7",
+      "sourceDimensions": {
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "file": "rerun.svg",
+      "nodeId": "124:58324",
+      "width": 16,
+      "height": 16,
+      "bytes": 779,
+      "sha256": "381f6d001bcca1547d8c6e5b0e01c61a9af0fdcbe8a997ab478dd3fae0a6d301"
+    },
+    {
+      "file": "caret.svg",
+      "nodeId": "124:58221",
+      "width": 16,
+      "height": 16,
+      "bytes": 646,
+      "sha256": "69bf32003f41200b736a5d4ce8aa488a8fdd55d37abaa947263db3885b779083"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.report-panel-content { flex: 1; min-width: 0; min-height: 0; overflow: hidden; }
+.report-content, .report-frame-wrap { position: relative; width: 100%; height: 100%; min-height: 0; }
+.report-frame { display: block; width: 100%; height: 100%; border: 0; background: #fff; }
+.report-panel-content[hidden] { display: none; }
+.report-load-state { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 24px; background: #fff; color: var(--app-muted); font-size: 14px; }
+.report-load-state button { padding: 8px 16px; border: 1px solid var(--app-border); border-radius: 999px; color: var(--text); }
+.report-load-state button:hover { background: var(--fill); }

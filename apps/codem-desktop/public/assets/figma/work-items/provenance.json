@@ -1,0 +1,160 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "39:9578",
+  "exportMethod": "Figma exportAsync; original SVG exports and 3x PNG avatars",
+  "assets": [
+    {
+      "file": "story.svg",
+      "nodeId": "39:11000",
+      "bytes": 918,
+      "sha256": "e870028906c8e6412c884d53e3d7d6031e00388546dbad363707aa790bdcfea0"
+    },
+    {
+      "file": "help.svg",
+      "nodeId": "39:10994",
+      "bytes": 1376,
+      "sha256": "4363c958b7ba67f0eba7badca7a93ca71bbe2406a47b6167c6756f17cbe3849e"
+    },
+    {
+      "file": "sync.svg",
+      "nodeId": "39:10970",
+      "bytes": 1071,
+      "sha256": "fe7180ff053ead15c014347b0cf6fa95e9dcedab839ecdfd43f85efc3fc34e50"
+    },
+    {
+      "file": "pin.svg",
+      "nodeId": "39:10968",
+      "bytes": 755,
+      "sha256": "a28e4ea6ece5668767ab6c4161bb0cd5d8026af12ac919fc262912f25847a72c"
+    },
+    {
+      "file": "automation.svg",
+      "nodeId": "39:10966",
+      "bytes": 1704,
+      "sha256": "52607b1eb7a330aaaf4407039ca71166687c6b8483013f7c8af06932f9a9d8bc"
+    },
+    {
+      "file": "save.svg",
+      "nodeId": "39:10953",
+      "bytes": 4177,
+      "sha256": "14ce684a4e77de93b1448d72fd0bb564ff24accd4667b73480a3997f87a6bc16"
+    },
+    {
+      "file": "share.svg",
+      "nodeId": "39:10948",
+      "bytes": 1934,
+      "sha256": "5dabd2ceb64590f38010a109c910f839bcf8ac55ba4742d02404793dc6a98062"
+    },
+    {
+      "file": "more.svg",
+      "nodeId": "39:10943",
+      "bytes": 753,
+      "sha256": "0e6f52fd4ff9687d1a0fb24b187cf74466a80552a8f3797da849dcf9b7fe5a95"
+    },
+    {
+      "file": "new.svg",
+      "nodeId": "39:10941",
+      "bytes": 1038,
+      "sha256": "e284c59b737bc1607a5254c35f098daa5e377e999ead716689a4474307f32844"
+    },
+    {
+      "file": "filter.svg",
+      "nodeId": "39:10936",
+      "bytes": 1810,
+      "sha256": "f205f308c4e65b063189f2ff89e84f917b8fa61c1dd1972e21848e2bd5835d3d"
+    },
+    {
+      "file": "chevron-primary.svg",
+      "nodeId": "39:10934",
+      "bytes": 468,
+      "sha256": "5efead006faa4ce103da016973ac42f6efdaa496463ac8bcedbe81228fa474f0"
+    },
+    {
+      "file": "sort.svg",
+      "nodeId": "39:10927",
+      "bytes": 615,
+      "sha256": "dbf090531d4fdb038295ceb58b63a58f85a32638528dc994894c2adebd4e1ba5"
+    },
+    {
+      "file": "group.svg",
+      "nodeId": "39:10924",
+      "bytes": 2502,
+      "sha256": "6cf77b7862266a117a99d931ade9058764c4cea7e42f9c4770d69f203cd3b7e7"
+    },
+    {
+      "file": "color.svg",
+      "nodeId": "39:10919",
+      "bytes": 1946,
+      "sha256": "48e5965984ba4842e674edd34f522232ec7239c9e219b53924787221be593ee6"
+    },
+    {
+      "file": "levels.svg",
+      "nodeId": "39:9650",
+      "bytes": 942,
+      "sha256": "64ec27193fa8eaf695ea2ff363d133bb8eeed62cf3add316ce356b3434bc3ec5"
+    },
+    {
+      "file": "search.svg",
+      "nodeId": "39:10917",
+      "bytes": 752,
+      "sha256": "f155e25657dc7adc72e752c118cb2d30127b67cd6b2407d98491674f0f4c8bdc"
+    },
+    {
+      "file": "table.svg",
+      "nodeId": "39:10912",
+      "bytes": 2435,
+      "sha256": "76c3cec2108c0fe8b276b59cd7b135d998c89149963e5ff69fbbc220f4a8e881"
+    },
+    {
+      "file": "chevron.svg",
+      "nodeId": "39:10910",
+      "bytes": 469,
+      "sha256": "6c6690b26306a894e18fa5600e44a6e7c69ed9be9999b3117c8e9e30201c7366"
+    },
+    {
+      "file": "settings.svg",
+      "nodeId": "39:10908",
+      "bytes": 2747,
+      "sha256": "c7db6be4988f56352d36b0cc5ed312589fb5881a5aeabcab19307b3b6aec0273"
+    },
+    {
+      "file": "plus.svg",
+      "nodeId": "39:10331",
+      "bytes": 584,
+      "sha256": "013ecbc00f060a77e7f1ac25ccb930b792ab37558d61280c24236090884f9672"
+    },
+    {
+      "file": "column-sort.svg",
+      "nodeId": "39:10892",
+      "bytes": 597,
+      "sha256": "e2218fd9c11797e524d0008b7b5b2ed3a46b12a09d2288abac70613ff2699d9d"
+    },
+    {
+      "file": "jane.png",
+      "nodeId": "39:10867",
+      "scale": 3,
+      "bytes": 7100,
+      "sha256": "db4dfd6f0e360720a60f3fd60d993f62f369bb837b6a07f7b4577dac093f012a",
+      "width": 60,
+      "height": 60
+    },
+    {
+      "file": "john.png",
+      "nodeId": "39:10724",
+      "scale": 3,
+      "bytes": 6291,
+      "sha256": "6f463779bcd26b9d4a830b8b6814c452f5170f7b2e6419f9a2247b0fb30483ec",
+      "width": 60,
+      "height": 60
+    },
+    {
+      "file": "john-alt.png",
+      "nodeId": "39:10509",
+      "scale": 3,
+      "bytes": 6426,
+      "sha256": "d819c7be6c590087a0d20ab5275bb010e3296dc37244ff5851c0d718650af154",
+      "width": 60,
+      "height": 60
+    }
+  ]
+}

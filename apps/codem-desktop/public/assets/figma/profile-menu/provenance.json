@@ -1,0 +1,47 @@
+{
+  "source": "Figma published design libraries",
+  "contextFile": "ijwAFgHcsNwcLoHFlCFFFX",
+  "note": "Original SVG_STRING exports from published Figma components; geometry unmodified.",
+  "assets": [
+    {
+      "file": "globe.svg",
+      "componentName": "Globe",
+      "componentKey": "1e579e316fd896a17fd219a5cac62378f48194aa",
+      "importedNodeId": "25:559",
+      "library": "Vedesign Agent",
+      "width": 24,
+      "height": 24,
+      "sha256": "4a6eb639fcc92ba8eeb8b944c9d3deb36fd19e9df91af26f118a0a685fba8524"
+    },
+    {
+      "file": "terminal.svg",
+      "componentName": "Terminal",
+      "componentKey": "1c745a7e17833c2620c7832375075741c1530f57",
+      "importedNodeId": "25:561",
+      "library": "Vedesign Agent",
+      "width": 24,
+      "height": 24,
+      "sha256": "ac76c9c5fc8113ca1b117744b809edcb8cb726419122e102f65efd559ebfdc1f"
+    },
+    {
+      "file": "settings.svg",
+      "componentName": "icon-settings-01",
+      "componentKey": "4a4d9cce6f14eed819952b2e9f52702e43b81048",
+      "importedNodeId": "27:569",
+      "library": "DouyinSuite variants",
+      "width": 24,
+      "height": 24,
+      "sha256": "1a28e69c73b2f8a79a7cc8eb494f869aef7ccf497064311a573a3ac253e1816f"
+    },
+    {
+      "file": "mcp.svg",
+      "componentName": "icon_mcp-logo_outlined",
+      "componentKey": "f1582182312462931c4718fb89099f7c83dd7ad6",
+      "importedNodeId": "25:565",
+      "library": "[UD] 07 图标表情库",
+      "width": 24,
+      "height": 24,
+      "sha256": "7d5b70370d808642c2ff8f8148f7438e5b86a27041472fe7bcfe005ea704feda"
+    }
+  ]
+}

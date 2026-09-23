@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/home", "destination": "/index.html" },
+    { "source": "/home/", "destination": "/index.html" },
+    { "source": "/marketplace", "destination": "/index.html" },
+    { "source": "/marketplace/", "destination": "/index.html" },
+    { "source": "/admin", "destination": "/index.html" },
+    { "source": "/admin/", "destination": "/index.html" },
+    { "source": "/settings", "destination": "/index.html" },
+    { "source": "/settings/", "destination": "/index.html" },
+    { "source": "/codem/settings", "destination": "/index.html" },
+    { "source": "/codem/settings/", "destination": "/index.html" },
+    { "source": "/codem/tools", "destination": "/index.html" },
+    { "source": "/codem/tools/", "destination": "/index.html" },
+    { "source": "/codem/automations", "destination": "/index.html" },
+    { "source": "/codem/automations/", "destination": "/index.html" },
+    { "source": "/apps/:path*", "destination": "/index.html" },
+    { "source": "/chat/:path*", "destination": "/index.html" }
+  ]
+}

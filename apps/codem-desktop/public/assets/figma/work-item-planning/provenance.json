@@ -1,0 +1,88 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "61:37889",
+  "pdPanelNode": "61:32832",
+  "pdResultNode": "61:32677",
+  "schedulePanelNode": "61:36273",
+  "scheduleResultNode": "61:37073",
+  "exportMethod": "Figma exportAsync SVG_STRING",
+  "assets": [
+    {
+      "file": "previous-year.svg",
+      "nodeId": "61:37847",
+      "width": 20,
+      "height": 20,
+      "bytes": 822,
+      "sha256": "1ee9470f22fd5bf5857e272d084f2a38babeb9025886c03e4ed1100664ca4fd9"
+    },
+    {
+      "file": "previous-month.svg",
+      "nodeId": "61:37849",
+      "width": 20,
+      "height": 20,
+      "bytes": 510,
+      "sha256": "ddea705b6c2049db95b3327ef7f2a434ffdeb6d64f95c6b8372e5cf6159f8280"
+    },
+    {
+      "file": "next-month.svg",
+      "nodeId": "61:37851",
+      "width": 20,
+      "height": 20,
+      "bytes": 510,
+      "sha256": "edf808b296ddf45c074d5454dbda169cb01a7771fcce2cdcb509e3190343d094"
+    },
+    {
+      "file": "next-year.svg",
+      "nodeId": "61:37853",
+      "width": 20,
+      "height": 20,
+      "bytes": 818,
+      "sha256": "a0a22ae8ed4b1bbcb88eec6c91398bbb9127ef05ae4cc68e76b6d0795f4e708b"
+    },
+    {
+      "file": "schedule-tag.svg",
+      "nodeId": "61:37258",
+      "width": 20,
+      "height": 20,
+      "bytes": 1839,
+      "sha256": "6f4f238c8a73eed0ca36158001711ac56e4b82eba631a32b61ac831f7a8f72c6"
+    }
+  ],
+  "reusedAssets": [
+    {
+      "file": "../work-item-owner-ai/ai.svg",
+      "nodeIds": [
+        "61:37324",
+        "61:37358"
+      ],
+      "bytes": 1562,
+      "sha256": "709364a1cff84a1cb4948923355c5f4d5d3751330794dd608d02992d8f0ac101"
+    },
+    {
+      "file": "../work-item-owner-ai/recommended.svg",
+      "nodeIds": [
+        "61:37322",
+        "61:37356"
+      ],
+      "bytes": 1250,
+      "sha256": "cd3bd7071e78d456457f258f7cd5666cfba2378176c97c7d6ca55a33f4febe71"
+    },
+    {
+      "file": "../work-item-drawer/ask-ai.svg",
+      "nodeIds": [
+        "61:32916",
+        "61:36902"
+      ],
+      "bytes": 1557,
+      "sha256": "84112f3b86ce79aa4c34b605f89fea5fe3a8e2938de83dfcbce05210fe4dd85a"
+    },
+    {
+      "file": "../work-item-owner-ai/success.svg",
+      "nodeIds": [
+        "61:37048"
+      ],
+      "bytes": 696,
+      "sha256": "33c037b2c9d814b720c061829b2caa74d020921c80419be57e8fa3383912d3e8"
+    }
+  ]
+}

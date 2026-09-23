@@ -1,0 +1,69 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "74:3170",
+  "note": "Original Figma exports, unchanged bytes. All PNG assets re-exported at 2x; displayed at their original CSS dimensions.",
+  "assets": [
+    {
+      "name": "close",
+      "nodeId": "74:8977",
+      "path": "/assets/settings/create-agent/close.svg",
+      "sha256": "b2639381e1ceb7a09e95600867dfb5e523c4f65d3655a60ca2dc6290c1918d7a",
+      "sizeBytes": 747
+    },
+    {
+      "name": "radio-selected",
+      "nodeId": "74:8966",
+      "path": "/assets/settings/create-agent/radio-selected.svg",
+      "sha256": "72b37570c47fe5bac26da5cb65273740297cb7d4487d1dfc5e6b7524acbdffa2",
+      "sizeBytes": 584
+    },
+    {
+      "name": "codem",
+      "nodeId": "74:3185",
+      "path": "/assets/settings/create-agent/codem.svg",
+      "sha256": "9ec6bf1ca70277904aa45c23d1e0bbaf7d034409d2f46595c9b3325dba6399c1",
+      "sizeBytes": 11156
+    },
+    {
+      "name": "chevron-down",
+      "nodeId": "74:8943",
+      "path": "/assets/settings/create-agent/chevron-down.svg",
+      "sha256": "53d21e472691d52f095b14b2b8c7785b1dd3a6ea7020e25228d3a4a39a233fb4",
+      "sizeBytes": 628
+    },
+    {
+      "name": "name-suffix",
+      "nodeId": "74:8937",
+      "path": "/assets/settings/create-agent/name-suffix.svg",
+      "sha256": "c4350173a7255e01ea9535667f93b19eb69fc68f716b05853a10cc9386c97b02",
+      "sizeBytes": 1516
+    },
+    {
+      "name": "info",
+      "nodeId": "74:8824",
+      "path": "/assets/settings/create-agent/info.svg",
+      "sha256": "4616154217f9cdcde19134697cd232765d966f4a447d63bc7240d1752ef8fbd7",
+      "sizeBytes": 1021
+    },
+    {
+      "name": "member-icon",
+      "nodeId": "74:3202",
+      "path": "/assets/settings/create-agent/member-icon.png",
+      "sha256": "b1ade072981525cdece44dc94a57e0dcf16e2d4e81cba4eb939250d5715ab7e1",
+      "sizeBytes": 836,
+      "exportScale": 2,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "reviewer-avatar",
+      "nodeId": "74:3212",
+      "path": "/assets/settings/create-agent/reviewer-avatar.png",
+      "sha256": "17ff024076e7e723f66985790bed7a2da4ee7305072ef86a50ac2bb5379908f3",
+      "sizeBytes": 13463,
+      "exportScale": 2,
+      "width": 128,
+      "height": 128
+    }
+  ]
+}

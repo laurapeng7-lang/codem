@@ -1,0 +1,202 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "174:8437",
+  "export": "Figma exportAsync PNG 3x and SVG_STRING",
+  "layout": [
+    {
+      "id": "174:8438",
+      "width": 1128,
+      "height": 884,
+      "x": 0,
+      "y": 8,
+      "padding": [
+        44,
+        10,
+        0,
+        10
+      ],
+      "gap": 48,
+      "wrap": "NO_WRAP"
+    },
+    {
+      "id": "174:8611",
+      "width": 1128,
+      "height": 834,
+      "x": 0,
+      "y": 66,
+      "padding": [
+        8,
+        20,
+        8,
+        20
+      ],
+      "gap": 36,
+      "wrap": "NO_WRAP"
+    },
+    {
+      "id": "174:8613",
+      "width": 1088,
+      "height": 793,
+      "x": 0,
+      "y": 0,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 20,
+      "wrap": "NO_WRAP"
+    },
+    {
+      "id": "174:8641",
+      "width": 1088,
+      "height": 370,
+      "x": 0,
+      "y": 36,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 12,
+      "wrap": "WRAP"
+    },
+    {
+      "id": "174:8792",
+      "width": 1088,
+      "height": 275,
+      "x": 0,
+      "y": 36,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 12,
+      "wrap": "WRAP"
+    }
+  ],
+  "assets": [
+    {
+      "file": "slack.png",
+      "nodeId": "174:8645",
+      "width": 150,
+      "height": 150,
+      "bytes": 5564,
+      "sha256": "b6442d7efe4966cc1423ae16319b727c8a7a411ed81fcbbe502ad8f5405afade"
+    },
+    {
+      "file": "lark.png",
+      "nodeId": "174:8661",
+      "width": 150,
+      "height": 150,
+      "bytes": 4418,
+      "sha256": "1d55967b1a9e36ba55f6696dfae89169a53385e903ed49bc9a8763cf4709d9ca"
+    },
+    {
+      "file": "github.png",
+      "nodeId": "174:8679",
+      "width": 150,
+      "height": 150,
+      "bytes": 5938,
+      "sha256": "3b395c3d845861701bf9184c67f1649cf934324043f7775784c49d46992285ca"
+    },
+    {
+      "file": "doubao.png",
+      "nodeId": "174:8695",
+      "width": 150,
+      "height": 150,
+      "bytes": 11425,
+      "sha256": "5424524f27dd6f24061c81e58aad62df68714b36888d16d3af82bdf7eab2bab7"
+    },
+    {
+      "file": "release-check.png",
+      "nodeId": "174:8711",
+      "width": 150,
+      "height": 150,
+      "bytes": 2628,
+      "sha256": "21d314e5a08670da0b6f376034b8e25077f22a5baaea8c4a06a475c3c0d11123"
+    },
+    {
+      "file": "google-drive.png",
+      "nodeId": "174:8733",
+      "width": 150,
+      "height": 150,
+      "bytes": 5258,
+      "sha256": "d16d7f9ff16d88236fe8b06e8454ed4e9cfd5741422d9eebededc68ebfe15406"
+    },
+    {
+      "file": "google-meet.png",
+      "nodeId": "174:8749",
+      "width": 150,
+      "height": 150,
+      "bytes": 3605,
+      "sha256": "7ab58c4bbe6d72a5797b42b2af866b9cdbd63e20cffb84573b5aad928206bd25"
+    },
+    {
+      "file": "meego.png",
+      "nodeId": "174:8772",
+      "width": 150,
+      "height": 150,
+      "bytes": 6371,
+      "sha256": "0727e8212e4bb46d09f6b04a027026002c2339a1e0b9fb806ed757426f8ace6b"
+    },
+    {
+      "file": "release-review.png",
+      "nodeId": "174:8796",
+      "width": 150,
+      "height": 150,
+      "bytes": 15956,
+      "sha256": "40ccc701a7c1b0b1f9f7b0b9c03602641b152293918f258d94f01c1975bec0a3"
+    },
+    {
+      "file": "space-info.png",
+      "nodeId": "174:8812",
+      "width": 150,
+      "height": 150,
+      "bytes": 14330,
+      "sha256": "0f78666cff3667c5850d4e5fd86fc0e19748c664790d0cfdef6185fd3cb0147e"
+    },
+    {
+      "file": "sandbox.png",
+      "nodeId": "174:8828",
+      "width": 150,
+      "height": 150,
+      "bytes": 18698,
+      "sha256": "778963e28454cd76f83ecf473381beb912da364623d9cff7aafb852486f37282"
+    },
+    {
+      "file": "prd-review.png",
+      "nodeId": "174:8844",
+      "width": 150,
+      "height": 150,
+      "bytes": 14339,
+      "sha256": "3b54ee05d79603e4f4d2517531304bb1d6c9d5f8751a1dc3ab14b9de082ae4a7"
+    },
+    {
+      "file": "card-copy.png",
+      "nodeId": "174:8861",
+      "width": 150,
+      "height": 150,
+      "bytes": 25165,
+      "sha256": "0ba62472ca414c00fe34f7d9b942d7183ffad98ddb09b50d5dedbe7fed637c2c"
+    },
+    {
+      "file": "knowledge-review.png",
+      "nodeId": "174:8878",
+      "width": 150,
+      "height": 150,
+      "bytes": 17854,
+      "sha256": "ff1c865dc63cc5bd032e6cf445daa242e8ef75bae3360dd41b2f91bb00f178c9"
+    },
+    {
+      "file": "search.svg",
+      "nodeId": "174:8632",
+      "bytes": 779,
+      "sha256": "a809f04577be6a57c2aca8c87823cac16abe71979e119b287d3634684d897695"
+    }
+  ]
+}

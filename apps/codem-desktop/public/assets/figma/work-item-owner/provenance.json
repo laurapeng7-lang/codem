@@ -1,0 +1,58 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "61:28119",
+  "exportMethod": "Figma exportAsync PNG; 3x, contentsOnly, useAbsoluteBounds",
+  "reusedAssets": [
+    {
+      "file": "../work-item-drawer/ask-ai.svg",
+      "nodeId": "61:31531",
+      "sha256": "84112f3b86ce79aa4c34b605f89fea5fe3a8e2938de83dfcbce05210fe4dd85a"
+    }
+  ],
+  "assets": [
+    {
+      "file": "liang-nannan.png",
+      "nodeId": "61:31603",
+      "width": 24.000003814697266,
+      "height": 24.000003814697266,
+      "scale": 3,
+      "bytes": 9714,
+      "sha256": "3c4b1b8ec2277dd073a40e82ef8ea2cd7d8769d82b8918b651f73870f6a5d2db",
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    },
+    {
+      "file": "ye-na.png",
+      "nodeId": "61:31600",
+      "width": 24.000003814697266,
+      "height": 24.000003814697266,
+      "scale": 3,
+      "bytes": 8931,
+      "sha256": "82d5ea1c87273b67988bcd9c9ccdc9d68daef2b8cc2a6d00a3631f78cd78a137",
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    },
+    {
+      "file": "tan-tianmei.png",
+      "nodeId": "61:31597",
+      "width": 24.000003814697266,
+      "height": 24.000003814697266,
+      "scale": 3,
+      "bytes": 9010,
+      "sha256": "efc3abe4375367255bc0b8e0a9aa663efed7a47092640146176cf4e9884f891f",
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    },
+    {
+      "file": "guo-chang.png",
+      "nodeId": "61:31587",
+      "width": 24.000003814697266,
+      "height": 24.000003814697266,
+      "scale": 3,
+      "bytes": 8160,
+      "sha256": "e2da8de8903123cf61107e9d093bdf561013ca31de81ee14d88e20575afc96b3",
+      "pixelWidth": 72,
+      "pixelHeight": 72
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "155:87630",
+  "width": 1200,
+  "height": 44,
+  "assets": [
+    {
+      "file": "folder.svg",
+      "nodeId": "155:87664",
+      "width": 16,
+      "height": 16,
+      "sha256": "81fed3a7d83533c0f9aefced2c2ea74d4c942b511227d0c00ceed4b4fc4527bf",
+      "bytes": 2552
+    },
+    {
+      "file": "browser.svg",
+      "nodeId": "155:87704",
+      "width": 20,
+      "height": 20,
+      "sha256": "e3a4705eeb9ce6ce94e62f43eac1484a8ccd61f8c674f0c5f4810a50cff23ebd",
+      "bytes": 1968
+    },
+    {
+      "file": "files.svg",
+      "nodeId": "155:87706",
+      "width": 20,
+      "height": 20,
+      "sha256": "f565e497491d5a8e90841b14712a2de837cd7a81fc1f7772eddd44ac301d406d",
+      "bytes": 2873
+    },
+    {
+      "file": "subagent.svg",
+      "nodeId": "155:87711",
+      "width": 20,
+      "height": 20,
+      "sha256": "8f6c868ea6b9175b4a8561a047fd78d9447b094bb74c483a180bfc49a72dc154",
+      "bytes": 3795
+    },
+    {
+      "file": "terminal.svg",
+      "nodeId": "155:87716",
+      "width": 20,
+      "height": 20,
+      "sha256": "8e3123b7a917ab986b3453ccbca7c753f16898eb8c223bc77978a2195cd87755",
+      "bytes": 2717
+    },
+    {
+      "file": "panel.svg",
+      "nodeId": "155:87708",
+      "width": 20,
+      "height": 20,
+      "sha256": "243ae85e6ac24d9bb2acfcdaf1e32823a0a5b570c4dabec63a42fe712327aa1d",
+      "bytes": 2456
+    }
+  ],
+  "reusedAssets": [
+    {
+      "nodeId": "155:87669",
+      "file": "../codem-navigation/codem-cyan.png",
+      "sha256": "2996ea0718f22a5cc82b07ce82cd831e06029a55052d4952b3bd95d824bf2f64",
+      "bytes": 3030
+    }
+  ]
+}

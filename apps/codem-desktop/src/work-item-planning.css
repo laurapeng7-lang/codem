@@ -1,0 +1,51 @@
+.work-detail-summary-value.work-detail-summary-planning { min-width: 0; padding: 2px 4px; }
+.work-detail-summary-label[for="work-item-pd"], .work-detail-summary-label[for="work-item-schedule"] { cursor: text; }
+.work-owner-picker.work-planning-picker input { padding-left: 8px; text-overflow: ellipsis; font-family: "Inter", "PingFang SC", sans-serif; }
+.work-planning-picker .work-owner-placeholder { left: 8px; }
+.work-planning-picker input.work-planning-preview { opacity: .5; }
+.work-planning-menu { white-space: normal; }
+.work-planning-suggestion-row { flex-shrink: 0; padding: 4px; }
+.work-owner-menu.work-pd-menu { overflow-y: auto; }
+.work-planning-menu .work-planning-ai-match { min-height: 20px; }
+.work-planning-ai-match > span:first-of-type { white-space: nowrap; }
+.work-planning-ai-match > span:last-of-type { min-width: 0; }
+.work-owner-menu.work-schedule-menu { padding: 0; border-radius: 8px; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; container-type: inline-size; box-shadow: inset 0 0 0 1px #00000014, 0 4px 8px -8px #1f23290f, 0 6px 12px #1f23290a, 0 8px 24px 8px #1f23290a; }
+.work-schedule-menu .work-planning-suggestion-row { box-shadow: inset 0 -1px #00000014; }
+.work-schedule-calendars { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); flex-shrink: 0; width: 520px; max-width: 100%; font: 400 14px/20px "Inter", "PingFang SC", sans-serif; }
+.work-schedule-month { min-width: 0; }
+.work-schedule-month-header { display: flex; align-items: center; height: 48px; padding: 8px 16px; }
+.work-schedule-month-header button { display: grid; place-items: center; flex-shrink: 0; width: 32px; height: 32px; border-radius: 3px; }
+.work-schedule-month-header button:hover { background: #2b2f360f; }
+.work-schedule-month-header > span { flex: 1; min-width: 0; text-align: center; font-weight: 500; white-space: nowrap; }
+.work-schedule-month-body { padding: 0 16px 16px; }
+.work-schedule-weekdays { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); height: 37px; padding-bottom: 1px; box-shadow: inset 0 -1px #00000014; color: #1f232999; font-size: 12px; line-height: 16px; font-weight: 500; }
+.work-schedule-weekdays > span { display: grid; place-items: center; }
+.work-schedule-days { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); grid-template-rows: repeat(6, 36px); }
+.work-schedule-days button { display: grid; place-items: center; min-width: 0; height: 36px; }
+.work-schedule-days button > span { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 50%; }
+.work-schedule-days button:hover > span { background: #2b2f360f; }
+.work-schedule-days .is-reference-day > span { color: #3250eb; background: #2b2f360f; font-weight: 600; }
+.work-schedule-days .is-in-range { background: #3250eb0f; }
+.work-schedule-days button[aria-pressed="true"] > span { background: #3250eb; color: #fff; }
+.work-planning-menu button:focus-visible { outline: 2px solid #3250eb; outline-offset: -2px; }
+.work-detail-field > .work-detail-editable-value { min-width: 0; padding: 0; }
+.work-detail-field > label { cursor: text; }
+.work-owner-picker.work-review-field input { padding-left: 12px; }
+.work-review-field .work-owner-placeholder { left: 12px; }
+.work-review-value-tag { position: absolute; left: 12px; top: 4px; max-width: calc(100% - 24px); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; pointer-events: none; }
+.work-review-value-tag.is-preview { opacity: .5; }
+.work-owner-menu.work-review-team-menu { overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; }
+.work-review-team-menu > * { flex-shrink: 0; }
+.work-review-options { display: flex; flex-direction: column; gap: 2px; padding: 0 4px; }
+.work-review-option { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-shrink: 0; height: 40px; padding: 8px; border-radius: 6px; text-align: left; }
+.work-review-option:hover, .work-review-option.is-highlighted { background: #2b2f360f; }
+.work-review-menu .work-owner-ai-reasons { min-height: 104px; }
+.work-schedule-calendars.is-single { grid-template-columns: minmax(0, 1fr); width: 284px; }
+@media (max-width: 600px) {
+  .work-owner-picker.work-review-field input { padding-left: 8px; }
+  .work-review-value-tag, .work-review-field .work-owner-placeholder { left: 8px; }
+}
+@container (max-width: 519px) {
+  .work-schedule-calendars { grid-template-columns: minmax(0, 1fr); }
+  .work-schedule-month { width: 284px; max-width: 100%; margin: 0 auto; }
+}

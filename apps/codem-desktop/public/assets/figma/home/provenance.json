@@ -1,0 +1,155 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "119:47771",
+  "assets": [
+    {
+      "file": "my-work.png",
+      "nodeId": "119:47859",
+      "bytes": 38175,
+      "sha256": "6eea392316be3b44cf75f2fb070fa598869f21107a4605596ab54954e8e5515b",
+      "scale": 4,
+      "contentsOnly": true,
+      "width": 715,
+      "height": 382
+    },
+    {
+      "file": "weekly.png",
+      "nodeId": "119:47912",
+      "bytes": 173986,
+      "sha256": "12af8581816efcb821eef736fd04558f52821339fd9e4d0430dad7b432d4d76f",
+      "scale": 4,
+      "contentsOnly": true,
+      "width": 715,
+      "height": 382
+    },
+    {
+      "file": "create-work.png",
+      "nodeId": "119:47924",
+      "bytes": 56166,
+      "sha256": "faecd4993af686c5e288bd39e6ddc9fa11393dc0ffaded2f7bef4b00f6ec1491",
+      "scale": 4,
+      "contentsOnly": true,
+      "width": 701,
+      "height": 352
+    },
+    {
+      "file": "template.png",
+      "nodeId": "119:47955",
+      "bytes": 41567,
+      "sha256": "c43f335315510d96e5b22d6ceb824be93627edc40b72611e7b9e8c975a8beaa8",
+      "scale": 4,
+      "contentsOnly": true,
+      "width": 715,
+      "height": 382
+    },
+    {
+      "file": "grid.svg",
+      "nodeId": "119:50566",
+      "bytes": 1041,
+      "sha256": "b4510c5b00f38ce22b5f3650232fd636d91fd1cf9939ebd0fa7fa0465859eba1"
+    },
+    {
+      "file": "list.svg",
+      "nodeId": "119:50561",
+      "bytes": 1313,
+      "sha256": "1a9163ef25e05500a49139a636e2d3d50f87e2300dcda89f42dcfda9749c8e8b"
+    },
+    {
+      "file": "filter.svg",
+      "nodeId": "I119:53226;1:6320",
+      "bytes": 647,
+      "sha256": "5531c054d441c19ab894745a9ee314cc5d4ff3760ef78bab0c4ff152af1f70a1"
+    },
+    {
+      "file": "more.svg",
+      "nodeId": "I119:53243;203:113799",
+      "bytes": 911,
+      "sha256": "7ddf81638dfb91374f33be1988f9c21e4b9bfc1c4aa50548266fcb815f67c3e3"
+    },
+    {
+      "file": "folder-blue.svg",
+      "nodeId": "119:53283",
+      "bytes": 1523,
+      "sha256": "e10bdffa7472aa4ab978c1c1eb122d3fc207c98ae3066e7478264285df485fd2"
+    },
+    {
+      "file": "folder-yellow.svg",
+      "nodeId": "119:53297",
+      "bytes": 1527,
+      "sha256": "ee8d89ae4378a9ab5202134bb486a35bda4c975a90719126f8536935589ad35b"
+    },
+    {
+      "file": "folder-purple.svg",
+      "nodeId": "119:53311",
+      "bytes": 1527,
+      "sha256": "0071280f9cd97f99e28db38c519d019a9224e6a876bd28cd67ed29d67909e15a"
+    },
+    {
+      "file": "folder-orange.svg",
+      "nodeId": "119:53339",
+      "bytes": 1527,
+      "sha256": "206f3610f5a0aaf9ff6a857f6663c95d8f3384057a85256afccb1e5c5e2917fe"
+    },
+    {
+      "file": "folder-green.svg",
+      "nodeId": "119:53353",
+      "bytes": 1527,
+      "sha256": "293f3b88983f4cab4f7eb8c9a3c4c7da31f952d24812ad53a7c75bd24ebdae5f"
+    },
+    {
+      "file": "folder-pink.svg",
+      "nodeId": "119:53367",
+      "bytes": 1527,
+      "sha256": "35525e5a427ccb6c394533d6d32d701003171a6f3764d644e114ddc3370570f0"
+    },
+    {
+      "file": "file.svg",
+      "nodeId": "119:53270",
+      "bytes": 989,
+      "sha256": "a649149cdb03e8e747883c125e21068f6314923c88043a6097ee9a782d22f734"
+    },
+    {
+      "file": "chevron-right.svg",
+      "nodeId": "119:50591",
+      "bytes": 592,
+      "sha256": "148b86647211233d4a5bd7871a5a662c78318b6f8964b61d28b8e31fe50a376a"
+    },
+    {
+      "file": "weekly-glow-left.svg",
+      "nodeId": "119:47909",
+      "bytes": 969,
+      "sha256": "3b599a56dd3fdbf245f0ba2b24e6b58d86da23cc74a37239680d4f8863ceab6b"
+    },
+    {
+      "file": "weekly-glow-right.svg",
+      "nodeId": "119:47910",
+      "bytes": 1565,
+      "sha256": "adcc329c0d1930f8b128eb50ae08482d05bfef553be6ba897e994c6e1a42eb5d"
+    },
+    {
+      "file": "mention.svg",
+      "nodeId": "119:50835",
+      "bytes": 1369,
+      "sha256": "59033f2bb4a124403185873c32f43de82ac6a09237369c55eab8a07217b9149a"
+    },
+    {
+      "file": "attachment.svg",
+      "nodeId": "119:47828",
+      "bytes": 1060,
+      "sha256": "1a4a9ee7868aa2f7d305ba7808d0017c0e8d43ee2b5f1fa202eef0acc2568be5"
+    },
+    {
+      "file": "skill.svg",
+      "nodeId": "119:47835",
+      "bytes": 2526,
+      "sha256": "2839a39b92fa758aebe7c3a26f6a725459bd194a7d3c4b177e66abc9b4f26034"
+    },
+    {
+      "file": "send.svg",
+      "nodeId": "119:50684",
+      "bytes": 763,
+      "sha256": "c6aa3699686528b4d0cc0d9e0d3c5025188a5c49b81d78deaac541e9c022ad45"
+    }
+  ],
+  "exportMethod": "Original Figma exports; Home illustrations exported at 4x with contentsOnly to preserve transparency, source clipping and shadows"
+}

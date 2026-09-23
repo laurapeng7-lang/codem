@@ -1,0 +1,145 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "sourceNode": "74:7062",
+  "note": "Original unmodified Figma exports. Agent avatar PNGs are 160px for 80px display.",
+  "assets": [
+    {
+      "name": "cover.png",
+      "nodeId": "74:7064",
+      "path": "/assets/settings/agent-detail/cover.png",
+      "sizeBytes": 467420,
+      "sha256": "5e98f67b5f29f3c137ab608220b92cafde5e61be9beaeec55cce6591f4046ed6",
+      "width": 2418,
+      "height": 1538
+    },
+    {
+      "name": "close.svg",
+      "nodeId": "74:8979",
+      "path": "/assets/settings/agent-detail/close.svg",
+      "sizeBytes": 823,
+      "sha256": "b051ee72f56e3d7fce4e8e8af8caf64cd38b36b0099030f6d7aefdbc6f532f86"
+    },
+    {
+      "name": "chevron-down.svg",
+      "nodeId": "74:11134",
+      "path": "/assets/settings/agent-detail/chevron-down.svg",
+      "sizeBytes": 627,
+      "sha256": "4733a2b36bea8c8b67e700285630eaf567c654775b50a56aea691caa1f398d7d"
+    },
+    {
+      "name": "chevron-right.svg",
+      "nodeId": "74:10872",
+      "path": "/assets/settings/agent-detail/chevron-right.svg",
+      "sizeBytes": 631,
+      "sha256": "0914f177d7f0b0a59cd280e945d0b431b248faa97d896c6cecdd6358ac884031"
+    },
+    {
+      "name": "in-progress.svg",
+      "nodeId": "74:7277",
+      "path": "/assets/settings/agent-detail/in-progress.svg",
+      "sizeBytes": 692,
+      "sha256": "ddb7be31c540a18b9acad8bd6b5ce5adf8287dcd8373617bdac004af44c0f1ee"
+    },
+    {
+      "name": "story.svg",
+      "nodeId": "74:11093",
+      "path": "/assets/settings/agent-detail/story.svg",
+      "sizeBytes": 1167,
+      "sha256": "7d3d182df5d1d9b459e8f65c293d913d57128da27082a49d57a049775477cfcc"
+    },
+    {
+      "name": "task-link.svg",
+      "nodeId": "74:11066",
+      "path": "/assets/settings/agent-detail/task-link.svg",
+      "sizeBytes": 1485,
+      "sha256": "e13a8b3328ae9139735885bb3f2e15b9e304616fbe05ae31333b88f9f9684948"
+    },
+    {
+      "name": "completed.svg",
+      "nodeId": "74:7460",
+      "path": "/assets/settings/agent-detail/completed.svg",
+      "sizeBytes": 706,
+      "sha256": "b15ba7d91efe260c9c02137cfefbff50f802ca6e607c5c5f0b38a68ced307bc0"
+    },
+    {
+      "name": "not-started.png",
+      "nodeId": "74:7374",
+      "path": "/assets/settings/agent-detail/not-started.png",
+      "sizeBytes": 829,
+      "sha256": "69da049ff425f3d342d850cf66775614637984675e97a5067f833c4551a3c599",
+      "width": 32,
+      "height": 32,
+      "exportScale": 2
+    },
+    {
+      "name": "avatar-planner.png",
+      "nodeId": "74:8705",
+      "path": "/assets/settings/agent-detail/avatar-planner.png",
+      "sizeBytes": 6701,
+      "sha256": "d066b4786802cb917c32b5b4613207fd9131ddc75fb6ea8d9bb4d4f50d2d1f34",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2
+    },
+    {
+      "name": "avatar-architect.png",
+      "nodeId": "74:2570",
+      "path": "/assets/settings/agent-detail/avatar-architect.png",
+      "sizeBytes": 19294,
+      "sha256": "3f92f393cb784b4bd43089a28050599950faafbc0910ae199e8553451da1d185",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2.5
+    },
+    {
+      "name": "avatar-reviewer.png",
+      "nodeId": "74:2583",
+      "path": "/assets/settings/agent-detail/avatar-reviewer.png",
+      "sizeBytes": 19177,
+      "sha256": "cfc8ace001d355fdade046fb1492a0f5bc8736c0d37459869ac3255a49ac37fd",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2.5
+    },
+    {
+      "name": "avatar-tester.png",
+      "nodeId": "74:2596",
+      "path": "/assets/settings/agent-detail/avatar-tester.png",
+      "sizeBytes": 18557,
+      "sha256": "ab71907542a34ef0cc00eca2a22e7e85ab4647c8850476a1c34c1c3ab3c0c499",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2.5
+    },
+    {
+      "name": "avatar-sheriff.png",
+      "nodeId": "74:2610",
+      "path": "/assets/settings/agent-detail/avatar-sheriff.png",
+      "sizeBytes": 21649,
+      "sha256": "9419a40c29e20cde6702f4de451d281ac745be1ecdc8861447819cdb1056e7bc",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2.5
+    },
+    {
+      "name": "avatar-release.png",
+      "nodeId": "74:2623",
+      "path": "/assets/settings/agent-detail/avatar-release.png",
+      "sizeBytes": 20338,
+      "sha256": "81103da570cbac461de68e90fb74bcc7149305912cfddcb9ad73a2d9a856b173",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2.5
+    },
+    {
+      "name": "avatar-radar.png",
+      "nodeId": "74:2636",
+      "path": "/assets/settings/agent-detail/avatar-radar.png",
+      "sizeBytes": 8972,
+      "sha256": "774f624e1939b83b4fb181324f7e460e688c0c01a75c8570d3b41d03c7993e53",
+      "width": 160,
+      "height": 160,
+      "exportScale": 2.5
+    }
+  ]
+}

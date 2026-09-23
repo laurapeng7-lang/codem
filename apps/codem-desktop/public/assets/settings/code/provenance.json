@@ -1,0 +1,156 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "135:67644",
+  "note": "Original SVG_STRING exports from Figma nodes, unchanged bytes.",
+  "codeFixture": {
+    "nodeId": "135:67441",
+    "file": "src/settings-code-fixture.json",
+    "sha256": "d1ad526f93b25e1f450e214f675e0fc4eb0a5915b3c105c4e784fe36c8363f76"
+  },
+  "assets": [
+    {
+      "file": "chevron-down.svg",
+      "nodeId": "135:66571",
+      "width": 14,
+      "height": 14,
+      "bytes": 560,
+      "sha256": "36e896e275f1a6a4c41001a4314aff11783aa72afe781acb2b13f94b777b8ae9"
+    },
+    {
+      "file": "chevron-right.svg",
+      "nodeId": "135:66592",
+      "width": 14,
+      "height": 14,
+      "bytes": 562,
+      "sha256": "ecac9a122c8b69ea459ca965eaef4d65b3b00f65e6afef84a13cdfcdabcf69df"
+    },
+    {
+      "file": "leaf.svg",
+      "nodeId": "135:66684",
+      "width": 14,
+      "height": 14,
+      "bytes": 168,
+      "sha256": "24398b45803d352beb81c6f27abdb0d5d2c5280bb4ccddfe8fdc0bc5fb01c0fe"
+    },
+    {
+      "file": "folder.svg",
+      "nodeId": "135:66594",
+      "width": 14,
+      "height": 14,
+      "bytes": 852,
+      "sha256": "e3e64faabe57f1e8f633906c8d0f6fa77a036f696beca02a1342f9f90a59f4e0"
+    },
+    {
+      "file": "folder-open.svg",
+      "nodeId": "135:66611",
+      "width": 14,
+      "height": 14,
+      "bytes": 1303,
+      "sha256": "73003342560f80178cdacfb2b13a0892a189e78599b7bd208142f0b13db2d82a"
+    },
+    {
+      "file": "field.svg",
+      "nodeId": "135:66686",
+      "width": 14,
+      "height": 14,
+      "bytes": 499,
+      "sha256": "6d713e29a5a5a99ab5a26057e49aea7850820ea17ab407a9e6ce17c89c30015e"
+    },
+    {
+      "file": "member.svg",
+      "nodeId": "135:69993",
+      "width": 14,
+      "height": 14,
+      "bytes": 912,
+      "sha256": "1dd558a2181ee47e907916a6e56971926e3332e30c39c139ddf18331aaa96f14"
+    },
+    {
+      "file": "layout.svg",
+      "nodeId": "135:66922",
+      "width": 14,
+      "height": 14,
+      "bytes": 766,
+      "sha256": "61d4e6782df49d404552ed89309b466756cffdb3d8a4cf471570f07733fa4143"
+    },
+    {
+      "file": "braces.svg",
+      "nodeId": "135:67052",
+      "width": 14,
+      "height": 14,
+      "bytes": 648,
+      "sha256": "df86d228f36b1184e66e5f98ff21bbbacfaea2b52225ee48cf88060cd9cbfae9"
+    },
+    {
+      "file": "plugin.svg",
+      "nodeId": "135:67087",
+      "width": 14,
+      "height": 14,
+      "bytes": 479,
+      "sha256": "67f4998b61e92e29a573f24f63bcfeb054d4ac705befc7f62eb016eb369b235e"
+    },
+    {
+      "file": "robot.svg",
+      "nodeId": "135:68737",
+      "width": 14,
+      "height": 14,
+      "bytes": 1465,
+      "sha256": "a036c6ab45b495d2c8089cea38f7d4cd8d7cec94010ac9a8340d034adba510be"
+    },
+    {
+      "file": "tree-settings.svg",
+      "nodeId": "135:66578",
+      "width": 14,
+      "height": 14,
+      "bytes": 1801,
+      "sha256": "3ac2f50dd6bdb57d134fbed5bc5be35579d5f1dea5f2bc547cf0b5664800a3ed"
+    },
+    {
+      "file": "close.svg",
+      "nodeId": "135:67300",
+      "width": 16,
+      "height": 16,
+      "bytes": 710,
+      "sha256": "5340b3e9a7eb262d8174b470012b6e3bf4ba4235bf484d1340d5ac46cf09ada8"
+    },
+    {
+      "file": "more.svg",
+      "nodeId": "135:67306",
+      "width": 16,
+      "height": 16,
+      "bytes": 666,
+      "sha256": "bf3b2823e3d8ce69359620338b4bcbe1de15fba4ade27e2473ae45dc18ce7203"
+    },
+    {
+      "file": "workspace.svg",
+      "nodeId": "135:66573",
+      "width": 20,
+      "height": 20,
+      "bytes": 663,
+      "sha256": "7a1feb8967347241146193c9d1757883014102ef6690bbd52eb5dfe5c310208e"
+    },
+    {
+      "file": "tab-folder.svg",
+      "nodeId": "135:67296",
+      "width": 12,
+      "height": 12,
+      "bytes": 933,
+      "sha256": "7d4ae8de268b15552183845fb329cc0b41c43e4078ccb5dbee4ae6b160095e33"
+    },
+    {
+      "file": "indent-guide.svg",
+      "nodeId": "135:66630",
+      "width": 14,
+      "height": 24,
+      "bytes": 176,
+      "sha256": "f07fcd57bd9ef40fe4f9f50d40bd2a32af6496a8ecf62787cda47a027aa9c718"
+    },
+    {
+      "file": "folder-nested.svg",
+      "nodeId": "135:66634",
+      "width": 12.590346336364746,
+      "height": 14,
+      "bytes": 1312,
+      "sha256": "fe90a72a029445bc5c7dc55439fac79b3deab45b2e0845e2601060410e0b7105"
+    }
+  ]
+}

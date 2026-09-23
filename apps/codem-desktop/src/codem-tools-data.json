@@ -1,0 +1,142 @@
+[
+  {
+    "id": "slack",
+    "installed": false,
+    "category": "plugin",
+    "name": "Slack",
+    "description": "检索频道消息与历史对话，整理讨论结论，提取待办事项。",
+    "icon": "/assets/figma/codem-tools/slack.png",
+    "relaxed": false,
+    "titleWeight": 600
+  },
+  {
+    "id": "lark",
+    "installed": true,
+    "category": "plugin",
+    "name": "飞书",
+    "description": "检索飞书消息与文档，汇总工作信息，梳理团队讨论与待办。",
+    "icon": "/assets/figma/codem-tools/lark.png",
+    "relaxed": true,
+    "titleWeight": 500
+  },
+  {
+    "id": "github",
+    "installed": true,
+    "category": "plugin",
+    "name": "GitHub",
+    "description": "查看仓库代码、议题与合并请求，辅助理解项目和开展代码评审。",
+    "icon": "/assets/figma/codem-tools/github.png",
+    "relaxed": false,
+    "titleWeight": 600
+  },
+  {
+    "id": "doubao",
+    "installed": false,
+    "category": "plugin",
+    "name": "豆包工作",
+    "description": "围绕工作资料进行问答、总结与写作，协助完成日常办公任务。",
+    "icon": "/assets/figma/codem-tools/doubao.png",
+    "relaxed": false,
+    "titleWeight": 500
+  },
+  {
+    "id": "release-check",
+    "installed": false,
+    "category": "plugin",
+    "name": "发布就绪检查",
+    "description": "查看日程与会议信息，整理议程、参会人和上下文，帮助完成会前准备与会后跟进。",
+    "icon": "/assets/figma/codem-tools/release-check.png",
+    "relaxed": false,
+    "titleWeight": 500
+  },
+  {
+    "id": "google-drive",
+    "installed": true,
+    "category": "plugin",
+    "name": "Google Drive",
+    "description": "搜索和阅读云端文件，提取关键信息，汇总分散的工作资料。",
+    "icon": "/assets/figma/codem-tools/google-drive.png",
+    "relaxed": false,
+    "titleWeight": 600
+  },
+  {
+    "id": "google-meet",
+    "installed": false,
+    "category": "plugin",
+    "name": "Google Calendar Meeting",
+    "description": "查看日程与会议信息，整理议程、参会人和上下文，帮助完成会前准备与会后跟进。",
+    "icon": "/assets/figma/codem-tools/google-meet.png",
+    "relaxed": false,
+    "titleWeight": 600
+  },
+  {
+    "id": "meego",
+    "installed": true,
+    "category": "plugin",
+    "name": "Meego",
+    "description": "围绕项目工作项进行查询、总结与跟进，梳理进展、风险和待办，协助推进项目协作。",
+    "icon": "/assets/figma/codem-tools/meego.png",
+    "relaxed": false,
+    "titleWeight": 600
+  },
+  {
+    "id": "release-review",
+    "installed": true,
+    "category": "skill",
+    "name": "发布风险评审",
+    "description": "梳理变更影响、上线依赖与回滚准备，识别发布前的潜在风险。",
+    "icon": "/assets/figma/codem-tools/release-review.png",
+    "relaxed": false,
+    "titleWeight": 500
+  },
+  {
+    "id": "space-info",
+    "installed": false,
+    "category": "skill",
+    "name": "空间信息优化",
+    "description": "优化空间内卡片、模块与入口的信息表达，让重点更突出、层级更清晰、操作更易理解。",
+    "icon": "/assets/figma/codem-tools/space-info.png",
+    "relaxed": false,
+    "titleWeight": 500
+  },
+  {
+    "id": "sandbox",
+    "installed": true,
+    "category": "skill",
+    "name": "Meego 沙箱操作",
+    "description": "在 CodeM 沙箱内读取 Meego 工作项、展开工作流、下载附件图片，并完成节点确认或状态流转。",
+    "icon": "/assets/figma/codem-tools/sandbox.png",
+    "relaxed": false,
+    "titleWeight": 500
+  },
+  {
+    "id": "prd-review",
+    "installed": true,
+    "category": "skill",
+    "name": "PRD 结构评审",
+    "description": "检查需求文档的结构、逻辑与遗漏，给出具体修改建议。",
+    "icon": "/assets/figma/codem-tools/prd-review.png",
+    "relaxed": true,
+    "titleWeight": 500
+  },
+  {
+    "id": "card-copy",
+    "installed": true,
+    "category": "skill",
+    "name": "卡片消息润色",
+    "description": "优化卡片消息的措辞与信息层级，让重点更突出、操作指引更清晰。",
+    "icon": "/assets/figma/codem-tools/card-copy.png",
+    "relaxed": false,
+    "titleWeight": 500
+  },
+  {
+    "id": "knowledge-review",
+    "installed": false,
+    "category": "skill",
+    "name": "知识发布评审",
+    "description": "梳理知识库发布内容的影响范围、依赖关系与潜在风险，帮助发布前完成质量检查。",
+    "icon": "/assets/figma/codem-tools/knowledge-review.png",
+    "relaxed": false,
+    "titleWeight": 500
+  }
+]

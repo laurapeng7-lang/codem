@@ -1,0 +1,264 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "174:8892",
+  "export": "Figma exportAsync SVG_STRING",
+  "layout": [
+    {
+      "id": "174:8893",
+      "x": 0,
+      "y": 8,
+      "width": 1128,
+      "height": 884,
+      "padding": [
+        44,
+        10,
+        0,
+        10
+      ],
+      "gap": 48,
+      "strokeWeight": 0.5,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:8894",
+      "x": 164,
+      "y": 12,
+      "width": 720,
+      "height": 46,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 0,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:9177",
+      "x": 163,
+      "y": 80,
+      "width": 802,
+      "height": 452,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 24,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:9178",
+      "x": 709,
+      "y": 0,
+      "width": 93,
+      "height": 36,
+      "padding": [
+        8,
+        12,
+        8,
+        12
+      ],
+      "gap": 8,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:9089",
+      "x": 0,
+      "y": 0,
+      "width": 802,
+      "height": 184,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 4,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:9078",
+      "x": 0,
+      "y": 0,
+      "width": 802,
+      "height": 32,
+      "padding": [
+        10,
+        8,
+        10,
+        8
+      ],
+      "gap": 6,
+      "strokeWeight": 0.5,
+      "strokeAlign": "OUTSIDE"
+    },
+    {
+      "id": "174:8904",
+      "x": 0,
+      "y": 36,
+      "width": 798.7499389648438,
+      "height": 148,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 0,
+      "strokeWeight": 1,
+      "strokeAlign": "OUTSIDE"
+    },
+    {
+      "id": "174:8905",
+      "x": 0,
+      "y": 0,
+      "width": 798.7499389648438,
+      "height": 74,
+      "padding": [
+        16,
+        16,
+        16,
+        10
+      ],
+      "gap": 545,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:8919",
+      "x": 0,
+      "y": 74,
+      "width": 798.7499389648438,
+      "height": 74,
+      "padding": [
+        16,
+        16,
+        16,
+        10
+      ],
+      "gap": 545,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:8913",
+      "x": 43,
+      "y": 0,
+      "width": 144,
+      "height": 42,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 3,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:8915",
+      "x": 0,
+      "y": 25,
+      "width": 144,
+      "height": 17,
+      "strokeWeight": 1,
+      "strokeAlign": "OUTSIDE",
+      "text": "每天 09:00",
+      "lineHeight": {
+        "unit": "AUTO"
+      }
+    },
+    {
+      "id": "174:9094",
+      "x": 0,
+      "y": 268,
+      "width": 802,
+      "height": 184,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 24,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:9107",
+      "x": 0,
+      "y": 36,
+      "width": 798.7499389648438,
+      "height": 148,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 0,
+      "strokeWeight": 1,
+      "strokeAlign": "OUTSIDE"
+    },
+    {
+      "id": "174:9108",
+      "x": 0,
+      "y": 0,
+      "width": 798.7499389648438,
+      "height": 74,
+      "padding": [
+        16,
+        16,
+        16,
+        10
+      ],
+      "gap": 545,
+      "strokeAlign": "INSIDE"
+    },
+    {
+      "id": "174:9062",
+      "x": 742.7499389648438,
+      "y": 25,
+      "width": 40,
+      "height": 24,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "gap": 0,
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE"
+    }
+  ],
+  "assets": [
+    {
+      "file": "chevron-down.svg",
+      "nodeId": "174:9183",
+      "viewBox": "0 0 16 16",
+      "bytes": 466,
+      "sha256": "30873ca773b81b0574a9d0b00e007e85e140653b3270086f61cc8b6735f9bd68"
+    },
+    {
+      "file": "folder.svg",
+      "nodeId": "174:9080",
+      "viewBox": "0 0 16 16",
+      "bytes": 2554,
+      "sha256": "167738adedad8a239d89f9e3418b95e1746fd6428ff29ae647577b5dca049915"
+    },
+    {
+      "file": "clock.svg",
+      "nodeId": "174:9175",
+      "viewBox": "0 0 16 16",
+      "bytes": 437,
+      "sha256": "49bf79ec24b6a59d5c5c28dfa807203901d09509c036864a07388ad4f6208707"
+    }
+  ]
+}

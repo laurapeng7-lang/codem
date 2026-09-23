@@ -1,0 +1,111 @@
+{
+  "source": "https://www.figma.com/design/ijwAFgHcsNwcLoHFlCFFFX/vercel-playground?node-id=26-1062",
+  "note": "Original SVG_STRING exports from the specified Figma nodes; geometry unmodified. Three clipped icons were exported from temporary copies, then the copies were removed.",
+  "assets": [
+    {
+      "file": "logo.svg",
+      "nodeId": "26:3521",
+      "width": 24,
+      "height": 24,
+      "sha256": "3beb13a0f63c324ffde69c9640dc9eca1940a620150a4603a816c35447642450"
+    },
+    {
+      "file": "organization.svg",
+      "nodeId": "26:1912",
+      "width": 20,
+      "height": 20,
+      "sha256": "7b55ebc54bff5c684df6c37cf2c8b96203399a9a46b7a1613c4bdfc87903891f"
+    },
+    {
+      "file": "interconnect.svg",
+      "nodeId": "26:2129",
+      "width": 20,
+      "height": 20,
+      "sha256": "3123f535f03d650959519db498b43331d784f686e136aa18610f75dd9267b54d"
+    },
+    {
+      "file": "billing.svg",
+      "nodeId": "26:2296",
+      "width": 20,
+      "height": 20,
+      "sha256": "b75928f1a6d077f97271e81537b5870cc5e320f914ed9a76a63d62603838ceed"
+    },
+    {
+      "file": "company-settings.svg",
+      "nodeId": "26:2631",
+      "width": 20,
+      "height": 20,
+      "sha256": "944c65580f2a155bf5d5739f52811f63aeb8f135a4739c165c6eaf3649579d28"
+    },
+    {
+      "file": "analytics.svg",
+      "nodeId": "26:3008",
+      "width": 20,
+      "height": 20,
+      "sha256": "ac73b46ada040090a0e0771d97388b5fab4d1e29fe63064b986013a3deac3104"
+    },
+    {
+      "file": "security.svg",
+      "nodeId": "26:3063",
+      "width": 20,
+      "height": 20,
+      "sha256": "1b96a4235590faa4cd5fbea3e08180087a3898d1f8a47edec58bc77d258342e6"
+    },
+    {
+      "file": "chevron.svg",
+      "nodeId": "26:1939",
+      "width": 12,
+      "height": 12,
+      "sha256": "a1a6620b87862659a21cfe033c82088d3999ca924bfcf09563c6909624764eb5"
+    },
+    {
+      "file": "collapse.svg",
+      "nodeId": "26:3412",
+      "width": 16,
+      "height": 16,
+      "sha256": "a7b7fba69f1d3c8122ae4174fc431222a85c8ef8fb314898bcac1503e3e1c578"
+    },
+    {
+      "file": "info.svg",
+      "nodeId": "26:1646",
+      "width": 16,
+      "height": 16,
+      "sha256": "64c5fd383e6881b72b8faea71b3952ea00a33de1e83b9f53791a6c33a37b90d2"
+    },
+    {
+      "file": "drag.svg",
+      "nodeId": "26:3729",
+      "width": 16,
+      "height": 16,
+      "sha256": "6980a0991f8856748a04fd8c84621aa9edb24d3c6393b5af625d9607e50b61c8"
+    },
+    {
+      "file": "drag-disabled.svg",
+      "nodeId": "26:3702",
+      "width": 16,
+      "height": 16,
+      "sha256": "a4f3ed07cbbad965fdc49aec47c0a3d7a8605e81919495020ad74fd09c74e28c"
+    },
+    {
+      "file": "recycle.svg",
+      "nodeId": "26:3278",
+      "width": 19,
+      "height": 19,
+      "sha256": "866ce2e0c424f8872f32d11c15c4c5b8cbb8f1bc31b732f6ec399698f9749945"
+    },
+    {
+      "file": "plugin-review.svg",
+      "nodeId": "26:3329",
+      "width": 20,
+      "height": 20,
+      "sha256": "5c13ce2c8fff24f107c4222d9f8c26f43687f9261cb2b3348d165b5eceddb61d"
+    },
+    {
+      "file": "plugin-group.svg",
+      "nodeId": "26:3378",
+      "width": 20,
+      "height": 20,
+      "sha256": "5c13ce2c8fff24f107c4222d9f8c26f43687f9261cb2b3348d165b5eceddb61d"
+    }
+  ]
+}

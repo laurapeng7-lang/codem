@@ -1,0 +1,27 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "140:70942",
+  "assets": [
+    {
+      "file": "edit.svg",
+      "nodeId": "140:71177",
+      "source": "https://www.figma.com/api/mcp/asset/d23a0495-49cc-42d9-ba4f-90027e75dd93.svg",
+      "bytes": 2311,
+      "sha256": "5a39c323ad26326ae217c950a33362045604825beff0a62d7f09b36cceb53bc9"
+    },
+    {
+      "file": "chevron-right.svg",
+      "nodeId": "140:71175",
+      "source": "https://www.figma.com/api/mcp/asset/fe5453ae-d695-420d-9734-073fb7dc406a.svg",
+      "bytes": 327,
+      "sha256": "8babdb56993eb765f7fe2c9a8a76aeae5b64d6b662229837983a6d34fd71bb56"
+    },
+    {
+      "file": "chevron-down.svg",
+      "nodeId": "140:71167",
+      "source": "https://www.figma.com/api/mcp/asset/8f1ff0a6-2738-45af-a8ec-4e36f041e52b.svg",
+      "bytes": 598,
+      "sha256": "200a4e658809f71d2494a1e2a6b4c397df1a5dc6124c8460255626fd07bdd229"
+    }
+  ]
+}

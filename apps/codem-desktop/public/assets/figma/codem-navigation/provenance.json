@@ -1,0 +1,134 @@
+{
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "143:80450",
+  "frame": {
+    "width": 239,
+    "height": 900,
+    "children": [
+      {
+        "id": "143:80451",
+        "x": 0,
+        "y": 0,
+        "width": 239,
+        "height": 56
+      },
+      {
+        "id": "143:80455",
+        "x": 0,
+        "y": 56,
+        "width": 239,
+        "height": 844
+      }
+    ]
+  },
+  "assets": [
+    {
+      "file": "back.svg",
+      "nodeId": "143:81196",
+      "width": 12,
+      "height": 12,
+      "sha256": "d5d803115c5cc77a08ce30e75f4e8abf7c279148f08b87c0734ad8511151e86c"
+    },
+    {
+      "file": "new.svg",
+      "nodeId": "143:81189",
+      "width": 17.65631866455078,
+      "height": 17.65631866455078,
+      "sha256": "d86ee06f492f16dfcfdc8f345b4acff6da0d1b35cc117c95b5633c78e95e66c0"
+    },
+    {
+      "file": "tools.svg",
+      "nodeId": "143:81186",
+      "width": 16.184959411621094,
+      "height": 16.184959411621094,
+      "sha256": "e4c4686c76f92e133ede874dc2a7eca5733c3aa9844075539914b9c60359bc12"
+    },
+    {
+      "file": "automation.svg",
+      "nodeId": "143:81180",
+      "width": 17.65631866455078,
+      "height": 17.65631866455078,
+      "sha256": "680fd7973562d98f5c6594bb6c768d0c999a88ecd62d690949d4ec1a5a5464d2"
+    },
+    {
+      "file": "space.svg",
+      "nodeId": "143:81174",
+      "width": 17.65631866455078,
+      "height": 17.65631866455078,
+      "sha256": "3d2bc864f52101dd358b74873e37d0956c939cecbf6f07255194fd09c3b23ec1"
+    },
+    {
+      "file": "settings.svg",
+      "nodeId": "143:81150",
+      "width": 16.184959411621094,
+      "height": 16.184959411621094,
+      "sha256": "5e2359d3383c63d18fe7f77c6f1bd6a6388c4a0496be3bee8f9bf895b5986232"
+    },
+    {
+      "file": "folder.svg",
+      "nodeId": "143:80487",
+      "width": 16,
+      "height": 16,
+      "sha256": "c315af26c299330d3e0e290e0f1f2a09f3b0c8389ef1a5218daad0d22c9f9f6e"
+    },
+    {
+      "file": "folder-open.svg",
+      "nodeId": "143:80523",
+      "width": 16,
+      "height": 16,
+      "sha256": "fdbcc33ce43102b1ae252f639576bd1a6937ef749e119f4c0f59404a6665d90e"
+    },
+    {
+      "file": "running.svg",
+      "nodeId": "143:80541",
+      "width": 18,
+      "height": 18,
+      "sha256": "8c5725bdf1d94783cc239ae6a5ed3aae80f58ef9c6540cec88930f4c7829fc14"
+    },
+    {
+      "file": "alert.svg",
+      "nodeId": "143:80927",
+      "width": 16,
+      "height": 16,
+      "sha256": "5959c59a60015bae690c4b51498bad8f6d9f139d737071d52c7d6adc42217a14"
+    },
+    {
+      "file": "codem-cyan.png",
+      "nodeId": "143:80481",
+      "width": 16.000242233276367,
+      "height": 16,
+      "sha256": "2996ea0718f22a5cc82b07ce82cd831e06029a55052d4952b3bd95d824bf2f64",
+      "scale": 3
+    },
+    {
+      "file": "codem-violet.png",
+      "nodeId": "143:80547",
+      "width": 16.000242233276367,
+      "height": 16,
+      "sha256": "c56d9b3b287c282da1a74d186c0a37105edd5249b8fe5c71e92ab9121d56cbcb",
+      "scale": 3
+    },
+    {
+      "file": "terminal.png",
+      "nodeId": "143:80554",
+      "width": 16,
+      "height": 16,
+      "sha256": "46b41858ce6bb48b9a2e8c1b98a673cf38e82051b6b69c3b58c04865a69c0822",
+      "scale": 3
+    },
+    {
+      "file": "codem-outline.svg",
+      "nodeId": "143:80567",
+      "width": 16,
+      "height": 16,
+      "sha256": "0c9e73ff62cb6c96f403cbe13da4a5c4eea2a128885c2606242d47642eef96dd"
+    },
+    {
+      "file": "complete.svg",
+      "nodeId": "143:80563",
+      "width": 16,
+      "height": 16,
+      "sha256": "803f37f2ba07e518ff93ef213682cc265351cb4c6a07a6254ea571be7e31bec3"
+    }
+  ]
+}

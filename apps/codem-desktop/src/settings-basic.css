@@ -1,0 +1,106 @@
+.settings-basic-panel {
+  flex: 1;
+  min-height: 0;
+  min-width: 0;
+  overflow: auto;
+  padding: 24px 48px 40px;
+  color: #1f2329;
+  font: 400 14px/20px "PingFang SC", "Inter", "Microsoft YaHei", sans-serif;
+}
+.settings-basic-panel[hidden] { display: none; }
+.settings-basic-content { width: 100%; max-width: 1026px; }
+.settings-basic-group { display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+/* The Figma dividers have zero layout height, with 16px of space on either side. */
+.settings-basic-group + .settings-basic-group { position: relative; margin-top: 32px; }
+.settings-basic-group + .settings-basic-group::before { content: ""; position: absolute; top: -17px; left: 0; right: 0; height: 1px; background: #0000001f; }
+.settings-basic-group h3 { display: flex; align-items: center; gap: 10px; min-height: 30px; margin: 0; padding: 4px 0; font-size: 16px; line-height: 22px; font-weight: 600; }
+.settings-basic-group h3 > span { flex: 0 0 3px; width: 3px; height: 16px; border-radius: 2px; background: #3250eb; }
+.settings-basic-form-width { width: 685px; max-width: 100%; min-width: 0; }
+.settings-basic-field { display: flex; flex-direction: column; gap: 4px; }
+.settings-basic-field > label, .settings-basic-field-label { display: flex; align-items: flex-start; gap: 4px; font-weight: 500; letter-spacing: .28px; }
+.settings-basic-field > label img, .settings-basic-field-label img { margin-top: 2px; width: 6.524px; height: 6.216px; }
+.settings-basic-name-field { width: 400px; max-width: 100%; }
+.settings-basic-latin { font-family: "Inter", sans-serif; font-feature-settings: "case" 1; letter-spacing: 0; }
+.settings-basic-input, .settings-basic-search, .settings-basic-select { height: 32px; min-width: 0; border: 1px solid transparent; border-radius: 6px; background: #2b2f360f; }
+.settings-basic-input { width: 100%; padding: 5px 11px; color: #1f232999; font-size: 14px; line-height: 20px; outline: none; }
+.settings-basic-input:hover, .settings-basic-search:hover, .settings-basic-select:hover { background: #2b2f3614; }
+.settings-basic-input:focus, .settings-basic-search:focus-within, .settings-basic-select:focus-visible { outline: none; border-color: #3250eb; background: #fff; }
+.settings-basic-space-icon { display: block; flex-shrink: 0; width: 72px; height: 72px; }
+.settings-basic-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-width: 0; }
+.settings-basic-button { flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; min-width: 53px; height: 32px; padding: 5px 11px; border: 1px solid #dee0e3; border-radius: 999px; background: #fff; color: #1f2329; font: 500 14px/20px "PingFang SC", "Inter", sans-serif; letter-spacing: .28px; white-space: nowrap; }
+.settings-basic-button:hover, .settings-basic-icon-button:hover { background: #2b2f360f; }
+.settings-basic-button.is-danger { color: #e02f28; }
+.settings-basic-access { display: flex; flex-direction: column; gap: 8px; }
+.settings-basic-approver-label { display: flex; align-items: center; gap: 4px; min-width: 0; font-weight: 500; letter-spacing: .28px; }
+.settings-basic-approver-label > span:last-child { display: inline-flex; }
+.settings-basic-people { display: flex; flex-direction: column; gap: 4px; }
+.settings-basic-search { display: flex; align-items: center; gap: 8px; width: 100%; padding: 5px 7px 5px 11px; }
+.settings-basic-search img { flex-shrink: 0; }
+.settings-basic-search input { min-width: 0; flex: 1; width: 100%; padding: 0; border: 0; outline: none; background: transparent; color: #1f2329; font: inherit; letter-spacing: .28px; }
+.settings-basic-search input::placeholder { color: #1f232999; opacity: 1; }
+.settings-basic-person { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 40px; padding: 0 12px; }
+.settings-basic-person-name { display: flex; align-items: center; gap: 8px; width: 200px; min-width: 0; letter-spacing: .28px; }
+.settings-basic-person-name img { flex-shrink: 0; border-radius: 50%; }
+.settings-basic-person-name > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.settings-basic-person-email { width: 336px; min-width: 0; color: #1f232999; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.settings-basic-icon-button { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 32px; width: 32px; height: 32px; border: 0; border-radius: 6px; background: transparent; }
+.settings-basic-person > .settings-basic-icon-button { height: 40px; }
+.settings-basic-copy { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.settings-basic-copy h4 { display: flex; align-items: center; gap: 8px; margin: 0; font-size: 14px; line-height: 20px; font-weight: 500; letter-spacing: .28px; }
+.settings-basic-copy h4 img { flex-shrink: 0; }
+.settings-basic-copy p { margin: 0; color: #1f232999; letter-spacing: .28px; }
+.settings-basic-check-field { display: flex; flex-direction: column; gap: 4px; padding: 6px 0; }
+.settings-basic-checkbox { display: flex; align-items: center; gap: 8px; width: fit-content; cursor: pointer; letter-spacing: .28px; }
+.settings-basic-checkbox input { appearance: none; flex: 0 0 16px; width: 16px; height: 16px; margin: 0; border: 1px solid #1f232999; border-radius: 4px; background: #fff; cursor: pointer; }
+.settings-basic-checkbox input:checked { border-color: #3250eb; background: #3250eb url('/assets/figma/work-item-wbs/checkbox-check.svg') center / 10px 9px no-repeat; }
+.settings-basic-check-field p { margin: 0 0 0 24px; color: #1f232999; }
+.settings-basic-text-button { display: inline; padding: 0; border: 0; background: transparent; color: #1f2329; font: inherit; font-weight: 500; }
+.settings-basic-text-button:hover { text-decoration: underline; }
+.settings-basic-language-detail { position: relative; display: flex; flex-direction: column; gap: 12px; padding: 12px 0 0 24px; }
+.settings-basic-language-detail::before { content: ""; position: absolute; top: -1px; left: 24px; right: 0; height: 1px; background: #0000001f; }
+.settings-basic-language-row { width: 662px; max-width: 100%; }
+.settings-basic-language-row h4 { font-weight: 400; letter-spacing: 0; }
+.settings-basic-language-progress { display: flex; align-items: center; gap: 14px; min-height: 20px; flex-wrap: wrap; color: #1f232999; }
+.settings-basic-language-progress > span { display: inline-flex; align-items: center; gap: 4px; }
+.settings-basic-language-progress img { flex-shrink: 0; }
+.settings-basic-muted { margin: 0; color: #1f232999; }
+.settings-basic-select { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%; padding: 5px 9px 5px 11px; text-align: left; color: #1f2329; font: inherit; letter-spacing: .28px; }
+.settings-basic-select > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.settings-basic-select > img { flex-shrink: 0; }
+.settings-basic-business, .settings-basic-business-list { display: flex; flex-direction: column; gap: 8px; }
+.settings-basic-business-row { display: flex; align-items: center; min-width: 0; height: 32px; }
+.settings-basic-tree-arrow { display: grid; place-items: center; flex: 0 0 32px; height: 32px; }
+.settings-basic-business-name { flex: 1; min-width: 0; padding: 0 12px; }
+.settings-basic-tag { display: inline-block; max-width: 100%; padding: 2px 8px; border-radius: 4px; font: 500 14px/20px "Inter", "PingFang SC", sans-serif; font-feature-settings: "case" 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: middle; }
+.settings-basic-business-actions { display: flex; flex-shrink: 0; gap: 0; margin-left: 12px; }
+.settings-basic-color { display: grid; place-items: center; width: 20px; height: 20px; border-radius: 999px; }
+.settings-basic-tag.is-red, .settings-basic-color.is-red { background: #f67e7a33; }
+.settings-basic-tag.is-pink, .settings-basic-color.is-pink { background: #f476bd33; }
+.settings-basic-add-line { display: inline-flex; align-items: center; align-self: flex-start; gap: 8px; height: 32px; margin-left: 64px; padding: 6px 12px; border: 0; border-radius: 6px; background: transparent; color: #3250eb; font: 600 14px/20px "PingFang SC", sans-serif; }
+.settings-basic-add-line:hover { background: #3250eb0a; }
+.settings-basic-data-actions { display: flex; flex-direction: column; gap: 12px; }
+.settings-basic-data-actions .settings-basic-row { min-height: 40px; }
+.settings-basic-data-actions h4 { letter-spacing: 0; }
+.settings-basic-data-actions p { font-size: 12px; line-height: 16px; letter-spacing: 0; }
+.settings-basic-empty { padding: 10px 12px; margin: 0; color: #1f232999; }
+.settings-basic-panel button:focus-visible, .settings-basic-checkbox input:focus-visible { outline: 2px solid #3250eb; outline-offset: 2px; }
+.settings-basic-menu { z-index: 70; box-sizing: border-box; overflow: auto; padding: 6px; border: 1px solid #dee0e3; border-radius: 10px; background: #fff; box-shadow: 0 8px 24px #1f23291f; color: #1f2329; font: 400 14px/20px "PingFang SC", "Inter", sans-serif; }
+.settings-basic-menu button { display: block; width: 100%; min-height: 36px; padding: 8px 10px; border: 0; border-radius: 6px; background: transparent; color: inherit; text-align: left; font: inherit; }
+.settings-basic-menu button:hover, .settings-basic-menu button:focus-visible { outline: none; background: #2b2f360f; }
+.settings-basic-menu button[aria-checked="true"] { color: #3250eb; background: #3250eb0a; }
+@container (max-width: 760px) {
+  .settings-basic-panel { padding-right: 24px; padding-left: 24px; }
+  .settings-basic-person-name { width: 32%; }
+  .settings-basic-person-email { flex: 1; width: auto; }
+}
+@container (max-width: 480px) {
+  .settings-basic-panel { padding: 20px 16px 32px; }
+  .settings-basic-row { gap: 12px; }
+  .settings-basic-language-progress { gap: 6px 12px; }
+  .settings-basic-person-name { width: auto; flex: 1; }
+  .settings-basic-person-email { display: none; }
+  .settings-basic-language-detail { padding-left: 16px; }
+  .settings-basic-language-detail::before { left: 16px; }
+  .settings-basic-business-name { padding: 0 4px; }
+  .settings-basic-business-actions { margin-left: 4px; }
+}

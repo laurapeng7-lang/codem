@@ -1,0 +1,202 @@
+{
+  "sourceFile": "https://www.figma.com/design/ijwAFgHcsNwcLoHFlCFFFX/vercel-playground?node-id=97-31242",
+  "fileKey": "ijwAFgHcsNwcLoHFlCFFFX",
+  "nodeId": "97:31242",
+  "referenceSize": {
+    "width": 920,
+    "height": 958
+  },
+  "exportMethod": "Original Figma SVG_STRING exports with useAbsoluteBounds; original Figma avatar PNG. No hand-drawn icons.",
+  "assets": [
+    {
+      "name": "comments-order",
+      "nodeId": "97:25564",
+      "width": 16,
+      "height": 16,
+      "file": "comments-order.svg",
+      "bytes": 1155,
+      "sha256": "43f90496bdc97752f4ce30e62ed3e6d3938f4f63f9760aac6be6d5d79213ebb8"
+    },
+    {
+      "name": "gitlab",
+      "nodeId": "97:25573",
+      "width": 12,
+      "height": 12,
+      "file": "gitlab.svg",
+      "bytes": 2153,
+      "sha256": "b7e66a7fc5b4e5c637b15b851c193c1ddb171380c5c3f114639d4fa24f48f01a"
+    },
+    {
+      "name": "schedule",
+      "nodeId": "97:25673",
+      "width": 11.999998092651367,
+      "height": 11.999998092651367,
+      "file": "schedule.svg",
+      "bytes": 1039,
+      "sha256": "ffa27c0083c7f3655be91c9797db1b28eb38d8ea5e38090f6d7793f27a7e06ab"
+    },
+    {
+      "name": "filter",
+      "nodeId": "97:31195",
+      "width": 18,
+      "height": 18,
+      "file": "filter.svg",
+      "bytes": 1810,
+      "sha256": "247e37402e932094d1a7e40f24791148e65119d28963ec82ed81141e767337f1"
+    },
+    {
+      "name": "search",
+      "nodeId": "97:31233",
+      "width": 18,
+      "height": 18,
+      "file": "search.svg",
+      "bytes": 752,
+      "sha256": "f155e25657dc7adc72e752c118cb2d30127b67cd6b2407d98491674f0f4c8bdc"
+    },
+    {
+      "name": "chevron-down",
+      "nodeId": "97:25801",
+      "width": 16,
+      "height": 16,
+      "file": "chevron-down.svg",
+      "bytes": 471,
+      "sha256": "90f1f8ecc56def185006f1ec0f9e16439f317067cfd1293ca6b7c59fbb7ab066"
+    },
+    {
+      "name": "legend",
+      "nodeId": "97:25805",
+      "width": 16,
+      "height": 16,
+      "file": "legend.svg",
+      "bytes": 1226,
+      "sha256": "82c500bc44301b4e58f705843522c331240ff95a5af35bb91304142badd1de61"
+    },
+    {
+      "name": "more",
+      "nodeId": "97:25813",
+      "width": 16,
+      "height": 16,
+      "file": "more.svg",
+      "bytes": 848,
+      "sha256": "2daa3994ccdca7257af18f73500bc289aa259aad38b2149f9afb9ce3e189fad0"
+    },
+    {
+      "name": "chevron-right",
+      "nodeId": "97:26064",
+      "width": 10,
+      "height": 10,
+      "file": "chevron-right.svg",
+      "bytes": 354,
+      "sha256": "ed312731ba14b0d8a475c9aaefd80daad024f77f7d93ff89a04bb88dfa5956fc"
+    },
+    {
+      "name": "tree-down",
+      "nodeId": "97:26096",
+      "width": 10,
+      "height": 10,
+      "file": "tree-down.svg",
+      "bytes": 354,
+      "sha256": "cb47933b6134c1ac5c8e26579c61f0d3c4cf63190e6bb190c8531f7a00f0b913"
+    },
+    {
+      "name": "root-story",
+      "nodeId": "97:26026",
+      "width": 16,
+      "height": 16,
+      "file": "root-story.svg",
+      "bytes": 1074,
+      "sha256": "845c770286c7c338bb218fb3da686945747dbb11f462181dc07966cc180ac2e1"
+    },
+    {
+      "name": "milestone-complete",
+      "nodeId": "97:26067",
+      "width": 16,
+      "height": 16,
+      "file": "milestone-complete.svg",
+      "bytes": 598,
+      "sha256": "8c91247d059c3382758d0e6ef7b3775862be701c2051de9c0a3285dd275d7d68"
+    },
+    {
+      "name": "status-current",
+      "nodeId": "97:26099",
+      "width": 16,
+      "height": 16,
+      "file": "status-current.svg",
+      "bytes": 840,
+      "sha256": "6a295c0e6f478902f113349deadd3bf25efe611de355f075278edd26e0fddf9b"
+    },
+    {
+      "name": "status-empty",
+      "nodeId": "97:26133",
+      "width": 16,
+      "height": 16,
+      "file": "status-empty.svg",
+      "bytes": 398,
+      "sha256": "419dd23cd60b48bcceb9c104e3e8f9b2f9db535c95673696ee1ad9595cebdfb5"
+    },
+    {
+      "name": "add",
+      "nodeId": "97:26170",
+      "width": 16,
+      "height": 16,
+      "file": "add.svg",
+      "bytes": 1381,
+      "sha256": "e25fe61d5c07b8224269adc762178f1531420298873cabaa574d0241a9cf4775"
+    },
+    {
+      "name": "status-pending",
+      "nodeId": "97:26236",
+      "width": 16,
+      "height": 16,
+      "file": "status-pending.svg",
+      "bytes": 830,
+      "sha256": "55e212f119c12018c501e1178b0fd99e0b8c037112200924346dc8dd9d0465a9"
+    },
+    {
+      "name": "milestone-pending",
+      "nodeId": "97:26360",
+      "width": 16,
+      "height": 16,
+      "file": "milestone-pending.svg",
+      "bytes": 598,
+      "sha256": "c6d0baa238e5fc6ee4fbee092602b6145e676b58e9c50af7ee144046b1039818"
+    },
+    {
+      "name": "work-item-complete",
+      "nodeId": "97:26425",
+      "width": 16,
+      "height": 16,
+      "file": "work-item-complete.svg",
+      "bytes": 1074,
+      "sha256": "35af4ccdfb865a6b20aa75443ebbf2b0e5e83dc33b5015d22f2976613197a1a4"
+    },
+    {
+      "name": "checkbox",
+      "nodeId": "97:25819",
+      "width": 16,
+      "height": 16,
+      "file": "checkbox.svg",
+      "bytes": 806,
+      "sha256": "8703ce4deccf6fa418cd1562e11bdc62820ed0e615d57478b7b8fa6338776145"
+    },
+    {
+      "name": "owner-avatar",
+      "nodeId": "97:27468",
+      "file": "owner-avatar.png",
+      "width": 20,
+      "height": 20,
+      "bytes": 3584,
+      "sha256": "2213261f3ad32609038675f2212233b29f4e83ddbe241c428a3e66d848804e92"
+    },
+    {
+      "name": "checkbox-check",
+      "nodeId": "44:25783",
+      "width": 8.666766166687012,
+      "height": 7.666718006134033,
+      "file": "checkbox-check.svg",
+      "exportMethod": "Original SVG asset from Figma MCP download_assets",
+      "bytes": 661,
+      "sha256": "647d8ab9ea8927117308e0abacd731e3a504e93bebd1372064a96e44dd6dd9a3"
+    }
+  ]
+}
