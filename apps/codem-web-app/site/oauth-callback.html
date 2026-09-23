@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MCP 授权回调</title>
+    <!--
+      MCP HTTP OAuth callback page (spec §14.4). Same-origin with the admin SPA so the
+      opener's useMcpOAuthHandshake listener accepts our postMessage (it enforces
+      event.origin === location.origin). Reached two ways:
+        - Production: the BFF-hosted redirect_uri exchanges the third-party `code`, stages it
+          by oauth_session, then redirects this popup here with ?state=<session>&status=...
+        - Local debug: the stub connector points authorize_url straight at this page with
+          ?status=success (no real OAuth provider), so the popup completes immediately.
+      This page never sees the oauth_code; the BFF returns it server-side on the next
+      prepare/confirm keyed by oauth_session. We only signal authorized / failed.
+    -->
+    <style>
+      :root { color-scheme: light dark; }
+      html, body { height: 100%; margin: 0; }
+      body {
+        display: flex; align-items: center; justify-content: center;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC",
+          "Microsoft YaHei", sans-serif;
+        background: #f6f7f9; color: #1f2329;
+      }
+      @media (prefers-color-scheme: dark) { body { background: #1a1b1e; color: #e5e6eb; } }
+      .card { text-align: center; padding: 32px 40px; }
+      .icon { font-size: 40px; line-height: 1; }
+      .title { margin: 14px 0 6px; font-size: 16px; font-weight: 600; }
+      .hint { font-size: 13px; opacity: 0.7; }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <div class="icon" id="icon">⏳</div>
+      <div class="title" id="title">正在完成授权…</div>
+      <div class="hint" id="hint">可关闭此窗口</div>
+    </main>
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        // The stub binds oauth_session as `state`; tolerate `session` too for flexibility.
+        var session = params.get("state") || params.get("session") || "";
+        var status = params.get("status") || "success";
+        var ok = status === "success";
+        var message = { type: "codem-oauth", session: session, status: ok ? "success" : "error" };
+
+        // Primary path: hand the result to the opener. targetOrigin = our own origin, so it
+        // is delivered only to a same-origin opener (the admin SPA). The opener closes this
+        // popup on receipt (useMcpOAuthHandshake.finish -> closePopup).
+        try {
+          if (window.opener && !window.opener.closed) {
+            window.opener.postMessage(message, window.location.origin);
+          }
+        } catch (e) {
+          /* opener gone / cross-origin — fall through to sessionStorage + manual close */
+        }
+
+        // Fallback ②: same-window continuation marker. Only useful when this page was reached
+        // via a same-window redirect (popup sessionStorage is not shared with the opener);
+        // harmless for the popup path.
+        try {
+          window.sessionStorage.setItem(
+            "codem-oauth:" + session,
+            ok ? "success" : "error",
+          );
+        } catch (e) {
+          /* sessionStorage unavailable — ignore */
+        }
+
+        var icon = document.getElementById("icon");
+        var title = document.getElementById("title");
+        var hint = document.getElementById("hint");
+        if (ok) {
+          icon.textContent = "✅";
+          title.textContent = "授权完成";
+          hint.textContent = "正在返回，可关闭此窗口";
+        } else {
+          icon.textContent = "⚠️";
+          title.textContent = "授权未完成";
+          hint.textContent = "请回到原窗口重试，可关闭此窗口";
+        }
+
+        // Self-close fallback: the opener normally closes us, but if it doesn't (e.g. the
+        // popup-blocked manual-return path opened this in a tab), close after a short delay.
+        window.setTimeout(function () {
+          try { window.close(); } catch (e) {}
+        }, 1200);
+      })();
+    </script>
+  </body>
+</html>

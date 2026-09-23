@@ -1,0 +1,168 @@
+<svg width="654" height="366" viewBox="0 0 654 366" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g clip-path="url(#illustration_specialized-cta-banner2-Desktop__a)">
+    <circle cx="145.5" cy="137.5" r="99.5" fill="url(#illustration_specialized-cta-banner2-Desktop__b)" fill-opacity=".6"/>
+    <circle cx="145.5" cy="137.5" r="99.25" stroke="url(#illustration_specialized-cta-banner2-Desktop__c)" stroke-opacity=".8" stroke-width=".5"/>
+    <circle cx="146" cy="137" r="56" fill="url(#illustration_specialized-cta-banner2-Desktop__d)"/>
+    <circle cx="146" cy="137" r="56" fill="#E1E6F4"/>
+    <g filter="url(#illustration_specialized-cta-banner2-Desktop__e)">
+      <path d="M428.246 50.839c2.125-5.098 7.98-7.508 13.078-5.383l143.989 60.025c5.098 2.125 7.508 7.98 5.383 13.078l-36.938 88.609c-2.125 5.097-7.981 7.507-13.078 5.382l-143.99-60.025c-5.098-2.125-7.507-7.98-5.382-13.077l36.938-88.61Z" fill="#706FA1"/>
+    </g>
+    <mask id="illustration_specialized-cta-banner2-Desktop__f" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="390" y="44" width="202" height="170">
+      <path d="M428.246 50.836c2.125-5.098 7.98-7.508 13.078-5.383l143.99 60.025c5.097 2.125 7.507 7.98 5.382 13.078l-36.938 88.609c-2.125 5.097-7.98 7.507-13.078 5.382l-143.99-60.025c-5.098-2.125-7.507-7.98-5.382-13.077l36.938-88.61Z" fill="#6E6D92"/>
+    </mask>
+    <g mask="url(#illustration_specialized-cta-banner2-Desktop__f)">
+      <rect x="460.814" y="69.906" width="112" height="14" rx="3.378" transform="rotate(22.398 460.814 69.906)" fill="url(#illustration_specialized-cta-banner2-Desktop__g)" fill-opacity=".3"/>
+      <path d="M443.374 72.553a.247.247 0 0 0-.323.134l-.399.965a.248.248 0 0 0 .134.323l.965.4a.247.247 0 0 0 .323-.135l.399-.965a.248.248 0 0 0-.134-.323l-.965-.399Zm2.237 1.193a.247.247 0 0 1 .323-.134l.964.399a.246.246 0 0 1 .134.323l-.399.965a.247.247 0 0 1-.323.134l-.965-.4a.248.248 0 0 1-.134-.322l.4-.965Z" fill="#B0AFCA" fill-opacity=".8"/>
+      <path d="m450.659 65.908-7.067-2.923a.616.616 0 0 0-.733.206l-4.291 5.885a.577.577 0 0 0-.08.149l-1.52 3.676a.615.615 0 0 0 .333.804l10.238 4.235c.314.13.674-.02.804-.334l1.53-3.697a.636.636 0 0 0 .046-.212l1.113-7.125a.615.615 0 0 0-.373-.664Zm-12.228 6.906 1.04-2.514 8.938 3.697-1.04 2.513-8.938-3.697Z" fill="#B0AFCA" fill-opacity=".8"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M515.398 244.621c29.917-26.955 32.319-73.06 5.363-102.977-26.955-29.918-73.059-32.319-102.977-5.364-29.917 26.955-32.319 73.06-5.363 102.977 26.955 29.918 73.059 32.319 102.977 5.364Zm-14.237-15.801c21.191-19.093 22.892-51.751 3.799-72.942-19.093-21.192-51.751-22.893-72.942-3.799-21.192 19.093-22.893 51.75-3.8 72.942 19.094 21.191 51.751 22.892 72.943 3.799Z" fill="#E4E4F1" fill-opacity=".6"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M432.258 152.347c-21.042 18.958-22.73 51.383-3.773 72.424 18.958 21.042 51.384 22.73 72.425 3.773l14.726 16.344c-30.068 27.091-76.404 24.677-103.495-5.39-27.091-30.068-24.677-76.405 5.39-103.495 30.068-27.091 76.405-24.678 103.495 5.39 9.223 10.236 15.039 22.387 17.492 35.021l-21.596 4.194c-1.713-8.821-5.766-17.304-12.24-24.489-18.958-21.041-51.383-22.73-72.424-3.772Z" fill="#9594B8"/>
+    </g>
+    <g filter="url(#illustration_specialized-cta-banner2-Desktop__h)">
+      <path d="M300.645 96.82c.964-5.439 6.154-9.066 11.592-8.102l182.588 32.365c5.438.964 9.065 6.154 8.101 11.592L482.93 245.484c-.964 5.438-6.154 9.065-11.592 8.101L288.75 221.221c-5.438-.964-9.065-6.154-8.101-11.592l19.996-112.81Z" fill="#E4DAC9"/>
+      <path d="M300.853 96.856c.943-5.323 6.024-8.874 11.347-7.93l182.588 32.364c5.324.944 8.874 6.024 7.931 11.348l-19.997 112.81c-.943 5.323-6.024 8.873-11.347 7.93l-182.588-32.365c-5.323-.944-8.874-6.024-7.93-11.347l19.996-112.81Z" stroke="#000" stroke-opacity=".1" stroke-width=".422"/>
+    </g>
+    <rect x="310.706" y="134.575" width="170.5" height="40.5" rx="20.25" transform="rotate(10.052 310.706 134.575)" fill="#F8F9FA" fill-opacity=".7" stroke="#E9E9E9" stroke-width=".5"/>
+    <circle cx="454.71" cy="180.156" transform="rotate(8.882 454.71 180.156)" fill="#69BE77" r="12.75"/>
+    <path d="M452.865 183.071c2.456 1.802 4.651 1.907 6.181 1.752a.942.942 0 0 0 .815-.749l.23-1.049a.988.988 0 0 0-.687-1.157l-1.632-.477a.985.985 0 0 0-.941.219l-.386.352a.662.662 0 0 1-.531.181c-.372-.052-.944-.219-1.765-.821-.821-.603-1.152-1.099-1.312-1.438a.664.664 0 0 1 .013-.561l.221-.473a.988.988 0 0 0-.074-.964l-.944-1.414a.987.987 0 0 0-1.31-.309l-.932.533a.945.945 0 0 0-.47 1.003c.311 1.506 1.068 3.569 3.524 5.372Z" fill="#fff"/>
+    <g filter="url(#illustration_specialized-cta-banner2-Desktop__i)">
+      <g clip-path="url(#illustration_specialized-cta-banner2-Desktop__j)">
+        <rect x="106.219" y="162.062" width="280" height="175" rx="12" transform="rotate(-7.133 106.219 162.062)" fill="#fff"/>
+        <path d="M132.774 245.409c-.686-5.48 3.2-10.479 8.68-11.164l226.236-28.311c5.48-.686 10.478 3.201 11.164 8.681l7.823 62.512c.686 5.48-3.201 10.479-8.681 11.165l-226.235 28.31c-5.481.686-10.479-3.201-11.165-8.681l-7.822-62.512Z" fill="#F3F5F7"/>
+        <rect x="143.995" y="246.512" width="173.946" height="13.511" rx="3.378" transform="rotate(-7.364 143.995 246.512)" fill="url(#illustration_specialized-cta-banner2-Desktop__k)" fill-opacity=".2"/>
+        <rect x="148.459" y="275.875" width="9.245" height="9.245" rx="2.489" transform="rotate(-7.133 148.459 275.875)" stroke="#8FA2AF" stroke-width=".711"/>
+        <path d="M164.375 279.933c2.158-1.989 5.015-3.835 7.862-5.387.922-.502 5.024-2.748 6.416-1.607.709.582.532 1.632.352 2.357-.158.638-.435 1.326-.701 1.952-.217.514-.853 1.379-.828 1.931.021.44 1.547-.108 1.663-.146 3.056-1.006 5.837-2.38 8.627-3.698.807-.382 8.897-4.478 9.353-2.63.194.788-.322 1.642-.888 2.368-.416.536-.787.883-1.258 1.393-.196.213-.953.818-.054.636 2.268-.459 4.441-1.229 6.708-1.718 1.239-.268 2.19-.606 2.949-.008.673.53 2.215.454 3.185.425 4.377-.131 8.739-1.073 12.972-2.023 5.075-1.138 10.104-2.395 15.165-3.569 1.036-.24 2.082-.497 3.148-.631" stroke="#8FA2AF" stroke-width=".711" stroke-linecap="round"/>
+        <rect x="150.533" y="293.563" width="9.245" height="9.245" rx="2.489" transform="rotate(-7.133 150.533 293.563)" stroke="#8FA2AF" stroke-width=".711"/>
+        <path d="M166.742 298.513c1.093-.729 7.992-5.433 8.149-5.027.384.993.812 2.263 1.915 2.657 2.871 1.028 5.181-2.324 7.258-3.805 1.307-.933 1.914-1.744 2.607-.174.447 1.013.623 2.27 1.826 2.657 5.256-2.369 22.675-2.889 30.863-3.913" stroke="#8FA2AF" stroke-width=".711" stroke-linecap="round"/>
+        <rect x=".209" y=".163" width="117.78" height="38.578" rx="19.289" transform="rotate(-7.133 1410.302 -1926.115)" fill="#F8F9FA"/>
+        <rect x=".209" y=".163" width="117.78" height="38.578" rx="19.289" transform="rotate(-7.133 1410.302 -1926.115)" stroke="#E9E9E9" stroke-width=".375"/>
+        <rect width="23.372" height="23.371" rx="11.686" transform="rotate(-7.133 1468.682 -1992.67)" fill="#C2D4FF"/>
+        <path d="M266.307 174.726a.865.865 0 0 1 .752-.966l6.012-.753a.865.865 0 0 1 .966.752l.128 1.02 1.205-.892a.866.866 0 0 1 1.374.588l.492 3.935a.865.865 0 0 1-1.186.908l-1.388-.567.128 1.02a.867.867 0 0 1-.752.967l-6.012.752a.865.865 0 0 1-.966-.752l-.753-6.012Zm2.899 2.254a.865.865 0 1 0-.214-1.718.865.865 0 0 0 .214 1.718Z" fill="#336DF4"/>
+        <mask id="illustration_specialized-cta-banner2-Desktop__l" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="303" y="159" width="22" height="25">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M322.467 162.12a11.64 11.64 0 0 0-8.271-2.106c-6.404.801-10.946 6.642-10.144 13.046.801 6.404 6.642 10.946 13.046 10.144a11.642 11.642 0 0 0 7.497-4.079 12.807 12.807 0 0 1-4.311-8.097 12.803 12.803 0 0 1 2.183-8.908Z" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#illustration_specialized-cta-banner2-Desktop__l)">
+          <path d="M304.054 173.06c-.802-6.404 3.74-12.245 10.144-13.046 6.404-.802 12.245 3.74 13.046 10.144.802 6.404-3.74 12.245-10.144 13.046-6.404.802-12.245-3.74-13.046-10.144Z" fill="url(#illustration_specialized-cta-banner2-Desktop__m)"/>
+        </g>
+        <mask id="illustration_specialized-cta-banner2-Desktop__n" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="321" y="157" width="21" height="25">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M339.859 159.944a11.645 11.645 0 0 0-8.271-2.106c-6.403.801-10.945 6.642-10.144 13.046.802 6.404 6.643 10.946 13.047 10.144a11.647 11.647 0 0 0 7.497-4.079 12.808 12.808 0 0 1-4.312-8.096c-.409-3.267.446-6.4 2.183-8.909Z" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#illustration_specialized-cta-banner2-Desktop__n)">
+          <path d="M321.446 170.884c-.801-6.404 3.74-12.245 10.144-13.046 6.404-.801 12.245 3.74 13.047 10.144.801 6.404-3.741 12.245-10.145 13.046-6.404.802-12.245-3.74-13.046-10.144Z" fill="url(#illustration_specialized-cta-banner2-Desktop__o)"/>
+        </g>
+        <mask id="illustration_specialized-cta-banner2-Desktop__p" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="338" y="155" width="25" height="24">
+          <path d="M362.027 165.806c.802 6.404-3.74 12.245-10.144 13.047-6.404.801-12.245-3.741-13.046-10.144-.802-6.404 3.74-12.245 10.144-13.047 6.404-.801 12.245 3.741 13.046 10.144Z" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#illustration_specialized-cta-banner2-Desktop__p)">
+          <path d="M338.838 168.709c-.801-6.404 3.741-12.245 10.145-13.047 6.403-.801 12.244 3.741 13.046 10.144.801 6.404-3.741 12.245-10.144 13.047-6.404.801-12.245-3.741-13.047-10.144Z" fill="url(#illustration_specialized-cta-banner2-Desktop__q)"/>
+        </g>
+      </g>
+      <rect x="106.461" y="162.251" width="279.567" height="174.567" rx="11.783" transform="rotate(-7.133 106.461 162.251)" stroke="#000" stroke-opacity=".1" stroke-width=".433"/>
+    </g>
+    <path d="m128.886 123.616.48-.14c-.653-2.524-1.12-7.617-1.557-15.076-.189-3.221-.059-7.038.052-9.884.948-24.252 14.429-34.24 17.134-36.006a.625.625 0 0 1 .699-.003c2.658 1.71 15.734 11.336 17.131 36.013.043.755.106 1.629.174 2.565.185 2.544.403 5.544.328 7.854l-.005.144.122.076c3.613 2.256 6.435 5.02 8.356 8.576 1.921 3.557 2.95 7.923 2.95 13.397 0 4.662-1.112 10.101-2.629 15.607-.188.682-1.164.803-1.537.145-2.144-3.771-4.767-6.681-8.664-8.642-3.89-1.958-9.025-2.959-16.173-2.959-6.67 0-11.873 1.018-16.003 3.002-4.135 1.986-7.18 4.934-9.544 8.766-.387.628-1.372.525-1.606-.146-.363-1.042-.741-2.078-1.116-3.106-.634-1.735-1.258-3.447-1.79-5.124-.844-2.666-1.438-5.208-1.438-7.543 0-8.401 3.68-16.358 9.154-21.081.396-.342 1.015-.163 1.185.36l4.297 13.205Z" fill="url(#illustration_specialized-cta-banner2-Desktop__r)" stroke="url(#illustration_specialized-cta-banner2-Desktop__s)" stroke-width=".5"/>
+    <g filter="url(#illustration_specialized-cta-banner2-Desktop__t)">
+      <path d="M147.261 164.501c.479-5.435 4.737-3.937 4.737-3.937s5.5 1.339 5.5 6.937c0 10.532-8.473 25.223-10.237 36.501-4.999-17.824-1.594-21.429 0-39.501Z" fill="url(#illustration_specialized-cta-banner2-Desktop__u)" fill-opacity=".4"/>
+    </g>
+    <g filter="url(#illustration_specialized-cta-banner2-Desktop__v)">
+      <path d="M134.999 151c.473-11.37 11.501-15 11.501-15s11.497 3.29 11.497 15.001c0 6.054.965 10.107-2.997 35.499-1.14 7.303-4.795 61.642-5.68 66.001-1.923 9.466-.813 24.499-4.816-25-4.004-49.5-9.849-68.241-9.505-76.501Z" fill="url(#illustration_specialized-cta-banner2-Desktop__w)"/>
+    </g>
+    <circle cx="145.297" cy="87.555" fill="#F3F3F3" r="6.258"/>
+  </g>
+  <defs>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__c" x1="145.5" y1="38" x2="145.5" y2="237" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9E5F4"/>
+      <stop offset="1" stop-color="#F0F3F7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__d" x1="146" y1="81" x2="146" y2="141.956" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8D8FA" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__g" x1="460.814" y1="76.906" x2="572.552" y2="79.074" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__k" x1="143.995" y1="253.267" x2="297.595" y2="253.267" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8C9AA4"/>
+      <stop offset="1" stop-color="#9AAAB4" stop-opacity=".1"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__r" x1="144.5" y1="62" x2="144.5" y2="149.409" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5F71CB"/>
+      <stop offset="1" stop-color="#273E6B"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__s" x1="145.5" y1="62" x2="146" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#93AEF6"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__u" x1="149.287" y1="147.115" x2="149.287" y2="194.919" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3F9FF"/>
+      <stop offset=".246" stop-color="#FFE2B9"/>
+      <stop offset=".25" stop-color="#F3F6FF" stop-opacity=".8"/>
+      <stop offset=".775" stop-color="#FEEDB9" stop-opacity=".581"/>
+      <stop offset="1" stop-color="#FEEDB9" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Desktop__w" x1="145.5" y1="145" x2="146" y2="229.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".7"/>
+      <stop offset=".191" stop-color="#FFE0CF" stop-opacity=".4"/>
+      <stop offset=".358" stop-color="#FFEFB9" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".581"/>
+    </linearGradient>
+    <filter id="illustration_specialized-cta-banner2-Desktop__e" x="377.516" y="36.872" width="226.972" height="194.679" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="5.208"/>
+      <feGaussianBlur stdDeviation="6.51"/>
+      <feColorMatrix values="0 0 0 0 0.121569 0 0 0 0 0.137255 0 0 0 0 0.160784 0 0 0 0.08 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_27476_4094"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_27476_4094" result="shape"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Desktop__h" x="266.468" y="80.147" width="250.639" height="193.232" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="5.61"/>
+      <feGaussianBlur stdDeviation="7.013"/>
+      <feColorMatrix values="0 0 0 0 0.121569 0 0 0 0 0.137255 0 0 0 0 0.160784 0 0 0 0.1 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_27476_4094"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_27476_4094" result="shape"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Desktop__i" x="86.219" y="113.062" width="339.563" height="248.41" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="5.765"/>
+      <feGaussianBlur stdDeviation="10"/>
+      <feColorMatrix values="0 0 0 0 0.121569 0 0 0 0 0.137255 0 0 0 0 0.160784 0 0 0 0.1 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_27476_4094"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_27476_4094" result="shape"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Desktop__t" x="139.641" y="155.375" width="22.857" height="53.629" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="2.5" result="effect1_foregroundBlur_27476_4094"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Desktop__v" x="130.984" y="132" width="31.116" height="134.277" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_27476_4094"/>
+    </filter>
+    <pattern id="illustration_specialized-cta-banner2-Desktop__m" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#illustration_specialized-cta-banner2-Desktop__x" transform="scale(.01389)"/>
+    </pattern>
+    <pattern id="illustration_specialized-cta-banner2-Desktop__o" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#illustration_specialized-cta-banner2-Desktop__y" transform="scale(.01389)"/>
+    </pattern>
+    <pattern id="illustration_specialized-cta-banner2-Desktop__q" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#illustration_specialized-cta-banner2-Desktop__z" transform="scale(.01389)"/>
+    </pattern>
+    <image id="illustration_specialized-cta-banner2-Desktop__x" width="72" height="72" xlink:href="data:image/png;base64,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"/>
+    <image id="illustration_specialized-cta-banner2-Desktop__y" width="72" height="72" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEXf5/Te5/Tf5vTe5/Q5KB4/LiLLpYdEMiYyIhfrx67jvqNHNirnwqjwzrVqVEe1j3LBm37y0rruyrHbtppXQzfEn4PTrpFjT0PpxatMOi2qhGneuZ1fSjyhfWJRPTG8lXjQqo2qinPWsZQpGhB0XEzGydCeeF6hnZyqqava4ezw2cl3Z1tmYV6GblvN0tuVc1itlIS9sal8dHCGZEq9pZX54dDX2uHBv8KOiIXVvq6CfXzXyL9OSke4mYOSkZXo5+fhdrdKAAAAA3RSTlO/v48qLlE1AAAENUlEQVR4nO3XeW+rOBAA8LeLuQkmgCEc5gpHCEnI1dxpv/+32nF6rFZqu077/nlSR1WrSuGnmbE9Jr+E3xN//fqBfqA/DVpUgtCemqr9HrQ46CehMsWDO/kOVB18HflrWVF0cf1lqJ2szTgRkaKMx4EuXhaLL0HtpDNN39VFNB6LrhuIyO++Ai3WJjgxPK8gN45ZZmOxuh/al+CwwoDxfRB1JnZ3Qo+TyoSnoTBZSXwm+oksgilXu3ugRTAr49j3oUHINW+OG+iyjJB8aJo7oDVSguS5LzLLB8Qk0HUZibq7dltuaC8jRdaBgoSC+BbMAUgOEoQabsiUYX1ERumK7rpuDGuvP0MJQD4vtECQkYIQULIiBgnEzQFIB0iU95zQBMmwZRSwRFhx4Jghwx8RBUkA5Z04oUcGwaGAYGeD5QbBVl8OAhl+uXdAkJIcl5u+7qFh6LlOyAswRQ9QxQkpkBEKsyLSRqptG04mSZJXOJGXboIxAmjCBzUAKb3kOZoxsgeDIYvBwFYNzSmkHlJ7bwO822yAAusGqfZg+CLZ6kiLioz4os6bUTUW0eZf6C2jZ4iKssLZox1A9A0a/AeSCIbN1fJBAqwRfoWYNICwWY8iT7KwK+sCJ3RRkhdodJOenRE0m0GmOOOFOsV8g0C6BTivEOLd2cJJ2bxAxohR7Ic5EUApLscTXuhx3AOU9/lWG72EYbxCeTle8EHteaJQbM1hfMT+PC80DTLTNO+az8suTfMNEvigLXFEmpJlTuclzMYODodTeKZ7izgNN7MdH4T7zKT4Ssg8ThKzpHlKrBR3ZlnOwzy/4nLuHbmgLA19KC0/XCokz0511827cr7puiDwc3LNS6leckFHKXTDJWl25uVy6arcsghJ82bWXHS/oQCF4ZYLOmfYDUk0fTqs16fmaZVlnkSuT+vZbLbeTbbLkpIzF7QrUjfcHocP56ZZTaeqZg/VyJmuDodm9TQ8bstc2nFBgkNiCtD0gQVAI9uIjOnD8XieThmUFgIfdJ74NSaOOhzCg6oWRbATHZu58K9zNaUzJ9RuzTkmnqbCBIFB6zkwhhwNDq89iiRMu23LCQltU2Iri9ictY3McowizTQ4varmEdzP37vWPrj7d35oZQ6bRqpBqAVjUYJOqUaUWXn5/pvkB681E5pKBZtr6qjoN5tN7cBEGWkObNZSuAdqQ2gS3EbwtOFYOC3YRGGTFtPVXZCwYilFt4F06zIbANBzK1wK90FtGMJog4WX0pR4BDoWsSsE14s7IWFR52xIwnqHdV3TMIPL0cJ0K9wLCfse5kcG1WAWxGPjmn5U2Kevx/s6TC0pyyRCCFz+MAHqj51PX9grGmKLGYyxoMSV8DVI2C3rEKcWRIpzSivhqxCUl/c0hKA1XX36QY5vR6tlni+3+1b4JsQbP9AP9AP9D/Sb4u9/AFNJqkr5b2tOAAAAAElFTkSuQmCC"/>
+    <image id="illustration_specialized-cta-banner2-Desktop__z" width="72" height="72" xlink:href="data:image/png;base64,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"/>
+    <clipPath id="illustration_specialized-cta-banner2-Desktop__a">
+      <path fill="#fff" d="M0 0h654v366H0z"/>
+    </clipPath>
+    <clipPath id="illustration_specialized-cta-banner2-Desktop__j">
+      <rect x="106.219" y="162.062" width="280" height="175" rx="12" transform="rotate(-7.133 106.219 162.062)" fill="#fff"/>
+    </clipPath>
+    <radialGradient id="illustration_specialized-cta-banner2-Desktop__b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 88 -126.733 0 146 44)">
+      <stop stop-color="#B9C9F5" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

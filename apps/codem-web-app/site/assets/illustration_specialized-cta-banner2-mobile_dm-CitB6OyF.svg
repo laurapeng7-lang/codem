@@ -1,0 +1,173 @@
+<svg width="393" height="295" viewBox="0 0 393 295" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g clip-path="url(#illustration_specialized-cta-banner2-Mobile__a)">
+    <circle cx="77.5" cy="107.5" r="72.5" fill="url(#illustration_specialized-cta-banner2-Mobile__b)" fill-opacity=".25"/>
+    <circle cx="77.5" cy="107.5" r="72.318" stroke="url(#illustration_specialized-cta-banner2-Mobile__c)" stroke-opacity=".1" stroke-width=".365"/>
+    <circle cx="78.5" cy="113.5" r="47.5" fill="url(#illustration_specialized-cta-banner2-Mobile__d)"/>
+    <circle cx="78.5" cy="113.5" r="47.5" fill="#293141"/>
+    <g filter="url(#illustration_specialized-cta-banner2-Mobile__e)">
+      <path d="M236.757 46.56a8 8 0 0 1 9.947-5.391l131.31 39.01a8 8 0 0 1 5.39 9.947l-24.158 81.316a7.999 7.999 0 0 1-9.947 5.39L217.99 137.823a8.001 8.001 0 0 1-5.391-9.947l24.158-81.317Z" fill="#5C5B80"/>
+    </g>
+    <mask id="illustration_specialized-cta-banner2-Mobile__f" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="212" y="40" width="172" height="138">
+      <path d="M236.745 46.6a8.042 8.042 0 0 1 9.999-5.42l131.23 38.987a8.041 8.041 0 0 1 5.418 9.998l-24.134 81.237a8.04 8.04 0 0 1-9.998 5.418l-131.23-38.986a8.04 8.04 0 0 1-5.419-9.998l24.134-81.237Z" fill="#6E6D92"/>
+    </mask>
+    <g mask="url(#illustration_specialized-cta-banner2-Mobile__f)">
+      <rect x="266.466" y="60.705" width="97.352" height="12.169" rx="2.716" transform="rotate(16.314 266.466 60.705)" fill="url(#illustration_specialized-cta-banner2-Mobile__g)" fill-opacity=".3"/>
+      <path d="M251.636 64.595a.215.215 0 0 0-.267.146l-.256.87a.214.214 0 0 0 .145.268l.871.256a.215.215 0 0 0 .267-.146l.256-.87a.216.216 0 0 0-.146-.268l-.87-.256Zm2.043.825a.214.214 0 0 1 .266-.145l.871.256a.216.216 0 0 1 .146.266l-.256.871a.215.215 0 0 1-.267.146l-.871-.256a.216.216 0 0 1-.146-.267l.257-.87Z" fill="#807FA2"/>
+      <path d="m257.32 58.18-6.378-1.875a.535.535 0 0 0-.614.246l-3.166 5.482a.462.462 0 0 0-.056.136l-.975 3.317a.535.535 0 0 0 .362.664l9.239 2.717a.534.534 0 0 0 .664-.362l.981-3.337a.523.523 0 0 0 .021-.187l.306-6.261a.536.536 0 0 0-.384-.54Zm-9.933 7.096.668-2.27 8.066 2.373-.667 2.268-8.067-2.371Z" fill="#807FA2"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M329.739 206.687c23.375-26.054 21.203-66.125-4.851-89.5s-66.124-21.203-89.499 4.851-21.203 66.124 4.851 89.499 66.124 21.204 89.499-4.85Zm-13.761-12.346c16.557-18.455 15.019-46.838-3.436-63.395-18.455-16.557-46.838-15.019-63.396 3.436-16.557 18.455-15.019 46.838 3.436 63.395 18.455 16.558 46.838 15.019 63.396-3.436Z" fill="#E4E4F1" fill-opacity=".06"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M312.802 130.649c-18.618-16.704-47.252-15.152-63.956 3.466-16.703 18.618-15.151 47.252 3.467 63.956s47.252 15.152 63.956-3.466l13.168 11.814c-23.229 25.891-63.048 28.049-88.939 4.82-25.891-23.228-28.049-63.047-4.82-88.938 23.229-25.891 63.048-28.05 88.939-4.821 8.814 7.908 14.891 17.762 18.138 28.335l-16.911 5.195c-2.331-7.588-6.685-14.658-13.042-20.361Z" fill="#9594B8" fill-opacity=".56"/>
+    </g>
+    <g filter="url(#illustration_specialized-cta-banner2-Mobile__h)">
+      <path d="M161.482 97.282a8 8 0 0 1 8.566-7.39l152.479 11.237a8 8 0 0 1 7.39 8.566l-6.955 94.376a8 8 0 0 1-8.566 7.39l-152.479-11.237a8 8 0 0 1-7.39-8.566l6.955-94.376Z" fill="#E4DAC9"/>
+      <path d="M161.482 97.282a8 8 0 0 1 8.566-7.39l152.479 11.237a8 8 0 0 1 7.39 8.566l-6.955 94.376a8 8 0 0 1-8.566 7.39l-152.479-11.237a8 8 0 0 1-7.39-8.566l6.955-94.376Z" fill="#C2AD8B"/>
+      <path d="M161.656 97.295a7.825 7.825 0 0 1 8.379-7.229l152.479 11.237a7.825 7.825 0 0 1 7.229 8.379l-6.955 94.376a7.825 7.825 0 0 1-8.379 7.229L161.93 200.05a7.825 7.825 0 0 1-7.229-8.379l6.955-94.376Z" stroke="#000" stroke-opacity=".1" stroke-width=".35"/>
+    </g>
+    <rect x="172.845" y="127.542" width="140.169" height="33.293" rx="16.646" transform="rotate(4.215 172.845 127.542)" fill="#F8F9FA" fill-opacity=".46" stroke="#E9E9E9" stroke-width=".414"/>
+    <circle cx="294.433" cy="152.782" transform="rotate(3.046 294.433 152.782)" fill="#65AF71" r="10.482"/>
+    <path d="M293.187 155.323c2.159 1.269 3.963 1.171 5.201.917a.776.776 0 0 0 .605-.681l.099-.877a.811.811 0 0 0-.658-.889l-1.374-.253a.809.809 0 0 0-.752.257l-.286.32a.545.545 0 0 1-.42.193c-.308-.012-.79-.1-1.512-.524-.722-.425-1.033-.803-1.193-1.067a.54.54 0 0 1-.036-.46l.141-.405a.81.81 0 0 0-.141-.782l-.89-1.078a.811.811 0 0 0-1.097-.142l-.718.513a.778.778 0 0 0-.301.86c.38 1.205 1.172 2.829 3.332 4.098Z" fill="#fff"/>
+    <g filter="url(#illustration_specialized-cta-banner2-Mobile__i)">
+      <g clip-path="url(#illustration_specialized-cta-banner2-Mobile__j)">
+        <rect x="52.159" y="150.84" width="212.786" height="132.991" rx="9" transform="rotate(-8.44 52.16 150.84)" fill="#1A1A1A"/>
+        <rect x="72.662" y="206.185" width="188.467" height="63.076" rx="7" transform="rotate(-8.44 72.662 206.185)" fill="#323438"/>
+        <rect x="82.321" y="214.344" width="132.19" height="10.268" rx="2.593" transform="rotate(-8.67 82.32 214.344)" fill="url(#illustration_specialized-cta-banner2-Mobile__k)" fill-opacity=".2"/>
+        <rect x="86.23" y="236.577" width="7.02" height="7.02" rx="1.911" transform="rotate(-8.44 86.23 236.577)" stroke="#fff" stroke-opacity=".3" stroke-width=".546"/>
+        <path d="M98.387 239.384c1.605-1.549 3.744-3.001 5.88-4.229.692-.398 3.77-2.175 4.847-1.332.549.429.433 1.23.308 1.784-.109.487-.308 1.015-.498 1.496-.157.394-.625 1.062-.596 1.481.023.334 1.173-.109 1.261-.14 2.304-.817 4.393-1.909 6.49-2.959.607-.304 6.682-3.556 7.06-2.16.162.595-.216 1.253-.633 1.815-.307.413-.583.684-.932 1.079-.145.165-.71.639-.03.485 1.715-.388 3.353-1.011 5.067-1.422.936-.225 1.653-.498 2.24-.057.521.391 1.691.306 2.428.267 3.323-.175 6.62-.966 9.82-1.761 3.836-.953 7.635-1.995 11.459-2.974.783-.201 1.573-.414 2.382-.534" stroke="#fff" stroke-opacity=".3" stroke-width=".546" stroke-linecap="round"/>
+        <rect x="88.108" y="249.98" width="7.02" height="7.02" rx="1.911" transform="rotate(-8.44 88.108 249.98)" stroke="#fff" stroke-opacity=".3" stroke-width=".546"/>
+        <path d="M100.505 253.459c.818-.573 5.978-4.266 6.104-3.961.31.748.657 1.706 1.501 1.986 2.2.731 3.896-1.855 5.449-3.017.977-.731 1.424-1.357 1.978-.177.357.762.512 1.714 1.433 1.987 3.952-1.891 17.177-2.588 23.38-3.508" stroke="#fff" stroke-opacity=".3" stroke-width=".546" stroke-linecap="round"/>
+        <rect x=".163" y=".121" width="89.626" height="29.436" rx="14.718" transform="rotate(-8.44 1076.501 -1020.472)" fill="#323438"/>
+        <rect x=".163" y=".121" width="89.626" height="29.436" rx="14.718" transform="rotate(-8.44 1076.501 -1020.472)" stroke="#42454A" stroke-width=".288"/>
+        <rect width="17.761" height="17.761" rx="8.881" transform="rotate(-8.44 1113.885 -1064.114)" fill="#194294"/>
+        <path d="M174.082 157.736a.659.659 0 0 1 .555-.748l4.554-.675a.658.658 0 0 1 .748.554l.114.772.901-.698a.658.658 0 0 1 1.054.423l.442 2.981a.658.658 0 0 1-.886.711l-1.064-.407.114.773a.657.657 0 0 1-.554.747l-4.555.676a.659.659 0 0 1-.747-.554l-.676-4.555Zm2.242 1.662a.657.657 0 1 0-.192-1.3.657.657 0 0 0 .192 1.3Z" fill="#4C88FF"/>
+        <mask id="illustration_specialized-cta-banner2-Mobile__l" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="202" y="145" width="17" height="19">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M216.527 147.185a8.88 8.88 0 1 0 1.912 12.884 9.74 9.74 0 0 1-3.417-6.077 9.73 9.73 0 0 1 1.505-6.807Z" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#illustration_specialized-cta-banner2-Mobile__l)">
+          <path d="M202.725 155.817a8.88 8.88 0 1 1 17.57-2.607 8.88 8.88 0 0 1-17.57 2.607Z" fill="url(#illustration_specialized-cta-banner2-Mobile__m)"/>
+          <path d="M202.725 155.817a8.88 8.88 0 1 1 17.57-2.607 8.88 8.88 0 0 1-17.57 2.607Z" fill="#000" fill-opacity=".1"/>
+        </g>
+        <mask id="illustration_specialized-cta-banner2-Mobile__n" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="215" y="143" width="17" height="19">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M229.703 145.23a8.88 8.88 0 1 0 1.912 12.883 9.734 9.734 0 0 1-3.417-6.077 9.728 9.728 0 0 1 1.505-6.806Z" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#illustration_specialized-cta-banner2-Mobile__n)">
+          <path d="M215.9 153.861a8.88 8.88 0 0 1 7.481-10.087 8.88 8.88 0 0 1 10.087 7.481 8.88 8.88 0 0 1-7.481 10.087 8.88 8.88 0 0 1-10.087-7.481Z" fill="url(#illustration_specialized-cta-banner2-Mobile__o)"/>
+          <path d="M215.9 153.861a8.88 8.88 0 0 1 7.481-10.087 8.88 8.88 0 0 1 10.087 7.481 8.88 8.88 0 0 1-7.481 10.087 8.88 8.88 0 0 1-10.087-7.481Z" fill="#000" fill-opacity=".1"/>
+        </g>
+        <mask id="illustration_specialized-cta-banner2-Mobile__p" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="228" y="141" width="19" height="19">
+          <path d="M246.647 149.3c.719 4.851-2.63 9.368-7.481 10.087a8.88 8.88 0 0 1-10.088-7.481 8.88 8.88 0 0 1 7.481-10.087 8.88 8.88 0 0 1 10.088 7.481Z" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#illustration_specialized-cta-banner2-Mobile__p)">
+          <path d="M229.074 151.906a8.88 8.88 0 0 1 7.481-10.087 8.88 8.88 0 0 1 10.088 7.481 8.88 8.88 0 0 1-7.481 10.087 8.88 8.88 0 0 1-10.088-7.481Z" fill="url(#illustration_specialized-cta-banner2-Mobile__q)"/>
+          <path d="M229.074 151.906a8.88 8.88 0 0 1 7.481-10.087 8.88 8.88 0 0 1 10.088 7.481 8.88 8.88 0 0 1-7.481 10.087 8.88 8.88 0 0 1-10.088-7.481Z" fill="#000" fill-opacity=".1"/>
+        </g>
+      </g>
+      <rect x="52.348" y="150.98" width="212.453" height="132.658" rx="8.834" transform="rotate(-8.44 52.348 150.98)" stroke="#000" stroke-opacity=".1" stroke-width=".333"/>
+    </g>
+    <path d="M77.546 52.575a.688.688 0 0 0-.764.003c-2.163 1.413-12.822 9.323-13.571 28.49-.088 2.239-.19 5.25-.041 7.797.343 5.863.711 9.892 1.23 11.9l-3.38-10.39c-.175-.535-.823-.74-1.249-.372-4.353 3.757-7.271 10.073-7.271 16.738 0 3.736 1.9 8.091 3.43 12.476.241.694 1.23.779 1.616.154 3.686-5.976 9.476-9.167 19.935-9.167 11.217 0 16.027 3.142 19.373 9.029.37.653 1.37.565 1.57-.159 1.195-4.337 2.076-8.638 2.076-12.333 0-8.665-3.257-13.877-8.989-17.457.081-2.498-.27-6.022-.395-8.216-1.104-19.497-11.44-27.123-13.57-28.493Z" fill="url(#illustration_specialized-cta-banner2-Mobile__r)"/>
+    <path d="m64.214 100.826.377-.11c-.513-1.986-.88-5.994-1.225-11.863-.149-2.535-.046-5.537.041-7.778l-.196-.007.196.007c.746-19.083 11.354-26.942 13.483-28.332a.491.491 0 0 1 .55-.003c2.09 1.346 12.38 8.92 13.48 28.339.033.594.083 1.282.137 2.018.145 2.002.317 4.363.258 6.18l-.004.114.096.06c2.843 1.775 5.063 3.95 6.575 6.748 1.512 2.799 2.321 6.234 2.321 10.542 0 3.668-.875 7.948-2.069 12.28-.148.537-.915.632-1.21.115-1.686-2.968-3.75-5.258-6.816-6.801-3.061-1.54-7.102-2.328-12.727-2.328-5.248 0-9.342.801-12.593 2.362-3.253 1.563-5.649 3.883-7.51 6.898-.304.494-1.079.413-1.263-.115-.286-.819-.583-1.635-.879-2.444-.498-1.365-.99-2.712-1.407-4.032-.665-2.098-1.132-4.098-1.132-5.935 0-6.611 2.896-12.872 7.203-16.589.311-.269.798-.128.932.284l3.382 10.39Z" stroke="url(#illustration_specialized-cta-banner2-Mobile__s)" stroke-opacity=".58" stroke-width=".393"/>
+    <g filter="url(#illustration_specialized-cta-banner2-Mobile__t)">
+      <path d="M79.164 139.17c.415-4.703 4.098-3.407 4.098-3.407s4.759 1.158 4.759 6.002c0 9.112-7.33 21.823-8.857 31.581-4.325-15.422-1.38-18.54 0-34.176Z" fill="url(#illustration_specialized-cta-banner2-Mobile__u)" fill-opacity=".4"/>
+    </g>
+    <g filter="url(#illustration_specialized-cta-banner2-Mobile__v)">
+      <path d="M68.555 127.489c.41-9.837 9.95-12.977 9.95-12.977s9.948 2.846 9.948 12.978c0 5.238.835 8.745-2.593 30.714-.986 6.319-4.149 53.333-4.915 57.104-1.663 8.191-.702 21.197-4.166-21.63-3.465-42.827-8.522-59.042-8.224-66.189Z" fill="url(#illustration_specialized-cta-banner2-Mobile__w)"/>
+    </g>
+    <circle cx="77.127" cy="72.449" fill="#293141" r="4.924"/>
+  </g>
+  <defs>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__c" x1="77.5" y1="35" x2="77.5" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9E5F4"/>
+      <stop offset="1" stop-color="#F0F3F7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__d" x1="78.5" y1="66" x2="78.5" y2="116.243" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8D8FA" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__g" x1="266.466" y1="66.79" x2="363.59" y2="68.674" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__k" x1="82.321" y1="219.478" x2="199.048" y2="219.478" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8C9AA4"/>
+      <stop offset="1" stop-color="#9AAAB4" stop-opacity=".1"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__r" x1="76.5" y1="52.342" x2="76.5" y2="121.122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5F71CB"/>
+      <stop offset="1" stop-color="#273E6B"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__s" x1="77.287" y1="52.342" x2="77.68" y2="75.948" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#93AEF6"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="illustration_specialized-cta-banner2-Mobile__u" x1="80.917" y1="124.127" x2="80.917" y2="165.487" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3F9FF"/>
+      <stop offset=".246" stop-color="#FFE2B9"/>
+      <stop offset=".25" stop-color="#F3F6FF" stop-opacity=".8"/>
+      <stop offset=".775" stop-color="#FEEDB9" stop-opacity=".581"/>
+      <stop offset="1" stop-color="#FEEDB9" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="illustration_specialized-cta-banner2-Mobile__e" x="201.796" y="34.554" width="192.411" height="157.269" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4.188"/>
+      <feGaussianBlur stdDeviation="5.235"/>
+      <feColorMatrix values="0 0 0 0 0.121569 0 0 0 0 0.137255 0 0 0 0 0.160784 0 0 0 0.08 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_27476_6569"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_27476_6569" result="shape"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Mobile__h" x="142.879" y="82.894" width="198.687" height="144.865" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4.65"/>
+      <feGaussianBlur stdDeviation="5.813"/>
+      <feColorMatrix values="0 0 0 0 0.121569 0 0 0 0 0.137255 0 0 0 0 0.160784 0 0 0 0.1 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_27476_6569"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_27476_6569" result="shape"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Mobile__i" x="36.803" y="108.681" width="260.711" height="193.492" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4.426"/>
+      <feGaussianBlur stdDeviation="7.678"/>
+      <feColorMatrix values="0 0 0 0 0.121569 0 0 0 0 0.137255 0 0 0 0 0.160784 0 0 0 0.1 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_27476_6569"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_27476_6569" result="shape"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Mobile__t" x="72.571" y="131.274" width="19.776" height="46.398" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="2.163" result="effect1_foregroundBlur_27476_6569"/>
+    </filter>
+    <filter id="illustration_specialized-cta-banner2-Mobile__v" x="65.395" y="111.364" width="26.295" height="115.55" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.574" result="effect1_foregroundBlur_27476_6569"/>
+    </filter>
+    <pattern id="illustration_specialized-cta-banner2-Mobile__m" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#illustration_specialized-cta-banner2-Mobile__x" transform="scale(.01389)"/>
+    </pattern>
+    <pattern id="illustration_specialized-cta-banner2-Mobile__o" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#illustration_specialized-cta-banner2-Mobile__y" transform="scale(.01389)"/>
+    </pattern>
+    <pattern id="illustration_specialized-cta-banner2-Mobile__q" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#illustration_specialized-cta-banner2-Mobile__z" transform="scale(.01389)"/>
+    </pattern>
+    <image id="illustration_specialized-cta-banner2-Mobile__x" width="72" height="72" xlink:href="data:image/png;base64,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"/>
+    <image id="illustration_specialized-cta-banner2-Mobile__y" width="72" height="72" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEXf5/Te5/Tf5vTe5/Q5KB4/LiLLpYdEMiYyIhfrx67jvqNHNirnwqjwzrVqVEe1j3LBm37y0rruyrHbtppXQzfEn4PTrpFjT0PpxatMOi2qhGneuZ1fSjyhfWJRPTG8lXjQqo2qinPWsZQpGhB0XEzGydCeeF6hnZyqqava4ezw2cl3Z1tmYV6GblvN0tuVc1itlIS9sal8dHCGZEq9pZX54dDX2uHBv8KOiIXVvq6CfXzXyL9OSke4mYOSkZXo5+fhdrdKAAAAA3RSTlO/v48qLlE1AAAENUlEQVR4nO3XeW+rOBAA8LeLuQkmgCEc5gpHCEnI1dxpv/+32nF6rFZqu077/nlSR1WrSuGnmbE9Jr+E3xN//fqBfqA/DVpUgtCemqr9HrQ46CehMsWDO/kOVB18HflrWVF0cf1lqJ2szTgRkaKMx4EuXhaLL0HtpDNN39VFNB6LrhuIyO++Ai3WJjgxPK8gN45ZZmOxuh/al+CwwoDxfRB1JnZ3Qo+TyoSnoTBZSXwm+oksgilXu3ugRTAr49j3oUHINW+OG+iyjJB8aJo7oDVSguS5LzLLB8Qk0HUZibq7dltuaC8jRdaBgoSC+BbMAUgOEoQabsiUYX1ERumK7rpuDGuvP0MJQD4vtECQkYIQULIiBgnEzQFIB0iU95zQBMmwZRSwRFhx4Jghwx8RBUkA5Z04oUcGwaGAYGeD5QbBVl8OAhl+uXdAkJIcl5u+7qFh6LlOyAswRQ9QxQkpkBEKsyLSRqptG04mSZJXOJGXboIxAmjCBzUAKb3kOZoxsgeDIYvBwFYNzSmkHlJ7bwO822yAAusGqfZg+CLZ6kiLioz4os6bUTUW0eZf6C2jZ4iKssLZox1A9A0a/AeSCIbN1fJBAqwRfoWYNICwWY8iT7KwK+sCJ3RRkhdodJOenRE0m0GmOOOFOsV8g0C6BTivEOLd2cJJ2bxAxohR7Ic5EUApLscTXuhx3AOU9/lWG72EYbxCeTle8EHteaJQbM1hfMT+PC80DTLTNO+az8suTfMNEvigLXFEmpJlTuclzMYODodTeKZ7izgNN7MdH4T7zKT4Ssg8ThKzpHlKrBR3ZlnOwzy/4nLuHbmgLA19KC0/XCokz0511827cr7puiDwc3LNS6leckFHKXTDJWl25uVy6arcsghJ82bWXHS/oQCF4ZYLOmfYDUk0fTqs16fmaZVlnkSuT+vZbLbeTbbLkpIzF7QrUjfcHocP56ZZTaeqZg/VyJmuDodm9TQ8bstc2nFBgkNiCtD0gQVAI9uIjOnD8XieThmUFgIfdJ74NSaOOhzCg6oWRbATHZu58K9zNaUzJ9RuzTkmnqbCBIFB6zkwhhwNDq89iiRMu23LCQltU2Iri9ictY3McowizTQ4varmEdzP37vWPrj7d35oZQ6bRqpBqAVjUYJOqUaUWXn5/pvkB681E5pKBZtr6qjoN5tN7cBEGWkObNZSuAdqQ2gS3EbwtOFYOC3YRGGTFtPVXZCwYilFt4F06zIbANBzK1wK90FtGMJog4WX0pR4BDoWsSsE14s7IWFR52xIwnqHdV3TMIPL0cJ0K9wLCfse5kcG1WAWxGPjmn5U2Kevx/s6TC0pyyRCCFz+MAHqj51PX9grGmKLGYyxoMSV8DVI2C3rEKcWRIpzSivhqxCUl/c0hKA1XX36QY5vR6tlni+3+1b4JsQbP9AP9AP9D/Sb4u9/AFNJqkr5b2tOAAAAAElFTkSuQmCC"/>
+    <image id="illustration_specialized-cta-banner2-Mobile__z" width="72" height="72" xlink:href="data:image/png;base64,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"/>
+    <radialGradient id="illustration_specialized-cta-banner2-Mobile__b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 64.1206 -92.343 0 77.864 39.372)">
+      <stop stop-color="#B9C9F5" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="illustration_specialized-cta-banner2-Mobile__w" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 58.8336 -26.701 0 78.938 118.405)">
+      <stop stop-color="#6F86BC" stop-opacity=".18"/>
+      <stop offset=".187" stop-color="#B57451" stop-opacity=".62"/>
+      <stop offset=".511" stop-color="#D3B855" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#E6E6E6" stop-opacity=".03"/>
+    </radialGradient>
+    <clipPath id="illustration_specialized-cta-banner2-Mobile__a">
+      <path fill="#fff" d="M0 0h393v295H0z"/>
+    </clipPath>
+    <clipPath id="illustration_specialized-cta-banner2-Mobile__j">
+      <rect x="52.159" y="150.84" width="212.786" height="132.991" rx="9" transform="rotate(-8.44 52.16 150.84)" fill="#fff"/>
+    </clipPath>
+  </defs>
+</svg>

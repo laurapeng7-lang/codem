@@ -1,0 +1,13 @@
+{
+  "name": "codem-web-app-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npx serve site -l 4173",
+    "preview": "npx serve dist -l 4173"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
