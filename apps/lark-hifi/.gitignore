@@ -1,3 +1,5 @@
 dist/
 outputs/
 work/
+.vercel
+.env*

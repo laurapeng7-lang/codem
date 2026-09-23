@@ -10,3 +10,5 @@ output/
 .env.*
 !.env.example
 !.env.*.example
+.vercel
+.env*
